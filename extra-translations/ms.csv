@@ -1,0 +1,1467 @@
+original,translation
+"X - выбор, Y - инверсия выбора, (+) - меню","X - Pilih, Y - Songsang pilihan, (+) - Menu"
+"X - выбор, Y - инверсия выбора, (+) - меню, L3 - запуск","X - Pilih, Y - Songsang pilihan, (+) - Menu, L3 - Lancar"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка","X - Pilih, Y - Songsang pilihan, (+) - Menu, R3 - Susun"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка, L3 - запуск","X - Pilih, Y - Songsang pilihan, (+) - Menu, R3 - Susun, L3 - Lancar"
+"X - выбор, Y - инвертирование выбора, A - открыть, (-) - 2ая панель","X - Pilih, Y - Songsang pilihan, A - Buka, (-) - Panel ke-2"
+"X - выбор, Y - инвертирование выбора, ⬅/➡ - смена панели, (-) - закрыть","X - Pilih, Y - Songsang pilihan, ⬅/➡ - Tukar panel, (-) - Tutup"
+"ZL/ZR - смена даты, Y - период, X - сортировка, (+) - выбрать пользователя","ZL/ZR - Tukar tarikh, Y - Tempoh, X - Susun, (+) - Pilih pengguna"
+. Время игры \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,. Masa main \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+Невозможно смонтировать системный раздел,Tidak dapat melekapkan sekatan sistem
+"DPAD или стики для перемещения, (+) - Настройки","DPAD atau kayu ria untuk gerak, (+) - Tetapan"
+Ошибка создания файла: {},Ralat mencipta fail: {}
+Подключение к серверу...,Menyambung ke pelayan...
+   Это действие будет нельзя отменить   ,   Tindakan ini tidak boleh dibuat asal   
+SDK подменён,SDK diganti
+Точка доступа,Titik capaian
+Традиционный китайский,Bahasa Cina Tradisional
+Транзисторов:      {:>3},Transistor:       {:>3}
+Требуется вручную разрешить синхронизацию времени через Интернет в настройках,Pengaktifan manual penyegerakan masa melalui Internet dalam tetapan diperlukan
+Тёмная комната,Bilik gelap
+Убрать из любимых,Buang daripada kegemaran
+Увеличить размер (в МБ),Tambah saiz (dalam MB)
+"Уверены, что хотите продолжить?",Adakah anda pasti mahu meneruskan?
+Удаление Wi-Fi профиля,Memadam profil Wi-Fi
+Удаление Wi-Fi профиля...,Memadam profil Wi-Fi...
+Удаление {} бекапа,Memadam {} sandaran
+Удаление {} бекапов,Memadam {} sandaran
+Удаление {} сохранений,Memadam {} simpanan
+Удаление {} сохранения,Memadam {} simpanan
+Удаление бекапов,Memadam sandaran
+Удаление записи об игре...,Memadam rekod permainan...
+Удаление игр,Memadam permainan
+Удаление игры целиком: [{}],Padam permainan penuh: [{}]
+Удаление каталога LFS,Memadam direktori LFS
+Удаление контента,Memadam kandungan
+Удаление настроек родительского контроля...,Memadam tetapan kawalan ibu bapa...
+Удаление не удалось.\n\nНажмите любую кнопку для продолжения,Pemadaman gagal.\n\nTekan mana-mana butang untuk teruskan
+Удаление неиспользуемого {}...,Memadam {} yang tidak digunakan...
+Удаление плейсхолдера...,Memadam pemegang tempat...
+Удаление пользователя,Memadam pengguna
+Удаление пользователя...,Memadam pengguna...
+Удаление ранее установленных файлов...,Memadam fail yang dipasang sebelum ini...
+Удаление родительского контроля,Memadam kawalan ibu bapa
+SaveFS очищена,SaveFS dikosongkan
+Удаление связи с Nintendo account...,Memadam pautan akaun Nintendo...
+Удаление сохранений,Memadam simpanan
+Удаление сохранения целиком,Memadam keseluruhan simpanan
+Удаление старого     {}...,Memadam {} lama...
+Удаление старого файла {}...,Memadam fail lama {}...
+Удаление старой записи об игре...,Memadam rekod permainan lama...
+Удаление старой папки {}...,Memadam folder lama {}...
+Удаление тайтла: [{}],Memadam judul: [{}]
+Удаление тикетов ({}),Memadam tiket ({})
+Удаление...,Memadam...
+Удалить,Padam
+Удалить LFS,Padam LFS
+Удалить сохранения,Padam simpanan
+Удалить старые бекапы,Padam sandaran lama
+Удаляется {} из {}...,Memadam {} daripada {}...
+Удаляется {}...,Memadam {}...
+Удаляется запись о контенте...,Memadam rekod kandungan...
+Удаляется запись об игре...,Memadam rekod permainan...
+Удаляется игра и весь связанный контент,Memadam permainan dan semua kandungan berkaitan
+Titlekey не может быть инициализирован,Titlekey tidak dapat dimulakan
+Удаляется папка LFS...,Memadam folder LFS...
+Удаляется пустая папка,Memadam folder kosong
+Удаляется сохранение {}...,Memadam simpanan {}...
+Удаляется старая запись о контенте...,Memadam rekod kandungan lama...
+Удаляется старый cnmt.nca...,Memadam cnmt.nca lama...
+Удаляется тикет: {}...,Memadam tiket: {}...
+Удаляются все объекты из альбома для игры,Memadam semua item daripada album permainan
+Удаляются все сохранения для игры,Memadam semua simpanan untuk permainan
+Удаляются сохранения...,Memadam data simpanan...
+"UID: {}, Ник: {}","UID: {}, Nama panggilan: {}"
+Удалённые,Dipadam
+Удачный экспорт,Eksport berjaya
+Уделение старого тикета...,Memadam tiket lama...
+Упаковка каталога в RomFS,Membungkus direktori ke dalam RomFS
+Упрощенный китайский,Bahasa Cina Ringkas
+Успешно разобран как PFS0 файл,Berjaya dihuraikan sebagai fail PFS0
+Устанавливается {},Memasang {}
+Установить как аватар...,Tetapkan sebagai avatar...
+Установка,Pemasangan
+Установка анлокера...,Memasang pembuka kunci...
+Установка завершена,Pemasangan selesai
+Установка игр (NAND),Pasang permainan (NAND)
+Установка игр (SD Card),Pasang permainan (Kad SD)
+Установка игры завершена,Pemasangan permainan selesai
+Установка обновлений игр,Pasang kemas kini permainan
+Установка прервана,Pemasangan tergendala
+Установка тайтлов ({}/{}),Memasang judul ({}/{})
+USB Соединение,Sambungan USB
+Установка ярлыка...,Memasang pintasan...
+Установлен,Dipasang
+Установленные,Dipasang
+Установленные homebrew,Homebrew dipasang
+Установленные homebrew ({}),Homebrew dipasang ({})
+Установленные игры,Permainan dipasang
+Установленные тикеты,Tiket dipasang
+Установленные тикеты ({}),Tiket dipasang ({})
+Файл повреждён и не может быть установлен. Не найдена сигнатура HEAD,Fail rosak dan tidak dapat dipasang. Tandatangan HEAD tidak ditemui
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе root,Fail rosak dan tidak dapat dipasang. Tandatangan HFS0 tidak ditemui dalam sekatan akar
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе secure,Fail rosak dan tidak dapat dipasang. Tandatangan HFS0 tidak ditemui dalam sekatan selamat
+Файл повреждён и не может быть установлен. Не найдена сигнатура PFS0,Fail rosak dan tidak dapat dipasang. Tandatangan PFS0 tidak ditemui
+Файл слишком большой для хранилища,Fail terlalu besar untuk storan
+Файл: {},Fail: {}
+Фиксация ФС...,FS commit...
+Финальный размер: {},Saiz akhir: {}
+Формирование списка...,Menjana senarai...
+Форсированный язык    : {},Bahasa dipaksa : {}
+Форсированный язык    : {} ({}),Bahasa dipaksa : {} ({})
+Форсировать язык,Paksa bahasa
+Французский,Bahasa Perancis
+"Х:{}, Т:{}, РЦ:{}","H:{}, T:{}, R:{}"
+Хранилища MTP,Storan MTP
+Хранилище только для чтения,Storan baca sahaja
+Целевая запись о контенте не найдена,Rekod kandungan sasaran tidak ditemui
+ЧАСТЬ КОНТЕНТА ОТСУТСТВУЕТ. ИГРА НЕ БУДЕТ РАБОТАТЬ,SEBAHAGIAN KANDUNGAN HILANG. PERMAINAN TIDAK AKAN BERFUNGSI
+Число транзисторов: {:>3},Bilangan transistor: {:>3}
+Число уникальных сыграных игр : {},Bilangan permainan unik dimainkan : {}
+Число ходов:        {:>3},Bilangan langkah:        {:>3}
+Чтение каталога...,Membaca direktori...
+Чтение списка файлов...,Membaca senarai fail...
+Что-то плохое грядёт,Sesuatu yang buruk akan datang
+Что-то пошло не так. Пропускаем оставшийся файл,Sesuatu tidak kena. Melangkau baki fail
+"Чтобы вернуться, нажмите B",Tekan B untuk kembali
+Шадок у Гиби,Orang Paya di Jiran Tetangga
+Экспорт SDK,Eksport SDK
+Экспортировать,Eksport
+Экспортировать SDK,Eksport SDK
+Январь,Januari
+Японский,Bahasa Jepun
+Ярлык для DBI,Pintasan untuk DBI
+да,ya
+не является LFS папкой,bukan folder LFS
+не является LFS папкой игры,bukan folder LFS permainan
+нет,tidak
+"ZL/ZR - смена даты, Y - период","ZL/ZR - tukar tarikh, Y - tempoh"
+"Получено: {}, (скорость не определена)","Diterima: {}, (kelajuan tidak ditentukan)"
+Игры добавлены в список исключений,Permainan ditambah ke senarai pengecualian
+Новых игр в список исключений добавлено не было,Tiada permainan baharu ditambah ke senarai pengecualian
+Просмотр МТР устройства [{}],Melihat peranti MTP [{}]
+Просмотр USB диска [{}],Melihat pemacu USB [{}]
+Заряд батареи (сырое значение) : {},Cas bateri (nilai mentah)  : {}
+ru,ms
+[CRC ОШИБКА ФАЙЛА],[RALAT CRC FAIL]
+Будет скачана и установлена прошивка системы из файла {}.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены,Perisian tegar sistem akan dimuat turun dan dipasang dari fail {}.\n\nTekan (+) untuk teruskan\nMana-mana butang lain untuk batal
+Распаковка архива не удалась,Pengekstrakan arkib gagal
+Сканирование архива не удалось,Pengimbasan arkib gagal
+Установить все обновления из этой папки,Pasang semua kemas kini dari folder ini
+Япония,Jepun
+Русский,Bahasa Rusia
+Февраль,Februari
+Октябрь,Oktober
+[HASH MISMATCH: GC ➡ eShop],[CINCANGAN TIDAK PADAN: GC ➡ eShop]
+Ноябрь,November
+Игрок,Pemain
+Время,Masa
+Контент,Kandungan
+[HASH: OK],[CINCANGAN: OK]
+Красная,Merah
+[HASH MISMATCH: Неисправимо],[CINCANGAN TIDAK PADAN: Tidak dapat dipulihkan]
+[ПРЕД],[SEBELUM]
+Альбом,Album
+Выход,Keluar
+и т.д...,dll...
+{} бекап,{} sandaran
+874,874
+Пишется тело: {}/{}MB \r,Menulis kandungan: {}/{}MB \r
+Пишется скриншот\n,Menulis tangkapan skrin\n
+Пишется таблица хешей\n,Menulis jadual cincangan\n
+Пишется подпись видео\n,Menulis tandatangan video\n
+Операция завершена\n,Operasi selesai\n
+"Будет скачана и установлена прошивка системы из файла {}.\n\nВНИМАНИЕ!!! Похоже, эта версия не поддерживается текущей атмосферой.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены",Perisian tegar sistem akan dimuat turun dan dipasang dari fail {}.\n\nAMARAN!!! Nampaknya versi ini tidak disokong oleh Atmosphere semasa.\n\nTekan (+) untuk teruskan\nTekan mana-mana butang lain untuk batal
+Копирование файла не удалось,Gagal menyalin fail
+Daybreak.nro не найден,Daybreak.nro tidak ditemui
+Изображение добавлено в альбом,Imej ditambah ke album
+Ошибка добавления изобржения в альбом: {},Ralat menambah imej ke album: {}
+Добавить в альбом,Tambah ke album
+Анализ mp4 файла,Menganalisis fail mp4
+Длительность: {},Tempoh: {}
+ОШИБКА! Файл не содержит один видео трек,RALAT! Fail tidak mengandungi satu trek video
+ОШИБКА! Файл не содержит один аудио трек,RALAT! Fail tidak mengandungi satu trek audio
+ОШИБКА! У видео трека неподдерживаемый кодек,RALAT! Trek video mempunyai kodek yang tidak disokong
+ОШИБКА! У аудио трека неподдерживаемый кодек,RALAT! Trek audio mempunyai kodek yang tidak disokong
+ОШИБКА! Аудио трек не стерео,RALAT! Trek audio bukan stereo
+[{}] Общий тикет для {},[{}] Tiket umum untuk {}
+ОШИБКА! У аудио трека неподходящая частота дискретизации,RALAT! Trek audio mempunyai kadar pensampelan tidak sesuai
+ОШИБКА! У видео трека неподходящая ширина,RALAT! Trek video mempunyai lebar tidak sesuai
+ОШИБКА! У видео трека неподходящая высота,RALAT! Trek video mempunyai ketinggian tidak sesuai
+ВНИМАНИЕ! Возможно видео поток содержит B-Frames. Файл может не воспроизводиться,AMARAN! Strim video mungkin mengandungi B-Frames. Fail mungkin tidak dapat dimainkan
+"Похоже, это не MP4 файл",Nampaknya ini bukan fail MP4
+Открыть как RomFS,Buka sebagai RomFS
+\x1b[31;1mГ\x1b[37;1m,\x1b[31;1mГ\x1b[37;1m
+\x1b[32;1mШ\x1b[37;1m,\x1b[32;1mШ\x1b[37;1m
+Ваша SD карта является подделкой. Рекомендуется заменить SD карту на проверенную.,Kad SD anda adalah palsu. Disyorkan untuk menggantikan kad SD dengan yang disahkan.
+[{}] Персональный тикет для {},[{}] Tiket peribadi untuk {}
+Кажется ваша SD карта является подделкой.\n\nВозможны проблемы с установкой игр.\nВ этом случае рекомендуется заменить SD карту на проверенную.,"Kad SD anda kelihatan palsu.\n\nMasalah pemasangan permainan mungkin berlaku.\nDalam kes ini, disyorkan untuk menggantikan kad SD dengan yang disahkan."
+Информация о SD карте,Maklumat kad SD
+[ПОДПИСЬ: DBI],[TANDATANGAN: DBI]
+.    Время игры    \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,.    Masa main    \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+"ZL/ZR смена даты, Y период, X сортировка, (+) выбрать пользователя","ZL/ZR tukar tarikh, Y tempoh, X susun, (+) pilih pengguna"
+[{}МБ] {}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,[{}MB] {}MB daripada {}MB ({:.2f} MB/saat)\x1b[0K\r
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка, L3 запуск","X pilih, Y songsang pilihan, (+) menu, R3 susun, L3 lancar"
+Создать все известные ({}),Cipta semua yang diketahui ({})
+"X выбор, Y обратить выбор, (+) меню, L3 запуск","X pilih, Y songsang pilihan, (+) menu, L3 lancar"
+"DPAD или стики для перемещения, (+) Настройки","DPAD atau kayu ria untuk gerak, (+) Tetapan"
+Просмотр HTTP/FTP/Github сервера...,Melayari pelayan HTTP/FTP/Github...
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка","X pilih, Y songsang pilihan, (+) menu, R3 susun"
+"X выбор, Y обр. выбор, (+) меню","X pilih, Y songsang pilihan, (+) menu"
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню","X pilih, Y songsang pilihan, A buka, (-) panel ke-2, (+) menu"
+"X выбор, Y обр. выбор, ⬅/➡ смена панели, (-) закрыть, (+) меню","X pilih, Y nyahpilih, ⬅/➡ tukar panel, (-) tutup, (+) menu"
+[ДЕЛЬТА ФРАГМЕНТ НЕ НУЖЕН],[SERPIHAN DELTA TIDAK DIPERLUKAN]
+[КОНТЕНТ ОТСУТСТВУЕТ],[KANDUNGAN HILANG]
+[НЕ СОЗДАТЬ ПЛЕЙСХОЛДЕР],[JANGAN CIPTA PEMEGANG TEMPAT]
+[НЕДОСТАТОЧНО МЕСТА],[RUANG TIDAK MENCUKUPI]
+[НЕИЗВЕСТНОЕ СЖАТИЕ],[PEMAMPATAN TIDAK DIKETAHUI]
+[ОТСУТСТВУЕТ],[HILANG]
+[ОШБК],[RALAT]
+[ОШИБКА NCA MAGIC],[RALAT MAGIC NCA]
+[ОШИБКА ЗАПИСИ В ПЛЕЙСХОЛДЕР],[RALAT TULIS PEMEGANG TEMPAT]
+[ОШИБКА РАСПАКОВКИ ZSTD: {}],[RALAT PENYAHMAMPATAN ZSTD: {}]
+[ОШИБКА РАСПАКОВКИ],[RALAT PENGEKSTRAKAN]
+[ОШИБКА],[RALAT]
+[ОШИБКА] Отсутствует URL списка обновлений,[RALAT] URL senarai kemas kini tiada
+[ПЕРЕДАЧА OK],[PINDAHAN OK]
+[ПЕРЕДАЧА ПРЕРВАНА],[PINDAHAN TERGENDALA]
+[ПОВРЕЖДЁННЫЙ NCA],[NCA ROSAK]
+[ПОДПИСЬ: OK],[TANDATANGAN: OK]
+[ПОДПИСЬ: XCI➡NSP],[TANDATANGAN: XCI➡NSP]
+[ПОДПИСЬ: Поддельная],[TANDATANGAN: Palsu]
+[СТАРАЯ ПРОШИВКА],[PERISIAN TEGAR LAMA]
+[ТРЕБУЕТСЯ РЕЖИМ ТАЙТЛА],[MOD JUDUL DIPERLUKAN]
+[ФАЙЛ ПОВРЕЖДЁН],[FAIL ROSAK]
+[ХЕШ ИСПРАВЛЕН],[CINCANGAN DIBAIKI]
+[ХЕШ НЕ СОВПАДАЕТ],[CINCANGAN TIDAK PADAN]
+\nНачало обработки dlc {}: {:016X},\nMemulakan pemprosesan DLC {}: {:016X}
+\nНачало обработки программы {},\nMemulakan pemprosesan aplikasi {}
+\nНачало создания Data.nca,\nMemulakan penciptaan Data.nca
+\nНачало создания Meta.nca,\nMemulakan penciptaan Meta.nca
+\nОшибка USB обмена,\nRalat pindahan USB
+\nСборка PFS0,\nMembina PFS0
+\nСборка RomFS,\nMembina RomFS
+\nСекция 0,\nSeksyen 0
+\nСекция 1,\nSeksyen 1
+\nСекция 2,\nSeksyen 2
+\nСоздан NSP: {},\nNSP dicipta: {}
+\nШифрование NCA,\nPenyulitan NCA
+{:04d} {} {:02d}. Всего: {} час,{:04d} {} {:02d}. Jumlah: {} jam
+{:04d} {} {:02d}. Всего: {} часа,{:04d} {} {:02d}. Jumlah: {} jam
+{:04d} {} {:02d}. Всего: {} часов,{:04d} {} {:02d}. Jumlah: {} jam
+{:4d} {}. Всего: {} час,{:4d} {}. Jumlah: {} jam
+{:4d} {}. Всего: {} часа,{:4d} {}. Jumlah: {} jam
+{:4d} {}. Всего: {} часов,{:4d} {}. Jumlah: {} jam
+{:4d}. Всего: {} час,{:4d}. Jumlah: {} jam
+{:4d}. Всего: {} часа,{:4d}. Jumlah: {} jam
+{:4d}. Всего: {} часов,{:4d}. Jumlah: {} jam
+{:>3} {}{:<50}\x1b[37;1m {:>10},{:>3} {}{:<50}\x1b[37;1m {:>10}
+{:>6} объектов обработано. {:>5} записей найдено...\r,{:>6} objek diproses. {:>5} entri ditemui...\r
+{:>6}/{}kB уже скачано...\r,{:>6}/{}kB sudah dimuat turun...\r
+{} cохранение,{} simpanan
+{} cохранений,{} disimpan
+{} cохранения,{} data simpanan
+{} бекапа,{} sandaran
+{} бекапов,{} sandaran
+{} записей ({}),{} entri ({})
+{} записи ({}),{} entri ({})
+{} запись ({}),{} entri ({})
+{} игр ({}),{} permainan ({})
+{} игра ({}),{} permainan ({})
+{} игры ({}),{} permainan ({})
+{} сохранение,{} simpanan
+{} сохранений,{} simpanan
+{} сохранения,{} data simpanan
+{} тикет,{} tiket
+{} тикета,{} tiket
+{} тикетов,{} tiket
+{}-{} FW:{}{} SDK:{},{}-ms{:.0} FW:{}{} SDK:{}
+"{}/{} MB (Ср: {:.1f} MB/sec, Тек: {:.1f} MB/sec) Ост. {:02d}:{:02d}      \r","{}/{} MB (Purata: {:.1f} MB/saat, Semasa: {:.1f} MB/saat) Baki {:02d}:{:02d}      \r"
+"{}/{} МБ, {:.2f} МБ/сек","{}/{} MB, {:.2f} MB/saat"
+{}: {} потерянная запись,{}: {} entri yatim
+{}: {} потерянных записей,{}: {} entri hilang
+{}: {} потерянных записи,{}: {} entri hilang
+{}: {}/{} ({:.2f} МБ/сек),{}: {}/{} ({:.2f} MB/saat)
+{}: {}/{} ({}%) ({:.2f} МБ/сек),{}: {}/{} ({}%) ({:.2f} MB/s)
+{}: пропускается {}/{} ({:.2f} МБ/сек),{}: melangkau {}/{} ({:.2f} MB/saat)
+"{}\n\nВосстановление бекапа не удалось\n\nНажмите A - прервать, другая кнопка - продолжить","{}\n\nPemulihan sandaran gagal\n\nTekan A untuk henti paksa, mana-mana butang lain untuk teruskan"
+{}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,{}MB daripada {}MB ({:.2f} MB/saat)\x1b[0K\r
+АВТО,AUTO
+Аватар установлен,Avatar ditetapkan
+Август,Ogos
+Австралия,Australia
+Автозапуск MTP,Mula automatik MTP
+Автозапуск списка homebrew,Senarai homebrew mula automatik
+Агрументы для ярлыка,Argumen pintasan
+Адрес FTP сервера: {},Alamat pelayan FTP: {}
+Адрес HTTP сервера: {},Alamat pelayan HTTP: {}
+Альбом (0°),Album (0°)
+Американский английский,Bahasa Inggeris Amerika
+Апрель,April
+База этой игры не самодостаточна. Не забудьте установить обновление,Asas permainan ini tidak lengkap sendiri. Jangan lupa memasang kemas kini
+Бекапы,Sandaran
+Бекапы сохранений ({}),Sandaran data simpanan ({})
+Британский английский,Bahasa Inggeris British
+В альбоме найден {} объект,{} objek ditemui dalam album
+В альбоме найдено {} объекта,Ditemui {} objek dalam album
+В альбоме найдено {} объектов,{} objek ditemui dalam album
+В альбоме отсутствуют объекты,Tiada objek dalam album
+В файле /switch/prod.keys отсутствуют необходимые ключи.\n\nЧасть функций программы будет недоступна.\n\nПерегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад\nдля дампа ключей из SysNAND.,Kekunci yang diperlukan tiada dalam fail /switch/prod.keys.\n\nBeberapa ciri aplikasi tidak akan tersedia.\n\nBut semula ke Hekate dan gunakan muatan Lockpick_RCM.bin\nuntuk membuang kekunci dari SysNAND.
+ВНИМАНИЕ! Тайтл {:016X} не установлен,AMARAN! Judul {:016X} tidak dipasang
+ВНИМАНИЕ! Установленная версия ({}) не совпадает с желаемой ({}),AMARAN! Versi dipasang ({}) tidak sepadan dengan yang dikehendaki ({})
+ВО ВРЕМЯ ПЕРЕДАЧИ ФАЙЛА НАЙДЕНЫ ОШИБКИ. УСТАНОВКА ПРЕРВАНА,RALAT DITEMUI SEMASA PINDAHAN FAIL. PEMASANGAN DIBATALKAN
+Введите URL сервера (HTTP или (S)FTP),Masukkan URL pelayan (HTTP atau (S)FTP)
+Введите агрументы для ярлыка или оставьте пустым,Masukkan argumen untuk pintasan atau biarkan kosong
+Введите желаемый номер страницы,Masukkan nombor halaman dikehendaki
+Введите новое имя,Masukkan nama baharu
+Введите новое имя каталога,Masukkan nama direktori baharu
+Введите новое имя файла,Masukkan nama fail baharu
+Введите номер DLC,Masukkan nombor DLC
+Версия {} [v{}],Versi {} [v{}]
+Вместо пользователя {} использовать:,Guna sebagai ganti pengguna {}:
+Внимание!\nНекоторые файлы были заблокированы и поэтому пропущены.,Amaran!\nSesetengah fail dikunci dan oleh itu dilangkau.
+Во время разбора\n\n{}\n\nвозникла следующая ошибка:\n\n{},Semasa menghurai\n\n{}\n\nralat berikut berlaku:\n\n{}
+Во время установки тикетов были ошибки. Проверьте наличие ES сигпатчей,Ralat berlaku semasa pemasangan tiket. Semak ES sigpatches
+Во время экспорта были ошибки,Ralat berlaku semasa eksport
+Возраст батареи                : {},Usia bateri                : {}
+Возрастной рейтинг,Penarafan umur
+Восстановить,Pulihkan
+Восстановить бекап...,Pulihkan sandaran...
+Восстановить для...,Pulihkan untuk...
+Восстановить как бекап сохранения,Pulihkan sebagai sandaran simpanan
+Восстановление бекапа,Memulihkan sandaran
+Восстановление не удалось,Pemulihan gagal
+Восстановление успешно,Pemulihan berjaya
+Восстановление: {},Memulihkan: {}
+Время игры: {:02}:{:02}:{:02},Masa main: {:02}:{:02}:{:02}
+Время передачи {:d}:{:02d}:{:02d},Masa pindahan {:d}:{:02d}:{:02d}
+Все игровые сессии,Semua sesi permainan
+Все игроки,Semua pemain
+Все объекты,Semua objek
+Все файлы в порядке,Semua fail adalah OK
+Всего {} байт получен,{} bait diterima
+Всего {} байт послан,{} bait dihantar
+Всего {} байта получено,{} bait diterima secara keseluruhan
+ Да, Ya
+Всего {} байта послано,{} bait dihantar
+Всего {} байтов получено,{} bait diterima secara keseluruhan
+Всего {} байтов послано,{} bait dihantar
+Всего записей: {},Jumlah entri: {}
+Всего отослано: {} ({}/сек),Jumlah dihantar: {} ({}/saat)
+Всего программ: {},Jumlah judul: {}
+Вставить,Tampal
+Вставка...,Menyisip...
+Всё время. Всего: {} час,Sepanjang masa. Jumlah: {} jam
+Всё время. Всего: {} часа,Sepanjang masa. Jumlah: {} jam
+Всё время. Всего: {} часов,Sepanjang masa. Jumlah: {} jam
+Вы собираетесь удалить следующие бекапы:,Anda akan memadam sandaran berikut:
+Вы собираетесь удалить следующие игры:,Anda akan memadam permainan berikut:
+Вы собираетесь удалить следующие сохранения:,Anda akan memadam simpanan berikut:
+Вы собираетесь удалить следующие тикеты:,Anda akan memadam tiket berikut:
+Вы уверены в удалении {} записей?\n\n(+) - ДА   B - Отмена,Adakah anda pasti mahu memadam {} entri?\n\n(+) - YA   B - Batal
+Вы уверены в удалении {} записи?\n\n(+) - ДА   B - Отмена,Adakah anda pasti mahu memadam {} entri?\n\n(+) - YA   B - Batal
+Вы уверены в удалении {} объекта?\n\n(+) - ДА   B - Отмена,Adakah anda pasti mahu memadam {} objek?\n\n(+) - YA   B - Batal
+Вы уверены в удалении {} объектов?\n\n(+) - ДА   B - Отмена,Adakah anda pasti mahu memadam {} objek?\n\n(+) - YA   B - Batal
+"Вы уверены, что хотите удалить {}?\n\n(+) - ДА, другая кнопка - НЕТ","Adakah anda pasti mahu memadam {}?\n\n(+) - YA, butang lain - TIDAK"
+"Вы уверены, что хотите удалить\n{}?\n\n(+) - ДА  В - Отмена",Adakah anda pasti mahu memadam\n{}?\n\n(+) - YA  B - Batal
+Выберите пользователя,Pilih pengguna
+Выберите тип сохранения,Pilih jenis simpanan
+Выбрать все файлы игры,Pilih semua fail permainan
+Выбрать того же пользователя,Pilih pengguna yang sama
+Выбрать ту же игру,Pilih permainan yang sama
+Вырезать,Potong
+Вычисление хэша,Mengira cincangan
+Вычисленное время конца : {},Masa tamat dikira  : {}
+Вычисленное время начала: {},Masa mula dikira   : {}
+Генерация DLC [{:016X}][v{}],Menjana DLC [{:016X}][v{}]
+Генерация DLC анлокера...,Menjana pembuka kunci DLC...
+Генерируется анлокер для {:016X} с номером {} и версией {}...,Menjana pembuka kunci untuk {:016X} dengan nombor {} dan versi {}...
+Генерируется ярлык для пути '{}' и аргументов '{}'...,Menjana pintasan untuk laluan '{}' dan argumen '{}'...
+Главное меню,Menu utama
+Голландский,Bahasa Belanda
+"Да, я уверен","Ya, saya pasti"
+Дамп анлокера в '{}'...,Membuang pembuka kunci ke '{}'...
+Дамп текущей прошивки,Buang perisian tegar semasa
+Дамп ярлыка в '{}'...,Membuang pintasan ke '{}'...
+Действия с файлами,Operasi fail
+Действия с файлами ({}),Tindakan fail ({})
+Декабрь,Disember
+День,Hari
+Диаграмма активности,Carta Aktiviti
+Для бекапов,Untuk sandaran
+Для выхода нажмите любую кнопку,Tekan mana-mana butang untuk keluar
+Для дампов,Untuk buangan
+Для логов,Untuk log
+Добавить в любимые,Tambah ke kegemaran
+Европа,Eropah
+"Есть несохранёные изменения.\nВы хотите их сохранить?\n\n(+) - Да, сохранить\n\n(-) - Выйти без сохранения\n\nДругая кнопка - Отмена","Terdapat perubahan belum disimpan.\nAdakah anda mahu menyimpannya?\n\n(+) - Ya, simpan\n\n(-) - Keluar tanpa simpan\n\nButang lain - Batal"
+Желаемая версия: {},Versi dikehendaki: {}
+Журнал активности,Log Aktiviti
+Завершено,Selesai
+Загружается список обновлений...,Memuatkan senarai kemas kini...
+Загрузка изображения...,Memuatkan imej...
+Загрузка текста...{}%,Memuatkan teks...{}%
+Загрузка файла... {}%,Memuatkan fail... {}%
+Задать размер файла {} не удалось: {},Gagal menetapkan saiz fail {}: {}
+Закончено за {:02d}:{:02d}:{:02d},Selesai dalam {:02d}:{:02d}:{:02d}
+Закончилась память при посылке ответа,Kehabisan memori semasa menghantar respons
+Закончились дополнительные буферы. Скорость записи на носитель слишком низка,Kehabisan penimbal tambahan. Kelajuan tulis ke storan terlalu perlahan
+Закрытие соединения,Menutup sambungan
+Закрытие соединения к {}:{},Menutup sambungan ke {}:{}
+Запаковать LFS в romfs.bin,Bungkus LFS ke dalam romfs.bin
+Запаковать в romfs.bin,Bungkus ke dalam romfs.bin
+Запаковка папки в RomFS,Membungkus folder ke dalam RomFS
+Записанное время конца  : {},Masa tamat direkod  : {}
+Записанное время начала : {},Masa mula direkod   : {}
+Запись в файл...,Menulis ke fail...
+Запись за пределами файла,Tulis melampaui fail
+Заполнение нулями,Pengisian sifar
+Заполнить свободное место на SD нулями,Isi ruang kosong pada SD dengan sifar
+Запрет захвата видео,Larang rakaman video
+Запрет скриншотов,Larangan tangkapan skrin
+Запрещено,Dilarang
+Запускавшиеся игры,Permainan dilancarkan
+Запустить FTP сервер...,Mulakan pelayan FTP...
+Запустить HTTP сервер...,Memulakan pelayan HTTP...
+Запустить МТР соединение,Mulakan sambungan MTP
+Запустить случайную игру,Lancar permainan rawak
+Заряд батареи                  : {},Cas bateri                 : {}
+Здесь пусто,Tiada apa di sini
+Игра анонсирует SDK {},Permainan mengumumkan SDK {}
+"Игра анонсирует более новый SDK ({}), чем текущая прошивка ({})",Permainan mengumumkan SDK lebih baharu ({}) daripada perisian tegar semasa ({})
+Игра использует titleId от дополнения,Permainan menggunakan titleId daripada DLC
+Игра использует titleId от обновления,Permainan menggunakan titleId daripada kemas kini
+Извлечь в LFS,Ekstrak ke LFS
+Изменение размера сохранения на {} [{}]...,Mengubah saiz simpanan kepada {} [{}]...
+Изменить версию DLC (десятичную),Tukar versi DLC (perpuluhan)
+Изменить номер DLC (десятичный),Tukar nombor DLC (perpuluhan)
+Изменить номер DLC (шестнадцатеричный),Tukar nombor DLC (perenambelasan)
+Изменён размер SaveFS,Saiz SaveFS ditukar
+Импорт исправленного тикета...,Mengimport tiket dibaiki...
+Импорт тикета...,Mengimport tiket...
+"Имя каталога\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Nama direktori\n'{}'\nmengandungi aksara tidak sah.\nIa tidak dapat dicipta.\n\nTekan A - henti paksa, B - langkau, X - nama semula"
+"Имя файла\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Nama fail\n'{}'\nmengandungi aksara tidak sah.\nIa tidak dapat dicipta.\n\nTekan A - henti paksa, B - langkau, X - nama semula"
+Инсталлируется romfs.bin,Memasang romfs.bin
+Информация о зарядке батареи,Maklumat pengecasan bateri
+Информация о контенте,Maklumat kandungan
+Информация о контенте ({}),Maklumat kandungan ({})
+Информация о прошивке,Maklumat perisian tegar
+Информация о системе,Maklumat sistem
+Информация о сохранении,Maklumat data simpanan
+Информация о сохранении...,Maklumat data simpanan...
+Информация о тикете,Maklumat tiket
+Информация о тикете...,Maklumat tiket...
+Информация об NSP,Maklumat NSP
+Информация об атмосфере,Maklumat Atmosphere
+Информация об игровой активности,Maklumat aktiviti permainan
+Информация об источние питания,Maklumat sumber kuasa
+Информация об оборудовании,Maklumat perkakasan
+Информация...,Maklumat...
+Испанский,Bahasa Sepanyol
+Использовано дополнительной памяти: {}. Создано буферов: {},Memori tambahan digunakan: {}. Penimbal dicipta: {}
+Использовать папку для...,Guna folder untuk...
+Используется USB{},Menggunakan USB{}
+Итальянский,Bahasa Itali
+Ищется control для ProgramId {},Mencari kawalan untuk ProgramId {}
+Ищется exefs/romfs для ProgramId {},Mencari exefs/romfs untuk ProgramId {}
+Ищется exefs/romfs/logo для ProgramId {},Mencari exefs/romfs/logo untuk ProgramId {}
+Ищется {},Mencari {}
+Июль,Julai
+Июнь,Jun
+Канадский французский,Bahasa Perancis Kanada
+"Когда ваше устройство подключится, нажмите любую кнопку",Tekan mana-mana butang apabila peranti anda bersambung
+Код партии батареи    : {} ({}),Kod lot bateri         : {} ({})
+Кодировка,Pengekodan
+Конец игры            : -,Tamat permainan : -
+Конец игры            : {},Tamat permainan : {}
+Контент уже на месте,Kandungan sudah berada di tempatnya
+Копирование IVFC слой {} в nca: {},Menyalin lapisan IVFC {} ke nca: {}
+Копирование PFS0 в nca,Menyalin PFS0 ke nca
+Копирование PFS0 хэш таблицы в nca,Menyalin jadual cincangan PFS0 ke nca
+Копирование SDK {} в файл: {}...,Menyalin SDK {} ke fail: {}...
+Копировать,Salin
+Корейский,Bahasa Korea
+Корень не найден,Akar tidak ditemui
+Корень сохранения не существует,Akar simpanan tidak wujud
+Корея,Korea
+Латиноамериканский испанский,Bahasa Sepanyol Amerika Latin
+Май,Mei
+Март,Mac
+Масштаб: По ширине,Skala: Muat Lebar
+Масштаб: По экрану,Skala: Muat Skrin
+Масштаб: Точка в точку,Skala: Piksel Tepat
+Масштаб: Увеличение x2,Skala: Pembesaran 2x
+Место в  NAND         : {},Ruang dalam NAND     : {}
+Место на SD карте     : {},Ruang kad SD    : {}
+Место на приставке не занято,Tiada ruang digunakan pada konsol
+Мета контент отсутствует,Kandungan meta tiada
+Миссия провалена\n\nНажмите А для выхода,Misi gagal\n\nTekan A untuk keluar
+Миссия успешна\n\nОсталось ходов: {}\n\nНажмите А для выхода,Misi berjaya\n\nBaki langkah: {}\n\nTekan A untuk keluar
+Модификация файла не удалась,Pengubahsuaian fail gagal
+На выбранном устройстве нет достаточного свободного места для установки,Ruang kosong tidak mencukupi pada peranti dipilih untuk pemasangan
+На месте нет достаточно свободного места,Ruang kosong tidak mencukupi tersedia
+Нажмите (+) для перезаписи конфига обновлённым\n\nЛюбую другую кнопку для пропуска,Tekan (+) untuk menulis ganti konfigurasi dengan yang dikemas kini\n\nMana-mana butang lain untuk langkau
+"Нажмите (+) для удаления, любую другую кнопку для пропуска...\n (-) Удалять все, больше не спрашивая","Tekan (+) untuk padam, mana-mana butang lain untuk langkau...\n (-) Padam semua tanpa bertanya lagi"
+"Нажмите A, чтобы продолжить, другую кнопку, чтобы выйти","Tekan A untuk teruskan, butang lain untuk keluar"
+"Нажмите B, чтобы вернуться",Tekan B untuk kembali
+Нажмите любую кнопку,Tekan mana-mana butang
+Найден SDK: {},SDK ditemui: {}
+Найден {} зарегистрированный контент-файл,Ditemui {} fail kandungan berdaftar
+Найден {} контент-файл,Ditemui {} fail kandungan
+Найден {} пользователь,Ditemui {} pengguna
+Найден {} потерянный контент-файл,Ditemui {} fail kandungan yatim
+Найден {} файл,Ditemui {} fail
+Найден {} файл с ошибками,Ditemui {} fail dengan ralat
+Найден и удалён {} неиспользуемый тикет,Ditemui dan dipadam {} tiket tidak digunakan
+Найдена {} запись об игре,Ditemui {} entri permainan
+Найдена {} запись об ошибках,Ditemui {} rekod ralat
+Найдена {} установленная игра,Ditemui {} permainan dipasang
+Найдено {} записей об играх,Ditemui {} rekod permainan
+Найдено {} записей об ошибках,Ditemui {} laporan ralat
+Найдено {} записи об играх,Ditemui {} entri permainan
+({}/{}) Устанавливается {},({}/{}) Memasang {}
+Найдено {} записи об ошибках,Ditemui {} laporan ralat
+Найдено {} зарегистрированных контент-файла,Ditemui {} fail kandungan berdaftar
+Найдено {} зарегистрированных контент-файлов,Ditemui {} fail kandungan berdaftar
+Найдено {} контент-файла,Ditemui {} fail kandungan
+Найдено {} контент-файлов,{} fail kandungan ditemui
+Найдено {} обновление,{} kemas kini ditemui
+Найдено {} обновлений,Ditemui {} kemas kini
+Найдено {} обновления,Ditemui {} kemas kini
+Найдено {} пользователей,Ditemui {} pengguna
+Найдено {} пользователя,Ditemui {} pengguna
+Найдено {} потерянных контент-файла,Ditemui {} fail kandungan hilang
+Найдено {} потерянных контент-файлов,Ditemui {} fail kandungan yatim
+Найдено {} сохранение,Ditemui {} simpanan
+Найдено {} сохранение...,Ditemui {} simpanan...
+Найдено {} сохранений,Ditemui {} simpanan
+Найдено {} сохранений...,Ditemui {} simpanan...
+Найдено {} сохранения,Ditemui {} simpanan
+Найдено {} сохранения...,Ditemui {} simpanan...
+Найдено {} установленные игры,Ditemui {} permainan dipasang
+Найдено {} установленных игр,Ditemui {} permainan dipasang
+Найдено {} файла,{} fail ditemui
+Найдено {} файла с ошибками,Ditemui {} fail dengan ralat
+Найдено {} файлов,{} fail ditemui
+Найдено {} файлов с ошибками,Ditemui {} fail dengan ralat
+Найдено и удалено {} неиспользуемых тикета,Ditemui dan dibuang {} tiket tidak digunakan
+Найдено и удалено {} неиспользуемых тикетов,Ditemui dan dibuang {} tiket tidak digunakan
+Найдено существующее сохранение. Восстанавливаю бекап в него...,Simpanan sedia ada ditemui. Memulihkan sandaran ke dalamnya...
+Настройки,Tetapan
+Настройки DBI,Tetapan DBI
+Настройки FB2,Tetapan FB2
+Начало игры           : -,Mula permainan : -
+Начало игры           : {},Mula permainan : {}
+Начало создания Control.nca,Memulakan penciptaan Control.nca
+Начало создания Program.nca,Memulakan penciptaan Program.nca
+Начать установку,Mulakan pemasangan
+Не доступно,Tidak tersedia
+Не известно,Tidak diketahui
+"Не найден USB диск, который смог бы вместить получившийся дамп. Убедитесь, что он отформатирован в ExFAT.",Tiada pemacu USB ditemui yang dapat memuatkan buangan terhasil. Pastikan ia diformatkan sebagai ExFAT.
+Не найдены требуемые тикеты,Tiket diperlukan tidak ditemui
+. Время простоя \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m,. Masa melahu \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m
+Не получилось создать NSP,Gagal mencipta NSP
+Не удалось получить список,Gagal mendapatkan senarai
+Не удалось установить аватар\n{},Gagal menetapkan avatar\n{}
+Не установлен,Tidak dipasang
+Невозможно найти путь,Tidak dapat mencari laluan
+Невозможно открыть папку журналов ошибок,Tidak dapat membuka folder log ralat
+Невозможно переименовать '{}' в '{}':,Tidak dapat menamakan semula '{}' kepada '{}':
+Невозможно получить список LFS,Tidak dapat mendapatkan senarai LFS
+Невозможно получить список пользователей,Tidak dapat mendapatkan senarai pengguna
+Невозможно получить статус связи с Nintendo Account,Tidak dapat mendapatkan status pautan Akaun Nintendo
+...готово,...selesai
+Невозможно получить число записей об ошибках,Tidak dapat mendapatkan kiraan rekod ralat
+Невозможно прочитать общие тикеты,Tidak dapat membaca tiket umum
+Невозможно прочитать персонализированные тикеты,Tidak dapat membaca tiket diperibadikan
+Невозможно разобрать content meta,Tidak dapat menghuraikan meta kandungan
+Невозможно разобрать content meta. Неожиданная ошибка,Tidak dapat menghuraikan meta kandungan. Ralat tidak dijangka
+Невозможно разобрать content meta. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Tidak dapat menghuraikan meta kandungan. PERISIAN TEGAR LAPUK. Kemas kini HOS diperlukan
+Невозможно разобрать nca. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Tidak dapat menghuraikan nca. PERISIAN TEGAR LAPUK. Kemas kini HOS diperlukan
+Невозможно разобрать индекс кеша,Tidak dapat menghuraikan indeks cache
+Невозможно распаковать '{}':,Tidak dapat menyahbungkus '{}':
+Невозможно скопировать файл\n   '{}'\n➡ '{}'\n,Tidak dapat menyalin fail\n   '{}'\n➡ '{}'\n
+Невозможно смонтировать сохранение,Tidak dapat melekapkan simpanan
+Невозможно смонтировать устройство сохраниения,Tidak dapat melekapkan peranti simpanan
+Невозможно создать каталог,Tidak dapat mencipta direktori
+Невозможно создать каталог '{}':,Tidak dapat mencipta direktori '{}':
+Невозможно создать файл,Tidak dapat mencipta fail
+Невозможно создать файл '{}':,Tidak dapat mencipta fail '{}':
+Недопустимый идентификатор,Pengecam tidak sah
+Неизвестная игра [{:016x}],Permainan tidak diketahui [{:016x}]
+: {:>4} сохранение,: {:>4} simpanan
+Неизвестно,Tidak diketahui
+Неизвестный тайтл,Judul tidak diketahui
+Немецкий,Bahasa Jerman
+Неправильное хранилище,Storan tidak sah
+Неправильный родительский объект,Objek induk tidak sah
+Нет,Tidak
+Нет VFS. Прекращение работы,Tiada VFS. Menamatkan
+Нет exefs VFS. Прекращение работы,Tiada exefs VFS. Menamatkan
+: {:>4} сохранений,: {:>4} simpanan
+Нет logo VFS. Прекращение работы,Tiada logo VFS. Menamatkan
+Нет romfs VFS. Прекращение работы,Tiada romfs VFS. Menamatkan
+Нет лого,Tiada logo
+Нечего устанавливать,Tiada apa untuk dipasang
+Новое имя для '{}',Nama baharu untuk '{}'
+Новый каталог,Direktori baharu
+Новый размер сохранения в МБ,Saiz simpanan baharu dalam MB
+Новый рейтинг (-1 для удаления),Penarafan baharu (-1 untuk buang)
+: {:>4} сохранения,: {:>4} simpanan
+Номер страницы,Nombor halaman
+Ночь,Malam
+Нужен связанный аккаунт,Akaun terpaut diperlukan
+ОШИБКА ПОЛУЧЕНИЯ ЭКСТРА ДАННЫХ,RALAT MENDAPATKAN DATA TAMBAHAN
+Обнаружены недопустимые символы,Aksara tidak sah dikesan
+Обновить DBI,Kemas kini DBI
+Обновить DBI из этого файла,Kemas kini DBI dari fail ini
+Обновить TitleDB,Kemas kini TitleDB
+Обновление TitleDB,Mengemas kini TitleDB
+Обновление базы данных...,Mengemas kini pangkalan data...
+Обновление версии до {} {}\n\nНажмите (+) для продолжения\nЛюбую другую кнопку для отмены,Mengemas kini versi ke {} {}\n\nTekan (+) untuk teruskan\nMana-mana butang lain untuk batal
+Обновление времени...,Mengemas kini masa...
+Обновление закончено\n\nНажмите любую кнопку\nдля перезапуска DBI,Kemas kini selesai\n\nTekan mana-mana butang\nuntuk mulakan semula DBI
+Обновление фейковой записи {} ➡ [v{}],Mengemas kini rekod palsu {} ➡ [v{}]
+Обновление. Пожалуйста подождите...,Mengemas kini. Sila tunggu...
+Обновляется запись об игре...,Mengemas kini rekod permainan...
+Обрабатывается запись {:016X},Memproses rekod {:016X}
+Обратный альбом (180°),Album songsang (180°)
+Обратный портрет (270°),Potret Songsang (270°)
+Общее время активной игры     : {} часов,Jumlah masa main aktif        : {} jam
+Общее время дампа {:d}:{:02d}:{:02d},Jumlah masa buangan {:d}:{:02d}:{:02d}
+Общее время запущенных игр    : {} часов,Jumlah masa main              : {} jam
+Общее время игры      : -,Jumlah masa main : -
+Общее время игры      : - (-),Jumlah masa main : - (-)
+Общее время игры      : {:d} часов {:02d} минут,Jumlah masa main : {:d} jam {:02d} minit
+Общее время установки: {:d}:{:02d}:{:02d},Jumlah masa pemasangan: {:d}:{:02d}:{:02d}
+Общее время: {:02}:{:02}:{:02},Jumlah masa: {:02}:{:02}:{:02}
+Общее занимаемое место: N:{} + S:{} = {},Jumlah ruang digunakan: N:{} + S:{} = {}
+Общее число запусков  : -,Jumlah bilangan pelancaran : -
+Общие,Umum
+Общий размер установки: {},Jumlah saiz pemasangan: {}
+Объединение списков,Gabungkan senarai
+Объект {} не допустим,Objek {} tidak dibenarkan
+Объект {} не может быть создан,Objek {} tidak dapat dicipta
+Объект не открыт для редактирования,Objek tidak dibuka untuk penyuntingan
+Объект удалён,Objek dipadam
+Объект уже открыт для редактирования,Objek sudah dibuka untuk penyuntingan
+Огибка получения адреса сокета: {} {},Ralat mendapatkan alamat soket: {} {}
+Ожидаемый размер: {},Saiz dijangka: {}
+Ожидается большой (>4GB) файл,Fail besar (>4GB) dijangka
+Ожидается запуск dbibackend на стороне ПК...,Menunggu dbibackend bermula di pihak PC...
+Ожидание: {} секунд,Menunggu: {} saat
+Ожидание: {} секунда,Menunggu: {} saat
+Ожидание: {} секунды,Menunggu: {} saat
+Ориентация,Orientasi
+Ориентация...,Orientasi...
+Основной SDK не найден. Пробуем мультипрограмный вариант,SDK utama tidak ditemui. Mencuba varian berbilang atur cara
+Оставить сохранения,Simpan data simpanan
+Осталось ходов:    {:>3},Baki langkah:  {:>3}
+Остаток файла пропускается,Baki fail dilangkau
+Отключение связи с мобильным приложением...,Memutuskan sambungan dari aplikasi mudah alih...
+Открываем папку прошивки...,Membuka folder perisian tegar...
+Открыть,Buka
+Открыть вторую панель,Buka panel kedua
+Открыть как 7Z,Buka sebagai 7Z
+Открыть как RAR,Buka sebagai RAR
+Открыть как ZIP,Buka sebagai ZIP
+Открыть как hex,Buka sebagai heks
+Открыть как текст,Buka sebagai teks
+Открыть контент по MTP,Buka kandungan melalui MTP
+контент по MTP,kandungan melalui MTP
+Открыть папку LFS,Buka folder LFS
+Content meta не найден. Установка прервана,Meta kandungan tidak ditemui. Pemasangan dibatalkan
+Отослано {}/{} байт,Dihantar {}/{} bait
+Отсутствуют ES сигпатчи!,ES sigpatches tiada!
+Очистка /atmosphere/contents,Membersihkan /atmosphere/contents
+Очистка кеша rightsId...,Mengosongkan cache rightsId...
+Очистка папки...,Membersihkan folder...
+Очистка плейсхолдеров...,Mengosongkan pemegang tempat...
+Очистка системы от мусора,Membersihkan sistem daripada sampah
+Очистка сохранений,Mengosongkan data simpanan
+Очистка...,Membersihkan...
+Ошибка FTP сервера,Ralat pelayan FTP
+DBI Просмотр альбома,Paparan Album DBI
+Ошибка во время копирования файла,Ralat semasa menyalin fail
+Ошибка во время обновления тайтла,Ralat semasa mengemas kini judul
+Ошибка выделения сокета: {},Ralat peruntukan soket: {}
+Ошибка завершения соединения: {},Ralat penamatan sambungan: {}
+Ошибка загрузки картинки,Ralat pemuatan imej
+Ошибка загрузки файла из альбома: {},Ralat memuatkan fail dari album: {}
+Ошибка закрытия сокета: {},Ralat penutupan soket: {}
+Ошибка записи файла: {},Ralat menulis fail: {}
+Ошибка изменения размера файла,Ralat mengubah saiz fail
+Ошибка инициализации {}: {},Ralat permulaan {}: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз","DPAD dan kayu ria - tatal, L - halaman atas, R - halaman bawah"
+Ошибка опроса сокета: {},Ralat tinjauan soket: {}
+Ошибка открытия каталога: {},Ralat membuka direktori: {}
+Ошибка открытия сокета: {},Ralat membuka soket: {}
+Ошибка открытия файла,Ralat membuka fail
+Ошибка открытия файла '{}': {},Ralat membuka fail '{}': {}
+Ошибка открытия файла: {},Ralat membuka fail: {}
+Ошибка отсылки: {},Ralat menghantar: {}
+Ошибка переименования: {},Ralat menamakan semula: {}
+Ошибка подключения: {},Ralat sambungan: {}
+Ошибка подмены SDK: {},Ralat penggantian SDK: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз, R3 - Текст/Hex","DPAD dan kayu ria - tatal, L - halaman atas, R - halaman bawah, R3 - Teks/Heks"
+Ошибка получения адреса узла: {},Ralat mendapatkan alamat nod: {}
+Ошибка получения внеочередных данных: {},Ralat mendapatkan data luar jalur: {}
+Ошибка получения имени сокета: {} {},Ralat mendapatkan nama soket: {} {}
+Ошибка получения информаци о файле: {},Ralat mendapatkan maklumat fail: {}
+Ошибка получения размера файла: {},Ralat mendapatkan saiz fail: {}
+Ошибка получения флагов сокета: {},Ralat mendapatkan bendera soket: {}
+Ошибка получения хранилища {},Ralat mendapatkan storan {}
+Ошибка получения: {},Ralat pengambilan: {}
+Ошибка получения: {} {},Ralat pengambilan: {} {}
+Ошибка посылки файла: {},Ralat menghantar fail: {}
+Ошибка привязки сокета к порту {}: {},Ralat mengikat soket ke port {}: {}
+Ошибка привязки: {},Ralat pengikatan: {}
+Ошибка принятия соединения: {} {},Ralat penerimaan sambungan: {} {}
+Ошибка приёма соединения: {},Ralat penerimaan sambungan: {}
+Ошибка проверси метки сокета: {},Ralat pengesahan label soket: {}
+Ошибка прослушивания: {},Ralat mendengar: {}
+Ошибка прослушки сокета: {},Ralat pendengaran soket: {}
+Ошибка сжатия,Ralat pemampatan
+Ошибка создания каталога: {},Ralat mencipta direktori: {}
+Ошибка создания сокета: {},Ralat mencipta soket: {}
+Ошибка создания сохранения,Ralat mencipta simpanan
+Ошибка удаления каталога: {},Ralat memadam direktori: {}
+Ошибка удаления файла: {},Ralat pemadaman fail: {}
+Ошибка установки флагов сокета: {},Ralat menetapkan bendera soket: {}
+Ошибка чтения записи об игре: {},Ralat membaca rekod permainan: {}
+Ошибка чтения каталога: {},Ralat membaca direktori: {}
+Ошибка чтения файла: {},Ralat membaca fail: {}
+Ошибок не найдено,Tiada ralat ditemui
+Ошибочный номер DLC (Должен быть в диапазоне 0x001-0x7FF),Nombor DLC tidak sah (Mestilah dalam julat 0x001-0x7FF)
+Ошибочный номер DLC (Должен быть в диапазоне 1-2047),Nombor DLC tidak sah (Mestilah dalam julat 1-2047)
+"Ошибочный тикет {0}: kg {1:02X}, pm {2:02X}","Tiket tidak sah {0}: kg {1:02X}, pm {2:02X}"
+Папка LFS не найдена,Folder LFS tidak ditemui
+Папка обновления очищена,Folder kemas kini dikosongkan
+Параметры FTP,Tetapan FTP
+Параметры MTP,Tetapan MTP
+Параметры установки,Pilihan pemasangan
+Передача окончена,Pindahan selesai
+Переименование объекта,Menamakan semula objek
+Переименовать,Nama semula
+Перейти к первой странице,Pergi ke halaman pertama
+Перейти к последней странице,Pergi ke halaman terakhir
+Перейти к странице...,Pergi ke halaman...
+Переместить,Alih
+Переместить в NAND,Alih ke NAND
+в NAND,ke NAND
+Переместить на SD карту,Alih ke kad SD
+на SD карту,ke kad SD
+"Перемещение {} ({}, {}) в {}","Mengalih {} ({}, {}) ke {}"
+Перемещение {} записей,Mengalih {} entri
+Перемещение {} записи,Mengalih {} entri
+Перемещение {} игр,Mengalih {} permainan
+Перемещение {} игры,Mengalih {} permainan
+FTP сервер (нажмите B для остановки),Pelayan FTP (tekan B untuk henti)
+Перемещение контента,Mengalih kandungan
+Перенос строк,Pemisah baris
+Переоткрытие ФС сохранения: {},Membuka semula FS simpanan: {}
+Пишется новая запись о контенте...,Menulis rekod kandungan baharu...
+Пишется новый cnmt.nca...,Menulis cnmt.nca baharu...
+Подготовка...,Menyediakan...
+Подключаемся к {}...,Menyambung ke {}...
+Подключено к {}:{},Disambungkan ke {}:{}
+Подмена SDK,Penggantian SDK
+Подменить SDK,Ganti SDK
+Подсчитывается размер установки...,Mengira saiz pemasangan...
+Подсчитывается размер установки...{}%,Mengira saiz pemasangan...{}%
+Подсчитываются объекты в альбоме в NAND,Mengira objek dalam album di NAND
+Подсчитываются объекты в альбоме на SD карте,Mengira objek dalam album di kad SD
+Подсчёт метаданных...,Mengira metadata...
+Подсчёт основного хэша,Mengira cincangan utama
+Подсчёт хэша секции,Mengira cincangan seksyen
+"Пожалуйста, подключите вашу консоль к ПК кабелем USB Type-C или нажмите B",Sila sambungkan konsol anda ke PC dengan kabel USB Type-C atau tekan B
+"Пожалуйста, подождите...",Sila tunggu...
+Поиск записей об ошибках,Mencari log ralat
+Поиск неиспользуемых тикетов,Mencari tiket tidak digunakan
+Поиск подготовленного системного обновления,Mencari kemas kini sistem yang disediakan
+Поиск потерянных тайтлов,Mencari judul hilang
+Поиск потерянных файлов в NAND,Mencari fail hilang dalam NAND
+Поиск потерянных файлов на SD,Mencari fail hilang pada SD
+Поиск сохранений удалённых пользователей...,Mencari data simpanan pengguna yang dipadam...
+Get chargeInfoFields : {},Dapatkan chargeInfoFields : {}
+Получен список из {} записей,Menerima senarai {} entri
+Получен список из {} записи,Menerima senarai {} entri
+Получение версий установленных игр,Mendapatkan versi permainan dipasang
+Получение информации из hac_versionlist...,Mendapatkan maklumat daripada hac_versionlist...
+Получение информации из системы...,Mendapatkan maklumat sistem...
+Получение информации об играх...,Mendapatkan maklumat permainan...
+Получение списка тикетов...,Mendapatkan senarai tiket...
+Получение файла: {} МБ ({:.2f} МБ/сек),Menerima fail: {} MB ({:.2f} MB/s)
+Получение файла: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Menerima fail: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m MB/saat)
+Полученное время: {},Masa diterima: {}
+Полученный размер: {},Saiz diterima: {}
+"Получено: {}, ({:.2f} МБ/сек)","Diterima: {}, ({:.2f} MB/s)"
+Пользователь {} не найден. Создание сохранения невозможно,Pengguna {} tidak ditemui. Penciptaan simpanan mustahil
+Пользователь не найден,Pengguna tidak ditemui
+Попытаться разобрать,Cuba menghurai
+Попытка исправить,Cuba membaiki
+Портрет (90°),Potret (90°)
+Португальский,Bahasa Portugis
+"L+⬅-Начало, L+➡-Конец, ZL-Регистр, ZR-Ввод, Y-Пробел, X-Забой, R3-Язык","L+⬅-Home, L+➡-End, ZL-Huruf Besar/Kecil, ZR-Enter, Y-Ruang, X-Backspace, R3-Bahasa"
+После удаления игры не будут запускаться,Permainan tidak akan dilancarkan selepas pemadaman
+Посылается файл: {},Menghantar fail: {}
+Посылается файл: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Menghantar fail: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m MB/s)
+Превышен размер командного буфера,Saiz penimbal arahan dilampaui
+LFS мод.: -,Mod LFS: -
+Предоставить по FTP,Sediakan melalui FTP
+Прекращение прослушивания на {}:{},Menghentikan pendengaran pada {}:{}
+Прервано пользователем,Dibatalkan oleh pengguna
+Привязка к {}:{},Mengikat ke {}:{}
+Принято соединение от {}:{},Sambungan diterima daripada {}:{}
+Проверить целостность,Sahkan integriti
+Проверка magic...,Menyemak magic...
+"Проверка {} ({}, {}), {}","Pengesahan {} ({}, {}), {}"
+Проверка картриджа...,Menyemak katrij...
+Проверка на наличие  {}...,Menyemak {}...
+Проверка обновлений,Menyemak kemas kini
+Проверка обновлений игр,Menyemak kemas kini permainan
+Проверка сохранений,Menyemak data simpanan
+Проверка целостности ({}),Semakan integriti ({})
+Проверяется: {},Menyemak: {}
+"LFS мод.: Присутствует, Размер: подсчёт отключен в настройках","Mod LFS : Wujud, Saiz: pengiraan dilumpuhkan dalam tetapan"
+Проверяются бекапы...,Menyemak sandaran...
+Проверяются сохранения,Menyemak simpanan
+Программа {}. Control не найдена,Aplikasi {}. Kawalan tidak ditemui
+Программа {}. Exefs не найдена,Atur cara {}. Exefs tidak ditemui
+Программа {}. Romfs не найдена,Aplikasi {}. Romfs tidak ditemui
+Произошла неизвестная ошибка,Ralat tidak diketahui berlaku
+Произошла ошибка:,Ralat berlaku:
+Произошла ошибка: {},Ralat berlaku: {}
+LFS папка игры,Folder permainan LFS
+Пропускается: {}          \r,Melangkau: {}          \r
+Прослушивание на {}:{},Mendengar pada {}:{}
+Просмотр альбома по HTTP,Lihat album melalui HTTP
+MTP Респондер (нажмите B для остановки),Responder MTP (tekan B untuk henti)
+Просмотреть игры,Lihat permainan
+Просто запуск,Lancar sahaja
+Разбор,Menghurai
+Раздел secure не найден,Seksyen selamat tidak ditemui
+"Размер  : {}, {} файл","Saiz  : {}, {} fail"
+"Размер  : {}, {} файла","Saiz  : {}, {} fail"
+"Размер  : {}, {} файлов","Saiz  : {}, {} fail"
+Размер посылаемого файла   : {},Saiz fail yang dihantar: {}
+Размер сохранений     : {},Saiz data simpanan : {}
+Размер: {},Saiz: {}
+Разрешено,Dibenarkan
+Распаковать в подкаталог,Ekstrak ke subdirektori
+Распаковать сюда,Ekstrak di sini
+Распаковка файла,Menyahbungkus fail
+Растущие цветы:     {},Menanam bunga:       {}
+Nintendo Account задан и связан,Akaun Nintendo ditetapkan dan dipautkan
+Регистрация контента {}...,Mendaftar kandungan {}...
+Регистрация файла {}...,Mendaftar fail {}...
+Регистры котроллера MAX17050,Daftar pengawal MAX17050
+Редактирование возрастного рейтинга...,Menyunting penarafan umur...
+Редактирование запретов,Sunting sekatan
+Рендеринг FB2,Memapar FB2
+"Nintendo Account задан, но не связан","Akaun Nintendo ditetapkan, tetapi tidak dipautkan"
+Сброс требуемой версии,Tetap semula versi diperlukan
+Сбросить требуемую версию,Tetap semula versi diperlukan
+Сведения,Maklumat
+Сведения...,Maklumat...
+Свободное место в хранилище: {},Ruang storan kosong: {}
+Свободное место: {},Ruang kosong: {}
+Сгенерировать и установить,Jana dan pasang
+Nintendo Account не задан,Akaun Nintendo tidak ditetapkan
+Сдампить на SD карту,Buang ke kad SD
+Сдампить на внешний USB,Buang ke USB luaran
+Сдампить текущую прошивку,Buang perisian tegar semasa
+Сдамплено: {}/{} ({}%) ({:.2f} МБ/сек),Dibuang: {}/{} ({}%) ({:.2f} MB/saat)
+Сделать бекап,Cipta sandaran
+"Сделать бекап, если новее",Sandar jika lebih baharu
+Северная Америка,Amerika Utara
+Сентябрь,September
+Сепия,Sepia
+Сервер запущен,Pelayan dimulakan
+Сервер предлагает выполнить обновление DBI\n\nНажите (+) для согласия\nЛюбую другую кнопку для отмены,Pelayan menawarkan untuk melakukan kemas kini DBI\n\nTekan (+) untuk sahkan\nMana-mana butang lain untuk batal
+Сессии,Sesi
+Сессия закрыта,Sesi ditutup
+Сессия открыта,Sesi dibuka
+Синхронизация времени по NTP,Penyegerakan masa NTP
+Системные приложения,Aplikasi sistem
+Системный по умолчанию,Lalai sistem
+Сканирование директорий...,Mengimbas direktori...
+Сканирование игр...,Mengimbas permainan...
+Скачано {}/{},Dimuat turun {}/{}
+Скачивание файла не удалось,Muat turun fail gagal
+Скорость передачи: {:.2f} МБ/сек,Kadar pindahan: {:.2f} MB/saat
+Собираются сведения...,Mengumpul maklumat...
+Соединение сброшено,Sambungan ditetapkan semula
+Создание DLC анлокера,Mencipta pembuka kunci DLC
+Создание NSP,Mencipta NSP
+Создание sdmc:/versions.txt,Mencipta sdmc:/versions.txt
+Создание дампа ({}),Mencipta buangan ({})
+Создание дампа: {},Mencipta buangan: {}
+Создание единого репака,Mencipta bungkus semula bersepadu
+Создание записи об игре...,Mencipta rekod permainan...
+Создание новой записи об игре...,Mencipta entri permainan baharu...
+Создание плейсхолдера: {}...,Mencipta pemegang tempat: {}...
+"Создание репака Id: {:016X}, Версия: {}, Тип: {}","Mencipta bungkus semula Id: {:016X}, Versi: {}, Jenis: {}"
+Создание строк... {}%,Mencipta rentetan... {}%
+Создание таблицы имён,Mencipta jadual nama
+Создание тела файла,Mencipta isi fail
+Создание точки доступа...,Mencipta titik capaian...
+Создание хэш таблицы,Mencipta jadual cincangan
+Создание ярлыка,Mencipta pintasan
+Создано новое сохранение. Восстанавливаю бекап в него...,Simpanan baharu dicipta. Memulihkan sandaran ke dalamnya...
+Создать sdmc:/versions.txt,Cipta sdmc:/versions.txt
+Создать единый репак,Cipta bungkus semula tunggal
+Создать новое сохранение...,Cipta simpanan baharu...
+Создать новый каталог...,Cipta direktori baharu...
+Создать новый файл...,Cipta fail baharu...
+Создать ярлык,Cipta pintasan
+Создать ярлык для hbmenu,Cipta pintasan untuk hbmenu
+Создать ярлык на рабочий стол для DBI...,Cipta pintasan desktop untuk DBI...
+Создать ярлык с аргументами...,Cipta pintasan dengan argumen...
+Создаётся обновлённая запись об игре...,Mencipta rekod permainan dikemas kini...
+Сохранение для {} уже существует,Data simpanan untuk {} sudah wujud
+Сохранения,Data Simpanan
+Сохранения будут удалены!,Data simpanan akan dipadam!
+Сохранения удалённых игр ({}),Simpanan permainan dipadam ({})
+Сохранения установленных игр ({}),Simpanan permainan dipasang ({})
+Сохранёные в системе параметры котроллера батареи,Parameter pengawal bateri disimpan dalam sistem
+Существующая запись об игре не найдена,Rekod permainan sedia ada tidak ditemui
+Существующее сохранение не найдено и новое не может быть создано,Simpanan sedia ada tidak ditemui dan yang baharu tidak dapat dicipta
+SDK {} уже был экспортирован: {},SDK {} telah pun dieksport: {}
+Тайтл не установлен,Judul tidak dipasang
+Тайтл установлен,Judul dipasang
+Тайтлы с ошибками:,Judul dengan ralat:
+Текущее время: {},Masa semasa: {}
+SDK на подмену не найдены,Tiada SDK ditemui untuk penggantian
+Тема,Tema
+Тикет исправлен,Tiket dibaiki
+Тикеты,Tiket
+Тикеты не найдены,Tiada tiket ditemui
+864,864
+881,881
+"больше шансов, что оно заработает». Их",berjaya pada akhirnya.' Taktik mereka
+быстро проникли в планы шадоков и,"jiran-jiran, yang pintar kerana internet,"
+"всякий раз, когда растение расцветает","bangsal peralatan, mengepungnya, dan"
+"выражениях: «Чем больше неудач, тем","kerugian, lebih tinggi peluang semuanya"
+"вычислили, что у них есть по крайней",tembakan satu dalam sejuta di mana semuanya
+заработает… И они торопятся поскорее,"999,999 kesilapan maut pertama itu"
+"и дает транзистор, они мчатся, чтобы","kini setiap kali dia nampak cip, mereka"
+"и не кончилось успехом». Или, в других",Atau dengan kata lain: 'Lebih besar
+"мере один шанс из миллиона, что она",akhirnya berjaya... lalu mereka bergegas melakukan
+миллионная заработает».,"I. I. Bullshitter, Rentak Terobosan"
+"ничего, что бы непрерывно продолжалось",pendahuluan sementara menuju kegemilangan.'
+"но окружили его со всех сторон, и",tetamu merangkak masuk ke salah satu
+"опытов, чтобы быть уверенными, что", 
+осуществить 999999 первых неудачных,agar kemenangan menyusul.»
+"очень умные благодаря своим шляпам,",jiran untuk mengambil komponen. Maka
+"планету гиби искать транзисторы. Гиби,",dihantar dari paya terus ke rumah
+постоянно кончаясь неудачами.,patuh menghasilkan pertumbuhan negatif.
+принципов шадокской логики: «Нет,'Tiada bencana yang bukannya sekadar
+"ракета еще несовершенна, но они","tergendala, tetapi mereka tetap berpegang pada"
+"растений, произрастающих на огородах.",kononnya menuai cip terus daripada
+решили позабавиться. Они позволили,cepat menghidu rancangan licik itu
+собрать урожай прежде шадока.,merampasnya kembali serta-merta.
+"терпят неудачу потому, что не хватает",peluru berpandu jatuh kerana mikrocip
+транзисторов в системах безопасности.,terhad—baik dalam sistem panduan mahupun
+"шадоку забраться в один из их огородов,",lalu memutuskan untuk berseronok. Mereka membiarkan
+«У шадоков ситуация удовлетворительна.,"«Bagi puak ork, semuanya mengikut rancangan:"
+"Испытания ракет продолжаются,","proses penolakan terus mara,"
+Но у гиби транзисторы собирают с,"tandas. Sementara itu, jiran-jiran"
+Решено послать одного из шадоков на,perkakas taman mereka. Jadi seorang sukarelawan
+original,asal
+"SSID: {}, Пароль: {}","SSID: {}, Kata laluan: {}"
+Тип оборудования        : {},Jenis peralatan   : {}
+TempC0               : {:04x},TempC0                  : {:04x}
+Уровень заряда батареи         : {},Tahap cas bateri           : {}
+URL для проверки обновлений,URL untuk semakan kemas kini
+Установка с картриджа,Pasang dari katrij
+Установка через DBIbackend,Pasang melalui DBIbackend
+Форсировать UTF-8,Paksa UTF-8
+Хэш версии              : {},Cincangan versi   : {}
+Читать дату файлов,Baca tarikh fail
+Экзосфера очищает CAL0      : {},Exosphere mengosongkan CAL0 : {}
+Экран                 : ({:08X}) {},Skrin                    : ({:08X}) {}
+Язык                    : {},Bahasa            : {}
+"Интервал автобекапа сейвов, дни","Selang auto-sandar simpanan, hari"
+Конфигурация зарядки            : {},Konfigurasi pengecasan       : {}
+Режим Hi-Z включён              : {},Mod Hi-Z didayakan           : {}
+Зарядка батареи включена        : {},Pengecasan bateri didayakan  : {}
+Маршрут электропитания          : {},Laluan bekalan kuasa         : {}
+Напряжение источника            : {} mV,Voltan sumber                : {} mV
+Ток источника                   : {} mA,Arus sumber                  : {} mA
+Быстрая зарядка разрешена       : {},Pengecasan pantas dibenarkan : {}
+Целевая прошивка            : {}.{}.{},Perisian tegar sasaran : {}.{}.{}
+Поддерживаемая версия HOS   : {},Versi HOS disokong     : {}
+Предел входного тока (буст)     : {} mA,Had arus input (galak)       : {} mA
+Предел тока быстрой зарядки     : {} mA,Had arus pengecasan pantas   : {} mA
+Напряжение батареи              : {} mV,Voltan bateri                : {} mV
+Контроллер источника получен    : {},Pengawal sumber diperoleh    : {}
+OTG Запрошен                    : {},OTG Diminta                  : {}
+Производитель    : {:s} ({:02X}),Pengilang          : {:s} ({:02X})
+OEM ID           : {:s} ({:s}),OEM ID             : {:s} ({:s})
+Имя продукта     : {:s},Nama produk        : {:s}
+Ревизия продукта : {:s},Semakan produk     : {:s}
+Серийный номер   : {:s},Nombor siri        : {:s}
+Ёмкость с завода   : {} mAh,Kapasiti kilang     : {} mAh
+Автоповтор кнопок при удержании,Ulang automatik butang apabila ditahan
+Версия атмосферы            : {}.{}.{},Versi Atmosphere      : {}.{}.{}
+Версия прошивки         : {}.{}.{}-{}.{},Versi perisian tegar : {}.{}.{}-{}.{}
+Возраст батареи                : {}%,Usia bateri                : {}%
+Время гашения экрана в секундах,Masa pemalapan skrin dalam saat
+Выключать экран,Matikan skrin
+Выход на рабочий стол,Keluar ke Home
+Дата первого игрового события : {},Tarikh acara main pertama     : {}
+Добавлять суффикс к имени файла,Tambah akhiran pada nama fail
+Достаточное питание            : {},Kuasa mencukupi            : {}
+Есть исправление RCM бага   : {},Ada pembaikan pepijat RCM : {}
+Журналирование действий,Pengelogan tindakan
+Закладки на SD,Penanda buku SD
+Запись в CAL0 разрешена     : {},Tulis CAL0 dibenarkan : {}
+Запускать точку доступа,Mulakan titik capaian
+Запустить FTP сервер,Mulakan pelayan FTP
+Запустить HTTP сервер,Mulakan pelayan HTTP
+Заряд батареи                  : {}%,Cas bateri                 : {}%
+Заряд батареи (сырое значение) : {}%,Cas bateri (nilai mentah)  : {}%
+Зарядка батареи                : {},Cas bateri                 : {}
+Инструменты,Alatan
+Использовать 5 GHz,Guna 5 GHz
+Использовать MSG_WAITALL в recv,Guna MSG_WAITALL dalam recv
+Использовать для неё TitleID,Guna TitleID untuknya
+Использовать разгон,Guna overclocking
+Использовать скрытый SSID,Guna SSID tersembunyi
+Источник питания                : {},Sumber kuasa                 : {}
+Курсор на обеих панелях,Kursor pada kedua-dua panel
+%% заряд-разряд    : {},%% cas-nyahcas : {}
+Никнейм консоли         : {},Nama konsol       : {}
+Общее число игровых сессий    : {},Jumlah bilangan sesi main     : {}
+Bluetooth MAC адрес   : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Alamat MAC Bluetooth     : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+CDIR в листинге,CDIR dalam penyenaraian
+Configuration Id1     : {},Configuration Id1        : {}
+DeviceId                : {0:} ({0:016X}),DeviceId          : {0:} ({0:016X})
+Папка для бекапа сохранений,Folder sandaran data simpanan
+Папка для дампа игр,Folder buangan permainan
+Папка журналов,Folder log
+DramId                  : {} ({}),DramId            : {} ({})
+Пароль,Kata laluan
+Перевернуть джойконы,Songsang Joy-Con
+Перевернуть экран,Putar skrin
+Emummc включён              : {},Emummc didayakan      : {}
+Переносить слова,Balut perkataan
+Платформа               : {},Platform          : {}
+FullCap              : {:04x} ({} mAh),FullCap                 : {:04x} ({} mAh)
+Подсвечивать файлы обновлений,Serlahkan fail kemas kini
+FullCapNom           : {:04x} ({} mAh),FullCapNom              : {:04x} ({} mAh)
+Показываемая версия     : {},Versi dipaparkan  : {}
+Показываемое название   : {},Nama paparan      : {}
+Показывать 'Обновить отсюда',Tunjuk 'Kemas kini dari sini'
+Показывать объединённый NSP,Tunjuk NSP tergabung
+Показывать папку 'Mods&Cheats',Tunjuk folder 'Mods&Cheats'
+Показывать прогрев кеша,Tunjuk pemanasan cache
+Показывать размер LFS (долго),Tunjuk saiz LFS (perlahan)
+Показывать секунды,Tunjuk saat
+Показывать часы в статусе,Tunjuk jam dalam status
+Поколение ключа             : {},Generasi kunci        : {}
+Git commit hash             : {:016X},Cincangan komit Git   : {:016X}
+Полная ёмкость     : {} mAh,Kapasiti penuh      : {} mAh
+IavgEmpty            : {:04x},IavgEmpty               : {:04x}
+Пользовательские хранилища,Storan pengguna
+Предел входного тока            : {} mA,Had arus input               : {} mA
+Предназначение          : {},Tujuan            : {}
+Проверять хэш при установке,Sahkan cincangan semasa pasang
+Просмотр SD карты,Layari kad SD
+Просмотр USB носителей,Layari pemacu USB
+Просмотр раздела SYSTEM,Layari sekatan SYSTEM
+Просмотр раздела USER,Layari sekatan USER
+Просмотр сети,Layari rangkaian
+Просмотр сохранений,Lihat simpanan
+Просмотр тикетов,Lihat tiket
+Просмотр установленных игр,Lihat permainan dipasang
+Регион                  : {},Rantau            : {}
+Режим HiZ зарядки       : {},Mod cas HiZ       : {}
+Режим киоска            : {},Mod kiosk         : {}
+Родительский PIN        : {},PIN ibu bapa      : {}
+Серийный # прочитанный  : {},No. siri dibaca   : {}
+Серийный # угаданный    : {},No. siri diteka   : {}
+Серийный номер        : {},Nombor siri              : {}
+Силовая роль                    : {},Peranan kuasa                : {}
+QrTable00            : {:04x},QrTable00               : {:04x}
+Смещать курсор после выделения,Gerak kursor selepas pemilihan
+QrTable10            : {:04x},QrTable10               : {:04x}
+Сожжено предохранителей : {},Fius terbakar     : {}
+Создавать LFS папку,Cipta folder LFS
+QrTable20            : {:04x},QrTable20               : {:04x}
+QrTable30            : {:04x},QrTable30               : {:04x}
+RCOMP0               : {:04x},RCOMP0                  : {:04x}
+Сохранения только в RO режиме,Simpanan dalam mod RO sahaja
+RTC запущены (приблизительно) : {},RTC dimulakan (anggaran)      : {}
+Текущая ёмкость                 : {}%,Kapasiti semasa              : {}%
+Текущая ёмкость    : {} mAh,Kapasiti semasa     : {} mAh
+Текущее напряжение : {} mV,Voltan semasa       : {} mV
+Текущий заряд      : {}%,Cas semasa          : {}%
+Текущий ток        : {} mA,Arus ditarik        : {} mA
+Тема отображения,Tema paparan
+Температура        : {}°C,Suhu                : {}°C
+Температура батареи             : {}°C,Suhu bateri                  : {}°C
+Тип SoC                 : {},Jenis SoC         : {}
+Тип источника питания          : {},Jenis sumber kuasa         : {}
+Wireless LAN MAC адрес: {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Alamat MAC LAN wayarles  : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+Форсировано вклчение USB 3.0: {},Paksa daya USB 3.0    : {}
+Возраст батареи                 : {}%,Usia bateri                  : {}%
+Предел напряжения заряда батареи: {} mV,Had voltan cas bateri        : {} mV
+Средняя температура: {}°C,Suhu purata         : {}°C
+Сумма %% заряд-разряд: {} (~{} 0-100 циклов),Jumlah %% cas-nyahcas : {} (~{} kitaran 0-100)
+"          Париж, издательство Грассе.", 
+      Название: {}\n      Издатель: {}\n      Версия: ,      Nama: {}\n      Penerbit: {}\n      Versi: 
+Удаление игры ,Memadam permainan 
+Удаляется бекап ,Memadam sandaran 
+Удалять после установки: ,Padam selepas pasang    :
+  Автоопределение,  Auto-kesan
+Шифрование секции ,Penyulitan seksyen 
+Ярлык   : ,Pintasan   : 
+ {} минут, {} minit
+Язык    : ,Bahasa: 
+Путь    : ,Laluan  : 
+  Жак Руксель. Великолепие навыворот.,Akhbar Negara Kubu «Cermin Ajaib»
+  Кодировка...,  Mengekod...
+  Применить,  Guna
+  Редактирование,  Menyunting
+ (по времени игры), (mengikut masa main)
+ (по названию игры), (mengikut judul permainan)
+ (по числу запусков), (mengikut kiraan lancar)
+     {:<10} Шифрование: {} Размер установки: {}{:>10},     {:<10} Penyulitan: {} Saiz pasang: {}{:>10}
+ [НЕ МОГУ ОТКРЫТЬ ФАЙЛ], [TIDAK DAPAT BUKA FAIL]
+Автозапуск FTP: ,Mula automatik FTP: 
+Автор   : ,Pengarang: 
+ {:>5} часа, {:>5} jam
+Базовое хранилище: ,Storan asas: 
+ {:>5} часов, {:>5} jam
+ВНИМАНИЕ ,AMARAN 
+ВНИМАНИЕ! ,AMARAN! 
+ {} в чёрном списке., {} dalam senarai hitam.
+Версия  : ,Versi   : 
+Внимание! ,Amaran! 
+ {} минута, {} minit
+ {} минуты, {} minit
+Всего освобождено места : ,Jumlah ruang dibebaskan : 
+    {:>2} сек,    {:>2} saat
+ Закрытие игры, Menutup permainan
+Выйти из DBI           : ,Keluar DBI              :
+Выключить экран        : ,Matikan skrin           :
+ Запуск игры, Lancar permainan
+ Логаут пользователя \x1b[36;1m{}\x1b[37;1m, Mengelog keluar pengguna \x1b[36;1m{}\x1b[37;1m
+ Логин пользователя \x1b[36;1m{}\x1b[37;1m, Nama pengguna \x1b[36;1m{}\x1b[37;1m
+ Переключение на игру, Beralih ke permainan
+Загружено ,Dimuatkan 
+ Режим работы изменился: {}, Mod operasi ditukar: {}
+ Сброс системных часов, Tetap semula jam sistem
+ Сворачивание игры, Minimumkan permainan
+Запрос на удаление ,Permintaan padam 
+ Состояние электропитания изменилось: {}, Keadaan bekalan kuasa ditukar: {}
+" и {} новое DLC,"," dan {} DLC baharu,"
+"    Великий колдун сказал, что ракеты",Ketua ahli strategi mereka mengisytiharkan bahawa
+" и {} новых DLC,"," dan {} DLC baharu,"
+Имя     : ,Nama    : 
+ сортировка по дате создания, susun mengikut tarikh cipta
+ сортировка по имени, susun mengikut nama
+ сортировка по имени игры, susun mengikut nama permainan
+Используется ,Digunakan 
+ сортировка по месту установки, susun mengikut lokasi pasang
+Конвертация в фейковые ,Menukar kepada palsu 
+ сортировка по общему размеру, susun mengikut jumlah saiz
+ сортировка по пользователю, susun mengikut pengguna
+ сортировка по порядку игры, susun mengikut turutan permainan
+Место установки        : ,Lokasi pemasangan       :
+ сортировка по размеру, susun mengikut saiz
+Название: ,Nama: 
+    Дело здесь в одном из основных,Rahsianya terletak pada logik mendalam mereka:
+Начало установки. Место установки: ,Pemasangan dimulakan. Lokasi pemasangan: 
+Невозможно создать выходной zip-файл: ,Tidak dapat mencipta fail zip output: 
+Неиспользуемый тикет: ,Tiket tidak digunakan: 
+   {:>3} мин,   {:>3} min
+Общий размер передачи  : ,Jumlah saiz pindahan    :
+Общий размер установки : ,Jumlah saiz pemasangan  :
+Ожидается ,Dijangka 
+Ожидание включения интерфейса: ,Menunggu antara muka aktif: 
+Освобождено места в NAND: ,Ruang NAND dibebaskan: 
+Освобождено места на SD : ,Ruang SD dibebaskan : 
+   Получение списка бекапов...   ,   Mendapatkan senarai sandaran...   
+DPAD/Стики - Навигация по страницам\n\n     ZR+ZL - Переход к странице... \n\n       L/R - Навигация по главам   \n\n       (-) - Эта подсказка         \n\n       (+) - Меню                  ,DPAD/Kayu Ria - Navigasi halaman\n\n     ZR+ZL - Lompat ke halaman... \n\n       L/R - Navigasi bab       \n\n       (-) - Petua ini            \n\n       (+) - Menu                  
+Ошибка чтения регистров max17050: ,Ralat membaca daftar max17050: 
+Ошибка чтения сохранённых параметров контроллера: ,Ralat membaca parameter pengawal disimpan: 
+   Получение списка бекапов...{}/{}    ,   Mendapatkan senarai sandaran...{}/{}    
+Предупреждения: ,Amaran: 
+"LFS мод.: Присутствует, Размер: ","Mod LFS.: Wujud, Saiz: "
+Пропускаем файл до начала secure раздела ,Melangkau fail ke permulaan seksyen selamat 
+Размер  : ,Saiz  : 
+Сброс требуемой версии к ,Tetap semula versi diperlukan kepada 
+   Получение списка сохранений...   ,   Mendapatkan senarai simpanan...   
+Скорость USB интерфейса: ,Kelajuan antara muka USB: 
+Создан zip-файл: ,Fail zip dicipta: 
+Создание бекапа сохранения ,Mencipta sandaran simpanan 
+Создание каталога: ,Mencipta direktori: 
+Создание объекта: ,Mencipta objek: 
+Создание фейковой записи... ,Mencipta entri palsu... 
+Создаётся MTP хранилище: ,Mencipta storan MTP: 
+Статистика игры ,Statistik permainan 
+Строка поиска: ,Rentetan carian: 
+Не проверять место     : ,Jangan semak ruang      :
+Проверять хеш-сумму NCA: ,Sahkan cincangan NCA    :
+Патчить имена (HOS 21+): ,Tampal nama (HOS 21+)   :
+Занулять мастерключ    : ,Tetap semula masterkey  :
+Патчить запись видео   : ,Tampal rakaman video    :
+Патчить скриншоты      : ,Tampal tangkapan skrin  :
+Игра использует SDK {},Permainan menggunakan SDK {}
+Удалить старые обновления игр,Padam kemas kini permainan lama
+Удалить потерянный контент с SD,Padam kandungan yatim dari SD
+Удалить потерянный контент из NAND,Padam kandungan yatim dari NAND
+Удалить плейсхолдеры с SD,Padam pemegang tempat dari SD
+Удалить плейсхолдеры из NAND,Padam pemegang tempat dari NAND
+Удалить неиспользуемые тикеты,Padam tiket tidak digunakan
+Починить тикеты с ошибками дампа,Baiki tiket dengan ralat buangan
+Удалить скачанное обновление системы,Padam kemas kini sistem dimuat turun
+Очистить папку erpt_reports,Kosongkan folder erpt_reports
+Очистить кеш тикетов,Kosongkan cache tiket
+Очистить /atmosphere/contents,Kosongkan /atmosphere/contents
+Удалить сохранения удалённых пользователей,Padam simpanan pengguna dipadam
+Дата производства: {:s},Tarikh pengilangan : {:s}
+Ник: {},Nama panggilan: {}
+Установить обновления из текущей папки,Pasang kemas kini dari folder semasa
+Патчить требование NNID: ,Tampal keperluan NNID   :
+Выполнить выбранные действия,Laksana tindakan dipilih
+CID: {:s},CID                : {:s}
+TitleId : {} BID: {},TitleId : {} BID: {}
+"Meta SDK: {},  Program SDK: {}","Meta SDK: {},  Program SDK: {}"
+"Внимание!!! Включение следующих опций приведет к тому,",Amaran!!! Mendayakan pilihan berikut akan menyebabkan
+что установленные NCA файлы будут отличаться от исходных:,fail NCA dipasang berbeza daripada yang asal:
+Включение синхронизации времени по сети...,Mendayakan penyegerakan masa rangkaian…
+ Да ,Ya 
+Нет , Tidak 
+Это действие будет нельзя отменить,Tindakan ini tidak boleh dibuat asal
+Да,Ya
+Произошла ошибка: ,Ralat berlaku: 
+В файле /switch/prod.keys отсутствуют необходимые ключи.,Fail /switch/prod.keys kehilangan kekunci yang diperlukan.
+Часть функций программы будет недоступна.,Beberapa fungsi program tidak akan tersedia.
+Перегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад,But semula ke Hekate dan gunakan muatan Lockpick_RCM.bin
+для дампа ключей из SysNAND.,untuk membuang kekunci dari SysNAND.
+Проверять хэш при установке    : ,Sahkan cincangan semasa pasang : 
+Просмотр раздела USER          : ,Layari sekatan USER            : 
+Тема отображения               : ,Tema paparan                 : 
+Температура    : {}$°$C,Suhu                : {}°C
+Температура     : {}$°$C,Suhu                : {}°C
+Температура      : {}$°$C,Suhu                : {}°C
+Температура       : {}$°$C,Suhu                : {}°C
+Температура        : {}$°$C,Suhu                : {}°C
+Температура         : {}$°$C,Suhu                : {}°C
+Температура          : {}$°$C,Suhu                : {}°C
+Температура           : {}$°$C,Suhu                : {}°C
+Температура            : {}$°$C,Suhu                : {}°C
+Температура             : {}$°$C,Suhu                : {}°C
+Температура              : {}$°$C,Suhu                : {}°C
+Срепняя температура: {}$°$C,Suhu purata         : {}°C
+Средняя температура: {}$°$C,Suhu purata         : {}°C
+Температура батареи        : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи         : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи          : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи           : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи            : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи             : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи              : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи               : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи                : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи                 : {}$°$C,Suhu bateri                  : {}°C
+Температура батареи                  : {}$°$C,Suhu bateri                  : {}°C
+Температура    : {}°C,Suhu                : {}°C
+Температура     : {}°C,Suhu                : {}°C
+Температура      : {}°C,Suhu                : {}°C
+Температура       : {}°C,Suhu                : {}°C
+Температура         : {}°C,Suhu                : {}°C
+Температура          : {}°C,Suhu                : {}°C
+Температура           : {}°C,Suhu                : {}°C
+Температура            : {}°C,Suhu                : {}°C
+Температура             : {}°C,Suhu                : {}°C
+Температура              : {}°C,Suhu                : {}°C
+Температура батареи        : {}°C,Suhu bateri                  : {}°C
+Температура батареи         : {}°C,Suhu bateri                  : {}°C
+Температура батареи          : {}°C,Suhu bateri                  : {}°C
+Температура батареи           : {}°C,Suhu bateri                  : {}°C
+Температура батареи            : {}°C,Suhu bateri                  : {}°C
+Температура батареи              : {}°C,Suhu bateri                  : {}°C
+Температура батареи               : {}°C,Suhu bateri                  : {}°C
+Температура батареи                : {}°C,Suhu bateri                  : {}°C
+Температура батареи                 : {}°C,Suhu bateri                  : {}°C
+Температура батареи                  : {}°C,Suhu bateri                  : {}°C
+Срепняя температура: {}°C,Suhu purata         : {}°C
+ Новый DLC , DLC baharu 
+Записано: ,Ditulis: 
+Игра использует мастер-ключ ,Permainan menggunakan kunci induk 
+Android extensions: ,Sambungan Android: 
+ в чёрном списке., dalam senarai hitam.
+МБ/сек),MB/s)
+[32;1mУстановка игры завершена\x1b[37;1m,\x1b[32;1mPemasangan permainan selesai\x1b[37;1m
+[32;1mТикет исправлен\x1b[37;1m,\x1b[32;1mTiket dibaiki\x1b[37;1m
+[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,[32;1m[PINDAHAN OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m
+\x1b[31;1m[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,\x1b[31;1m[PINDAHAN TERGENDALA]\x1b[37;1m
+[ПОДПИСЬ: Поддельная]\x1b[37;1m,[TANDATANGAN: Palsu]\x1b[37;1m
+[ПОДПИСЬ: OK]\x1b[37;1m,[TANDATANGAN: OK]\x1b[37;1m
+[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK],[PINDAHAN OK] [TANDATANGAN: OK]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная],[PINDAHAN OK] [TANDATANGAN: Palsu]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP],[PINDAHAN OK] [TANDATANGAN: XCI➡NSP]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI],[PINDAHAN OK] [TANDATANGAN: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK],[PINDAHAN OK][TANDATANGAN: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная],[PINDAHAN OK][TANDATANGAN: Palsu]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP],[PINDAHAN OK][TANDATANGAN: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI],[PINDAHAN OK][TANDATANGAN: DBI]
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK] \x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK] \x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK] \x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK] \x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m \x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m \x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m \x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m \x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m\x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m\x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m\x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m\x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПОДПИСЬ: DBI]\x1b[37;1m,[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m  \x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]  \x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m \x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m  \x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m\x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK] \x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK]  \x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK]\x1b[32;1m[TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m [TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m  [TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m[TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK] [TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]  [TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK][TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m [TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m  [TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m[TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK] [TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK]  [TANDATANGAN: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK],[PINDAHAN OK]  [TANDATANGAN: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,[PINDAHAN OK][TANDATANGAN: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m  \x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]  \x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m \x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m  \x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m\x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK] \x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK]  \x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK]\x1b[38;2;255;128;0m[TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m [TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m  [TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m[TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK] [TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]  [TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK][TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m [TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m  [TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m[TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK] [TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK]  [TANDATANGAN: Palsu]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная],[PINDAHAN OK]  [TANDATANGAN: Palsu]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,[PINDAHAN OK][TANDATANGAN: Palsu]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m  \x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]  \x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m \x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m  \x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m\x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK] \x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK]  \x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK]\x1b[32;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m [TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m  [TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK] [TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]  [TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK][TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m [TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m  [TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m[TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK] [TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK]  [TANDATANGAN: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP],[PINDAHAN OK]  [TANDATANGAN: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PINDAHAN OK][TANDATANGAN: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m \x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m  \x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m\x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK] \x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]  \x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m \x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m  \x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m\x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK] \x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]  \x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m  \x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]  \x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m \x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m  \x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m\x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK] \x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]  \x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[32;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m [TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m  [TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]\x1b[37;1m[TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK] [TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK]  [TANDATANGAN: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PINDAHAN OK][TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m [TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m  [TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m[TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK] [TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK]  [TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI],[PINDAHAN OK]  [TANDATANGAN: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,[PINDAHAN OK][TANDATANGAN: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m,[PINDAHAN OK]\x1b[37;1m
+[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,[PINDAHAN TERGENDALA]\x1b[37;1m
+\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[33;1m[TANDATANGAN: DBI]\x1b[37;1m
+"\x1b[1m{} R: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} R: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1mpurata {:>4.1f} (semasa {:>5.2f})\x1b[37;1m MB/saat, \x1b[35;1m{:02d}:{:02d} \x1b[37;1msaat\x1b[1m"
+"\x1b[22m{} R: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m МБ,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m\x1b[22m МБ/сек, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22mсек\x1b[1m","\x1b[22m{} R: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m MB,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22mpurata {:>4.1f} (semasa {:>5.2f})\x1b[37;1m\x1b[22m MB/saat, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22msaat\x1b[1m"
+"\x1b[1m{} W: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} W: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1mpurata {:>4.1f} (semasa {:>5.2f})\x1b[37;1m MB/saat, \x1b[35;1m{:02d}:{:02d} \x1b[37;1msaat\x1b[1m"
+Тема...,Tema...
+"2ая панель, (+) меню, L3 имя","Panel ke-2, (+) Menu, L3 Nama"
+Общее время игры      : {},Jumlah masa main : {}
+Общее время игры      : {} ({}),Jumlah masa main : {} ({})
+Адресное пространство,Ruang alamat
+Поиск старых плейсхолдеров на SD,Mencari pemegang tempat lama pada SD
+Поиск старых плейсхолдеров в NAND,Mencari pemegang tempat lama dalam NAND
+\x1b[31;1mТайтл не установлен\x1b[37;1m,\x1b[31;1mJudul tidak dipasang\x1b[37;1m
+\x1b[31;1mТайтл не установлен,\x1b[31;1mJudul tidak dipasang
+Общее время игры      : - ({}),Jumlah masa main : - ({})
+              Общее время игры      : -,              Jumlah masa main : -
+              Начало игры           : -,              Mula permainan   : -
+              Конец игры            : -,              Tamat permainan  : -
+[ОШИБКА]\x1b[37;1m,[RALAT]\x1b[37;1m
+\x1b[31;1m[ОШИБКА]\x1b[37;1m,\x1b[31;1m[RALAT]\x1b[37;1m
+\x1b[31;1m[ОШИБКА],\x1b[31;1m[RALAT]
+Настроки создания ярлыков,Tetapan penerus
+Использовать 4 ядра CPU,Guna semua 4 teras CPU
+Захват видео,Rakaman video
+Скриншоты,Tangkapan skrin
+Запуск игры,Lancar permainan
+Закрытие игры,Menutup permainan
+Сворачивание игры,Minimumkan permainan
+Переключение на игру,Beralih ke permainan
+Добавить в исключения SaltyNX,Tambah ke pengecualian SaltyNX
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню, L3 имя","X pilih, Y songsang pilihan, A buka, (-) panel ke-2, (+) menu, L3 Nama"
+\x1b[32;1mТайтл установлен\x1b[37;1m,\x1b[32;1mJudul dipasang\x1b[37;1m
+\x1b[32;1mТайтл установлен,\x1b[32;1mJudul dipasang
+Патчить версию в meta  : ,Tampal versi dalam meta   :

@@ -1,0 +1,11 @@
+# Upstream cache & generated build artifacts (do not publish binaries)
+.cache/
+dbi-output/
+dbi-analysis/
+*.nro
+*.bin
+
+# Python / macOS
+__pycache__/
+*.pyc
+.DS_Store

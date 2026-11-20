@@ -1,0 +1,1467 @@
+original,translation
+"X - выбор, Y - инверсия выбора, (+) - меню","X - Chọn, Y - Đảo lựa chọn, (+) - Menu"
+"X - выбор, Y - инверсия выбора, (+) - меню, L3 - запуск","X - Chọn, Y - Đảo lựa chọn, (+) - Menu, L3 - Mở game"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка","X - Chọn, Y - Đảo lựa chọn, (+) - Menu, R3 - Sắp xếp"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка, L3 - запуск","X - Chọn, Y - Đảo lựa chọn, (+) - Menu, R3 - Sắp xếp, L3 - Mở game"
+"X - выбор, Y - инвертирование выбора, A - открыть, (-) - 2ая панель","X - Chọn, Y - Đảo lựa chọn, A - Mở, (-) - Bảng 2"
+"X - выбор, Y - инвертирование выбора, ⬅/➡ - смена панели, (-) - закрыть","X - Chọn, Y - Đảo lựa chọn, ⬅/➡ - Đổi bảng, (-) - Đóng"
+"ZL/ZR - смена даты, Y - период, X - сортировка, (+) - выбрать пользователя","ZL/ZR - Đổi ngày, Y - Chu kỳ, X - Sắp xếp, (+) - Chọn người dùng"
+. Время игры \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,. Thời gian chơi \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+Невозможно смонтировать системный раздел,Không thể gắn phân vùng hệ thống
+"DPAD или стики для перемещения, (+) - Настройки","DPAD hoặc cần gạt để di chuyển, (+) - Cài đặt"
+Ошибка создания файла: {},Lỗi tạo tệp: {}
+Подключение к серверу...,Đang kết nối máy chủ...
+   Это действие будет нельзя отменить   ,   Hành động này không thể hoàn tác   
+SDK подменён,Đã thay thế SDK
+Точка доступа,Điểm phát Wi-Fi
+Традиционный китайский,Tiếng Trung phồn thể
+Транзисторов:      {:>3},Transistor:       {:>3}
+Требуется вручную разрешить синхронизацию времени через Интернет в настройках,Cần bật thủ công đồng bộ giờ qua Internet trong cài đặt
+Тёмная комната,Phòng tối
+Убрать из любимых,Xóa khỏi mục yêu thích
+Увеличить размер (в МБ),Tăng kích thước (MB)
+"Уверены, что хотите продолжить?",Bạn có chắc muốn tiếp tục không?
+Удаление Wi-Fi профиля,Đang xóa hồ sơ Wi-Fi
+Удаление Wi-Fi профиля...,Đang xóa hồ sơ Wi-Fi...
+Удаление {} бекапа,Đang xóa {} bản sao lưu
+Удаление {} бекапов,Đang xóa {} bản sao lưu
+Удаление {} сохранений,Đang xóa {} dữ liệu lưu
+Удаление {} сохранения,Đang xóa {} dữ liệu lưu
+Удаление бекапов,Đang xóa bản sao lưu
+Удаление записи об игре...,Đang xóa bản ghi game...
+Удаление игр,Đang xóa game
+Удаление игры целиком: [{}],Xóa toàn bộ game: [{}]
+Удаление каталога LFS,Đang xóa thư mục LFS
+Удаление контента,Đang xóa nội dung
+Удаление настроек родительского контроля...,Đang xóa cài đặt kiểm soát phụ huynh...
+Удаление не удалось.\n\nНажмите любую кнопку для продолжения,Xóa thất bại.\n\nNhấn nút bất kỳ để tiếp tục
+Удаление неиспользуемого {}...,Đang xóa {} không dùng...
+Удаление плейсхолдера...,Đang xóa tệp giữ chỗ...
+Удаление пользователя,Đang xóa người dùng
+Удаление пользователя...,Đang xóa người dùng...
+Удаление ранее установленных файлов...,Đang xóa các tệp đã cài trước đó...
+Удаление родительского контроля,Đang xóa kiểm soát phụ huynh
+SaveFS очищена,Đã xóa sạch SaveFS
+Удаление связи с Nintendo account...,Đang xóa liên kết tài khoản Nintendo...
+Удаление сохранений,Đang xóa dữ liệu lưu
+Удаление сохранения целиком,Đang xóa toàn bộ dữ liệu lưu
+Удаление старого     {}...,Đang xóa {} cũ...
+Удаление старого файла {}...,Đang xóa tệp cũ {}...
+Удаление старой записи об игре...,Đang xóa bản ghi game cũ...
+Удаление старой папки {}...,Đang xóa thư mục cũ {}...
+Удаление тайтла: [{}],Đang xóa tựa game: [{}]
+Удаление тикетов ({}),Đang xóa ticket ({})
+Удаление...,Đang xóa...
+Удалить,Xóa
+Удалить LFS,Xóa LFS
+Удалить сохранения,Xóa dữ liệu lưu
+Удалить старые бекапы,Xóa bản sao lưu cũ
+Удаляется {} из {}...,Đang xóa {} trên {}...
+Удаляется {}...,Đang xóa {}...
+Удаляется запись о контенте...,Đang xóa bản ghi nội dung...
+Удаляется запись об игре...,Đang xóa bản ghi game...
+Удаляется игра и весь связанный контент,Đang xóa game và toàn bộ nội dung liên quan
+Titlekey не может быть инициализирован,Không thể khởi tạo Titlekey
+Удаляется папка LFS...,Đang xóa thư mục LFS...
+Удаляется пустая папка,Đang xóa thư mục trống
+Удаляется сохранение {}...,Đang xóa dữ liệu lưu {}...
+Удаляется старая запись о контенте...,Đang xóa bản ghi nội dung cũ...
+Удаляется старый cnmt.nca...,Đang xóa cnmt.nca cũ...
+Удаляется тикет: {}...,Đang xóa ticket: {}...
+Удаляются все объекты из альбома для игры,Đang xóa mọi mục khỏi album game
+Удаляются все сохранения для игры,Đang xóa mọi dữ liệu lưu của game
+Удаляются сохранения...,Đang xóa dữ liệu lưu...
+"UID: {}, Ник: {}","UID: {}, Biệt danh: {}"
+Удалённые,Đã xóa
+Удачный экспорт,Xuất thành công
+Уделение старого тикета...,Đang xóa ticket cũ...
+Упаковка каталога в RomFS,Đang đóng gói thư mục thành RomFS
+Упрощенный китайский,Tiếng Trung giản thể
+Успешно разобран как PFS0 файл,Phân tích tệp PFS0 thành công
+Устанавливается {},Đang cài đặt {}
+Установить как аватар...,Đặt làm ảnh đại diện...
+Установка,Cài đặt
+Установка анлокера...,Đang cài đặt trình mở khóa...
+Установка завершена,Cài đặt hoàn tất
+Установка игр (NAND),Cài đặt game (NAND)
+Установка игр (SD Card),Cài đặt game (Thẻ SD)
+Установка игры завершена,Cài đặt game hoàn tất
+Установка обновлений игр,Cài đặt bản cập nhật game
+Установка прервана,Cài đặt bị gián đoạn
+Установка тайтлов ({}/{}),Đang cài đặt tựa game ({}/{})
+USB Соединение,Kết nối USB
+Установка ярлыка...,Đang cài đặt lối tắt...
+Установлен,Đã cài đặt
+Установленные,Đã cài đặt
+Установленные homebrew,Homebrew đã cài
+Установленные homebrew ({}),Homebrew đã cài ({})
+Установленные игры,Game đã cài
+Установленные тикеты,Ticket đã cài
+Установленные тикеты ({}),Ticket đã cài ({})
+Файл повреждён и не может быть установлен. Не найдена сигнатура HEAD,Tệp bị hỏng và không thể cài đặt. Không tìm thấy chữ ký HEAD
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе root,Tệp bị hỏng và không thể cài đặt. Không tìm thấy chữ ký HFS0 ở phân vùng gốc
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе secure,Tệp bị hỏng và không thể cài đặt. Không tìm thấy chữ ký HFS0 ở phân vùng bảo mật
+Файл повреждён и не может быть установлен. Не найдена сигнатура PFS0,Tệp bị hỏng và không thể cài đặt. Không tìm thấy chữ ký PFS0
+Файл слишком большой для хранилища,Tệp quá lớn so với bộ nhớ
+Файл: {},Tệp: {}
+Фиксация ФС...,Ghi nhận FS...
+Финальный размер: {},Kích thước cuối: {}
+Формирование списка...,Đang tạo danh sách...
+Форсированный язык    : {},Ngôn ngữ ép buộc : {}
+Форсированный язык    : {} ({}),Ngôn ngữ ép buộc : {} ({})
+Форсировать язык,Ép buộc ngôn ngữ
+Французский,Tiếng Pháp
+"Х:{}, Т:{}, РЦ:{}","H:{}, T:{}, R:{}"
+Хранилища MTP,Bộ nhớ MTP
+Хранилище только для чтения,Bộ nhớ chỉ đọc
+Целевая запись о контенте не найдена,Không tìm thấy bản ghi nội dung đích
+ЧАСТЬ КОНТЕНТА ОТСУТСТВУЕТ. ИГРА НЕ БУДЕТ РАБОТАТЬ,THIẾU MỘT PHẦN NỘI DUNG. GAME SẼ KHÔNG CHẠY
+Число транзисторов: {:>3},Số transistor:     {:>3}
+Число уникальных сыграных игр : {},Số game đã chơi khác nhau    : {}
+Число ходов:        {:>3},Số nước đi:             {:>3}
+Чтение каталога...,Đang đọc thư mục...
+Чтение списка файлов...,Đang đọc danh sách tệp...
+Что-то плохое грядёт,Có điều xấu sắp xảy ra
+Что-то пошло не так. Пропускаем оставшийся файл,Đã xảy ra sự cố. Bỏ qua phần tệp còn lại
+"Чтобы вернуться, нажмите B",Nhấn B để quay lại
+Шадок у Гиби,Dân đầm lầy nhà hàng xóm
+Экспорт SDK,Xuất SDK
+Экспортировать,Xuất
+Экспортировать SDK,Xuất SDK
+Январь,Tháng Một
+Японский,Tiếng Nhật
+Ярлык для DBI,Lối tắt cho DBI
+да,có
+не является LFS папкой,không phải thư mục LFS
+не является LFS папкой игры,không phải thư mục LFS của game
+нет,không
+"ZL/ZR - смена даты, Y - период","ZL/ZR - đổi ngày, Y - chu kỳ"
+"Получено: {}, (скорость не определена)","Đã nhận: {}, (không rõ tốc độ)"
+Игры добавлены в список исключений,Đã thêm game vào danh sách loại trừ
+Новых игр в список исключений добавлено не было,Chưa có game mới nào được thêm vào danh sách loại trừ
+Просмотр МТР устройства [{}],Đang xem thiết bị MTP [{}]
+Просмотр USB диска [{}],Đang xem ổ USB [{}]
+Заряд батареи (сырое значение) : {},Mức pin (giá trị thô)       : {}
+ru,vi
+[CRC ОШИБКА ФАЙЛА],[LỖI CRC TỆP]
+Будет скачана и установлена прошивка системы из файла {}.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены,Firmware hệ thống sẽ được tải xuống và cài từ tệp {}.\n\nNhấn (+) để tiếp tục\nNút khác để hủy
+Распаковка архива не удалась,Giải nén tệp lưu trữ thất bại
+Сканирование архива не удалось,Quét tệp lưu trữ thất bại
+Установить все обновления из этой папки,Cài tất cả bản cập nhật trong thư mục này
+Япония,Nhật Bản
+Русский,Tiếng Nga
+Февраль,Tháng Hai
+Октябрь,Tháng Mười
+[HASH MISMATCH: GC ➡ eShop],[SAI KHỚP HASH: GC ➡ eShop]
+Ноябрь,Tháng Mười Một
+Игрок,Người chơi
+Время,Thời gian
+Контент,Nội dung
+[HASH: OK],[HASH: OK]
+Красная,Đỏ
+[HASH MISMATCH: Неисправимо],[SAI KHỚP HASH: Không thể khôi phục]
+[ПРЕД],[TRƯỚC]
+Альбом,Album
+Выход,Thoát
+и т.д...,v.v...
+{} бекап,{} bản sao lưu
+874,874
+Пишется тело: {}/{}MB \r,Đang ghi phần thân: {}/{}MB \r
+Пишется скриншот\n,Đang ghi ảnh chụp màn hình\n
+Пишется таблица хешей\n,Đang ghi bảng hash\n
+Пишется подпись видео\n,Đang ghi chữ ký video\n
+Операция завершена\n,Thao tác hoàn tất\n
+"Будет скачана и установлена прошивка системы из файла {}.\n\nВНИМАНИЕ!!! Похоже, эта версия не поддерживается текущей атмосферой.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены",Firmware hệ thống sẽ được tải xuống và cài từ tệp {}.\n\nCẢNH BÁO!!! Có vẻ phiên bản này không được Atmosphere hiện tại hỗ trợ.\n\nNhấn (+) để tiếp tục\nNhấn nút khác để hủy
+Копирование файла не удалось,Sao chép tệp thất bại
+Daybreak.nro не найден,Không tìm thấy Daybreak.nro
+Изображение добавлено в альбом,Đã thêm ảnh vào album
+Ошибка добавления изобржения в альбом: {},Lỗi thêm ảnh vào album: {}
+Добавить в альбом,Thêm vào album
+Анализ mp4 файла,Đang phân tích tệp mp4
+Длительность: {},Thời lượng: {}
+ОШИБКА! Файл не содержит один видео трек,LỖI! Tệp không chứa đúng một luồng video
+ОШИБКА! Файл не содержит один аудио трек,LỖI! Tệp không chứa đúng một luồng âm thanh
+ОШИБКА! У видео трека неподдерживаемый кодек,LỖI! Luồng video dùng codec không được hỗ trợ
+ОШИБКА! У аудио трека неподдерживаемый кодек,LỖI! Luồng âm thanh dùng codec không được hỗ trợ
+ОШИБКА! Аудио трек не стерео,LỖI! Luồng âm thanh không phải stereo
+[{}] Общий тикет для {},[{}] Common ticket cho {}
+ОШИБКА! У аудио трека неподходящая частота дискретизации,LỖI! Luồng âm thanh có tần số lấy mẫu không phù hợp
+ОШИБКА! У видео трека неподходящая ширина,LỖI! Luồng video có chiều rộng không phù hợp
+ОШИБКА! У видео трека неподходящая высота,LỖI! Luồng video có chiều cao không phù hợp
+ВНИМАНИЕ! Возможно видео поток содержит B-Frames. Файл может не воспроизводиться,CẢNH BÁO! Luồng video có thể chứa B-Frames. Tệp có thể không phát được
+"Похоже, это не MP4 файл",Có vẻ đây không phải là tệp MP4
+Открыть как RomFS,Mở dạng RomFS
+\x1b[31;1mГ\x1b[37;1m,\x1b[31;1mГ\x1b[37;1m
+\x1b[32;1mШ\x1b[37;1m,\x1b[32;1mШ\x1b[37;1m
+Ваша SD карта является подделкой. Рекомендуется заменить SD карту на проверенную.,Thẻ SD của bạn là hàng giả. Khuyên dùng thẻ SD chính hãng đã kiểm chứng.
+[{}] Персональный тикет для {},[{}] Personal ticket cho {}
+Кажется ваша SD карта является подделкой.\n\nВозможны проблемы с установкой игр.\nВ этом случае рекомендуется заменить SD карту на проверенную.,"Thẻ SD của bạn có vẻ là hàng giả.\n\nCó thể gặp lỗi khi cài đặt game.\nTrong trường hợp này, bạn nên thay thẻ SD đã kiểm chứng."
+Информация о SD карте,Thông tin thẻ SD
+[ПОДПИСЬ: DBI],[CHỮ KÝ: DBI]
+.    Время игры    \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,.    Thời gian chơi \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+"ZL/ZR смена даты, Y период, X сортировка, (+) выбрать пользователя","ZL/ZR đổi ngày, Y chu kỳ, X sắp xếp, (+) chọn người dùng"
+[{}МБ] {}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,[{}MB] {}MB / {}MB ({:.2f} MB/sec)\x1b[0K\r
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка, L3 запуск","X chọn, Y đảo lựa chọn, (+) menu, R3 sắp xếp, L3 mở game"
+Создать все известные ({}),Tạo tất cả đã biết ({})
+"X выбор, Y обратить выбор, (+) меню, L3 запуск","X chọn, Y đảo lựa chọn, (+) menu, L3 mở game"
+"DPAD или стики для перемещения, (+) Настройки","DPAD hoặc cần gạt để di chuyển, (+) Cài đặt"
+Просмотр HTTP/FTP/Github сервера...,Đang duyệt máy chủ HTTP/FTP/Github...
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка","X chọn, Y đảo lựa chọn, (+) menu, R3 sắp xếp"
+"X выбор, Y обр. выбор, (+) меню","X chọn, Y đảo lựa chọn, (+) menu"
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню","X chọn, Y đảo lựa chọn, A mở, (-) bảng 2, (+) menu"
+"X выбор, Y обр. выбор, ⬅/➡ смена панели, (-) закрыть, (+) меню","X chọn, Y bỏ chọn, ⬅/➡ đổi bảng, (-) đóng, (+) menu"
+[ДЕЛЬТА ФРАГМЕНТ НЕ НУЖЕН],[KHÔNG CẦN MẢNH DELTA]
+[КОНТЕНТ ОТСУТСТВУЕТ],[THIẾU NỘI DUNG]
+[НЕ СОЗДАТЬ ПЛЕЙСХОЛДЕР],[KHÔNG TẠO TỆP GIỮ CHỖ]
+[НЕДОСТАТОЧНО МЕСТА],[KHÔNG ĐỦ DUNG LƯỢNG]
+[НЕИЗВЕСТНОЕ СЖАТИЕ],[NÉN KHÔNG XÁC ĐỊNH]
+[ОТСУТСТВУЕТ],[BỊ THIẾU]
+[ОШБК],[LỖI]
+[ОШИБКА NCA MAGIC],[LỖI NCA MAGIC]
+[ОШИБКА ЗАПИСИ В ПЛЕЙСХОЛДЕР],[LỖI GHI TỆP GIỮ CHỖ]
+[ОШИБКА РАСПАКОВКИ ZSTD: {}],[LỖI GIẢI NÉN ZSTD: {}]
+[ОШИБКА РАСПАКОВКИ],[LỖI GIẢI NÉN]
+[ОШИБКА],[LỖI]
+[ОШИБКА] Отсутствует URL списка обновлений,[LỖI] Thiếu URL danh sách cập nhật
+[ПЕРЕДАЧА OK],[TRUYỀN OK]
+[ПЕРЕДАЧА ПРЕРВАНА],[TRUYỀN BỊ GIÁN ĐOẠN]
+[ПОВРЕЖДЁННЫЙ NCA],[NCA BỊ HỎNG]
+[ПОДПИСЬ: OK],[CHỮ KÝ: OK]
+[ПОДПИСЬ: XCI➡NSP],[CHỮ KÝ: XCI➡NSP]
+[ПОДПИСЬ: Поддельная],[CHỮ KÝ: Giả]
+[СТАРАЯ ПРОШИВКА],[FIRMWARE CŨ]
+[ТРЕБУЕТСЯ РЕЖИМ ТАЙТЛА],[CẦN CHẾ ĐỘ TITLE]
+[ФАЙЛ ПОВРЕЖДЁН],[TỆP BỊ HỎNG]
+[ХЕШ ИСПРАВЛЕН],[ĐÃ SỬA HASH]
+[ХЕШ НЕ СОВПАДАЕТ],[SAI KHỚP HASH]
+\nНачало обработки dlc {}: {:016X},\nĐang bắt đầu xử lý DLC {}: {:016X}
+\nНачало обработки программы {},\nĐã bắt đầu xử lý ứng dụng {}
+\nНачало создания Data.nca,\nĐang bắt đầu tạo Data.nca
+\nНачало создания Meta.nca,\nĐang bắt đầu tạo Meta.nca
+\nОшибка USB обмена,\nLỗi truyền tải USB
+\nСборка PFS0,\nĐang đóng gói PFS0
+\nСборка RomFS,\nĐang đóng gói RomFS
+\nСекция 0,\nPhần 0
+\nСекция 1,\nPhần 1
+\nСекция 2,\nPhần 2
+\nСоздан NSP: {},\nĐã tạo NSP: {}
+\nШифрование NCA,\nMã hóa NCA
+{:04d} {} {:02d}. Всего: {} час,{:04d} {} {:02d}. Tổng: {} giờ
+{:04d} {} {:02d}. Всего: {} часа,{:04d} {} {:02d}. Tổng: {} giờ
+{:04d} {} {:02d}. Всего: {} часов,{:04d} {} {:02d}. Tổng: {} giờ
+{:4d} {}. Всего: {} час,{:4d} {}. Tổng: {} giờ
+{:4d} {}. Всего: {} часа,{:4d} {}. Tổng: {} giờ
+{:4d} {}. Всего: {} часов,{:4d} {}. Tổng: {} giờ
+{:4d}. Всего: {} час,{:4d}. Tổng: {} giờ
+{:4d}. Всего: {} часа,{:4d}. Tổng: {} giờ
+{:4d}. Всего: {} часов,{:4d}. Tổng: {} giờ
+{:>3} {}{:<50}\x1b[37;1m {:>10},{:>3} {}{:<50}\x1b[37;1m {:>10}
+{:>6} объектов обработано. {:>5} записей найдено...\r,{:>6} đối tượng đã xử lý. Đã tìm thấy {:>5} mục...\r
+{:>6}/{}kB уже скачано...\r,{:>6}/{}kB đã tải xuống...\r
+{} cохранение,{} dữ liệu lưu
+{} cохранений,{} đã lưu
+{} cохранения,{} dữ liệu lưu
+{} бекапа,{} bản sao lưu
+{} бекапов,{} bản sao lưu
+{} записей ({}),{} mục ({})
+{} записи ({}),{} mục ({})
+{} запись ({}),{} mục ({})
+{} игр ({}),{} game ({})
+{} игра ({}),{} game ({})
+{} игры ({}),{} game ({})
+{} сохранение,{} dữ liệu lưu
+{} сохранений,{} dữ liệu lưu
+{} сохранения,{} dữ liệu lưu
+{} тикет,{} ticket
+{} тикета,{} ticket
+{} тикетов,{} ticket
+{}-{} FW:{}{} SDK:{},{}-vi{:.0} FW:{}{} SDK:{}
+"{}/{} MB (Ср: {:.1f} MB/sec, Тек: {:.1f} MB/sec) Ост. {:02d}:{:02d}      \r","{}/{} MB (TB: {:.1f} MB/sec, HT: {:.1f} MB/sec) Còn {:02d}:{:02d}      \r"
+"{}/{} МБ, {:.2f} МБ/сек","{}/{} MB, {:.2f} MB/sec"
+{}: {} потерянная запись,{}: {} mục mồ côi
+{}: {} потерянных записей,{}: {} mục bị mất
+{}: {} потерянных записи,{}: {} mục bị mất
+{}: {}/{} ({:.2f} МБ/сек),{}: {}/{} ({:.2f} MB/sec)
+{}: {}/{} ({}%) ({:.2f} МБ/сек),{}: {}/{} ({}%) ({:.2f} MB/s)
+{}: пропускается {}/{} ({:.2f} МБ/сек),{}: đang bỏ qua {}/{} ({:.2f} MB/sec)
+"{}\n\nВосстановление бекапа не удалось\n\nНажмите A - прервать, другая кнопка - продолжить","{}\n\nKhôi phục bản sao lưu thất bại\n\nNhấn A để hủy, nhấn nút khác để tiếp tục"
+{}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,{}MB / {}MB ({:.2f} MB/sec)\x1b[0K\r
+АВТО,AUTO
+Аватар установлен,Đã đặt ảnh đại diện
+Август,Tháng Tám
+Австралия,Úc
+Автозапуск MTP,Tự khởi chạy MTP
+Автозапуск списка homebrew,Danh sách homebrew tự chạy
+Агрументы для ярлыка,Tham số lối tắt
+Адрес FTP сервера: {},Địa chỉ máy chủ FTP: {}
+Адрес HTTP сервера: {},Địa chỉ máy chủ HTTP: {}
+Альбом (0°),Album (0°)
+Американский английский,Tiếng Anh (Mỹ)
+Апрель,Tháng Tư
+База этой игры не самодостаточна. Не забудьте установить обновление,Bản gốc game này không tự chạy độc lập. Đừng quên cài bản cập nhật
+Бекапы,Bản sao lưu
+Бекапы сохранений ({}),Bản sao lưu dữ liệu lưu ({})
+Британский английский,Tiếng Anh (Anh)
+В альбоме найден {} объект,Đã tìm thấy {} đối tượng trong album
+В альбоме найдено {} объекта,Đã tìm thấy {} đối tượng trong album
+В альбоме найдено {} объектов,Đã tìm thấy {} đối tượng trong album
+В альбоме отсутствуют объекты,Không có đối tượng trong album
+В файле /switch/prod.keys отсутствуют необходимые ключи.\n\nЧасть функций программы будет недоступна.\n\nПерегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад\nдля дампа ключей из SysNAND.,Thiếu các key cần thiết trong tệp /switch/prod.keys.\n\nMột số tính năng của ứng dụng sẽ không khả dụng.\n\nHãy khởi động lại vào Hekate và dùng payload Lockpick_RCM.bin\nđể trích xuất key từ SysNAND.
+ВНИМАНИЕ! Тайтл {:016X} не установлен,CẢNH BÁO! Tựa game {:016X} chưa được cài đặt
+ВНИМАНИЕ! Установленная версия ({}) не совпадает с желаемой ({}),CẢNH BÁO! Phiên bản đã cài ({}) không khớp với phiên bản mong muốn ({})
+ВО ВРЕМЯ ПЕРЕДАЧИ ФАЙЛА НАЙДЕНЫ ОШИБКИ. УСТАНОВКА ПРЕРВАНА,PHÁT HIỆN LỖI KHI TRUYỀN TỆP. ĐÃ HỦY CÀI ĐẶT
+Введите URL сервера (HTTP или (S)FTP),Nhập URL máy chủ (HTTP hoặc (S)FTP)
+Введите агрументы для ярлыка или оставьте пустым,Nhập tham số cho lối tắt hoặc để trống
+Введите желаемый номер страницы,Nhập số trang mong muốn
+Введите новое имя,Nhập tên mới
+Введите новое имя каталога,Nhập tên thư mục mới
+Введите новое имя файла,Nhập tên tệp mới
+Введите номер DLC,Nhập số DLC
+Версия {} [v{}],Phiên bản {} [v{}]
+Вместо пользователя {} использовать:,Dùng thay cho người dùng {}:
+Внимание!\nНекоторые файлы были заблокированы и поэтому пропущены.,Cảnh báo!\nMột số tệp bị khóa nên đã bị bỏ qua.
+Во время разбора\n\n{}\n\nвозникла следующая ошибка:\n\n{},Khi phân tích\n\n{}\n\nđã xảy ra lỗi sau:\n\n{}
+Во время установки тикетов были ошибки. Проверьте наличие ES сигпатчей,Đã xảy ra lỗi khi cài ticket. Hãy kiểm tra ES sigpatches
+Во время экспорта были ошибки,Đã xảy ra lỗi khi xuất
+Возраст батареи                : {},Độ bền pin                : {}
+Возрастной рейтинг,Giới hạn độ tuổi
+Восстановить,Khôi phục
+Восстановить бекап...,Khôi phục bản sao lưu...
+Восстановить для...,Khôi phục cho...
+Восстановить как бекап сохранения,Khôi phục làm bản sao lưu dữ liệu lưu
+Восстановление бекапа,Đang khôi phục bản sao lưu
+Восстановление не удалось,Khôi phục thất bại
+Восстановление успешно,Khôi phục thành công
+Восстановление: {},Đang khôi phục: {}
+Время игры: {:02}:{:02}:{:02},Thời gian chơi: {:02}:{:02}:{:02}
+Время передачи {:d}:{:02d}:{:02d},Thời gian truyền {:d}:{:02d}:{:02d}
+Все игровые сессии,Mọi phiên chơi game
+Все игроки,Mọi người chơi
+Все объекты,Mọi đối tượng
+Все файлы в порядке,Mọi tệp đều OK
+Всего {} байт получен,Đã nhận {} byte
+Всего {} байт послан,Đã gửi {} byte
+Всего {} байта получено,Tổng cộng đã nhận {} byte
+ Да, Có
+Всего {} байта послано,Đã gửi {} byte
+Всего {} байтов получено,Tổng cộng đã nhận {} byte
+Всего {} байтов послано,Đã gửi {} byte
+Всего записей: {},Tổng số mục: {}
+Всего отослано: {} ({}/сек),Tổng đã gửi: {} ({}/giây)
+Всего программ: {},Tổng số tựa game: {}
+Вставить,Dán
+Вставка...,Đang chèn...
+Всё время. Всего: {} час,Toàn thời gian. Tổng: {} giờ
+Всё время. Всего: {} часа,Toàn thời gian. Tổng: {} giờ
+Всё время. Всего: {} часов,Toàn thời gian. Tổng: {} giờ
+Вы собираетесь удалить следующие бекапы:,Bạn sắp xóa các bản sao lưu sau:
+Вы собираетесь удалить следующие игры:,Bạn sắp xóa các game sau:
+Вы собираетесь удалить следующие сохранения:,Bạn sắp xóa các dữ liệu lưu sau:
+Вы собираетесь удалить следующие тикеты:,Bạn sắp xóa các ticket sau:
+Вы уверены в удалении {} записей?\n\n(+) - ДА   B - Отмена,Bạn có chắc muốn xóa {} mục?\n\n(+) - CÓ   B - Hủy
+Вы уверены в удалении {} записи?\n\n(+) - ДА   B - Отмена,Bạn có chắc muốn xóa {} mục?\n\n(+) - CÓ   B - Hủy
+Вы уверены в удалении {} объекта?\n\n(+) - ДА   B - Отмена,Bạn có chắc muốn xóa {} đối tượng?\n\n(+) - CÓ   B - Hủy
+Вы уверены в удалении {} объектов?\n\n(+) - ДА   B - Отмена,Bạn có chắc muốn xóa {} đối tượng?\n\n(+) - CÓ   B - Hủy
+"Вы уверены, что хотите удалить {}?\n\n(+) - ДА, другая кнопка - НЕТ","Bạn có chắc muốn xóa {}?\n\n(+) - CÓ, nút khác - KHÔNG"
+"Вы уверены, что хотите удалить\n{}?\n\n(+) - ДА  В - Отмена",Bạn có chắc muốn xóa\n{}?\n\n(+) - CÓ  B - Hủy
+Выберите пользователя,Chọn người dùng
+Выберите тип сохранения,Chọn loại dữ liệu lưu
+Выбрать все файлы игры,Chọn tất cả tệp game
+Выбрать того же пользователя,Chọn cùng người dùng
+Выбрать ту же игру,Chọn cùng game
+Вырезать,Cắt
+Вычисление хэша,Đang tính hash
+Вычисленное время конца : {},Giờ kết thúc ước tính: {}
+Вычисленное время начала: {},Giờ bắt đầu ước tính : {}
+Генерация DLC [{:016X}][v{}],Đang tạo DLC [{:016X}][v{}]
+Генерация DLC анлокера...,Đang tạo trình mở khóa DLC...
+Генерируется анлокер для {:016X} с номером {} и версией {}...,Đang tạo trình mở khóa cho {:016X} với số {} và phiên bản {}...
+Генерируется ярлык для пути '{}' и аргументов '{}'...,Đang tạo lối tắt cho đường dẫn '{}' và tham số '{}'...
+Главное меню,Menu chính
+Голландский,Tiếng Hà Lan
+"Да, я уверен","Có, tôi chắc chắn"
+Дамп анлокера в '{}'...,Đang xuất trình mở khóa tới '{}'...
+Дамп текущей прошивки,Sao lưu firmware hiện tại
+Дамп ярлыка в '{}'...,Đang xuất lối tắt tới '{}'...
+Действия с файлами,Thao tác tệp
+Действия с файлами ({}),Hành động tệp ({})
+Декабрь,Tháng Mười Hai
+День,Ngày
+Диаграмма активности,Biểu đồ hoạt động
+Для бекапов,Cho bản sao lưu
+Для выхода нажмите любую кнопку,Nhấn nút bất kỳ để thoát
+Для дампов,Cho bản trích xuất
+Для логов,Cho nhật ký
+Добавить в любимые,Thêm vào mục yêu thích
+Европа,Châu Âu
+"Есть несохранёные изменения.\nВы хотите их сохранить?\n\n(+) - Да, сохранить\n\n(-) - Выйти без сохранения\n\nДругая кнопка - Отмена","Có thay đổi chưa lưu.\nBạn có muốn lưu lại không?\n\n(+) - Có, lưu lại\n\n(-) - Thoát không lưu\n\nNút khác - Hủy"
+Желаемая версия: {},Phiên bản mong muốn: {}
+Журнал активности,Nhật ký hoạt động
+Завершено,Hoàn tất
+Загружается список обновлений...,Đang tải danh sách cập nhật...
+Загрузка изображения...,Đang tải ảnh...
+Загрузка текста...{}%,Đang tải văn bản...{}%
+Загрузка файла... {}%,Đang tải tệp... {}%
+Задать размер файла {} не удалось: {},Đặt kích thước tệp {} thất bại: {}
+Закончено за {:02d}:{:02d}:{:02d},Hoàn tất trong {:02d}:{:02d}:{:02d}
+Закончилась память при посылке ответа,Hết bộ nhớ khi gửi phản hồi
+Закончились дополнительные буферы. Скорость записи на носитель слишком низка,Hết bộ đệm bổ sung. Tốc độ ghi vào bộ nhớ quá chậm
+Закрытие соединения,Đang đóng kết nối
+Закрытие соединения к {}:{},Đang đóng kết nối tới {}:{}
+Запаковать LFS в romfs.bin,Đóng gói LFS thành romfs.bin
+Запаковать в romfs.bin,Đóng gói thành romfs.bin
+Запаковка папки в RomFS,Đang đóng gói thư mục thành RomFS
+Записанное время конца  : {},Giờ kết thúc đã ghi  : {}
+Записанное время начала : {},Giờ bắt đầu đã ghi   : {}
+Запись в файл...,Đang ghi vào tệp...
+Запись за пределами файла,Ghi vượt quá giới hạn tệp
+Заполнение нулями,Điền số 0
+Заполнить свободное место на SD нулями,Điền số 0 vào dung lượng trống trên SD
+Запрет захвата видео,Chặn quay video
+Запрет скриншотов,Chặn chụp màn hình
+Запрещено,Bị cấm
+Запускавшиеся игры,Game đã mở
+Запустить FTP сервер...,Bật máy chủ FTP...
+Запустить HTTP сервер...,Đang bật máy chủ HTTP...
+Запустить МТР соединение,Bắt đầu kết nối MTP
+Запустить случайную игру,Mở game ngẫu nhiên
+Заряд батареи                  : {},Mức pin                      : {}
+Здесь пусто,Không có gì ở đây
+Игра анонсирует SDK {},Game khai báo SDK {}
+"Игра анонсирует более новый SDK ({}), чем текущая прошивка ({})",Game khai báo SDK mới hơn ({}) so với firmware hiện tại ({})
+Игра использует titleId от дополнения,Game dùng titleId từ DLC
+Игра использует titleId от обновления,Game dùng titleId từ bản cập nhật
+Извлечь в LFS,Giải nén ra LFS
+Изменение размера сохранения на {} [{}]...,Đang đổi cỡ dữ liệu lưu thành {} [{}]...
+Изменить версию DLC (десятичную),Đổi phiên bản DLC (thập phân)
+Изменить номер DLC (десятичный),Đổi số DLC (thập phân)
+Изменить номер DLC (шестнадцатеричный),Đổi số DLC (thập lục phân)
+Изменён размер SaveFS,Đã đổi kích thước SaveFS
+Импорт исправленного тикета...,Đang nhập ticket đã sửa...
+Импорт тикета...,Đang nhập ticket...
+"Имя каталога\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Tên thư mục\n'{}'\nchứa ký tự không hợp lệ.\nKhông thể tạo.\n\nNhấn A - hủy, B - bỏ qua, X - đổi tên"
+"Имя файла\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Tên tệp\n'{}'\nchứa ký tự không hợp lệ.\nKhông thể tạo.\n\nNhấn A - hủy, B - bỏ qua, X - đổi tên"
+Инсталлируется romfs.bin,Đang cài đặt romfs.bin
+Информация о зарядке батареи,Thông tin sạc pin
+Информация о контенте,Thông tin nội dung
+Информация о контенте ({}),Thông tin nội dung ({})
+Информация о прошивке,Thông tin firmware
+Информация о системе,Thông tin hệ thống
+Информация о сохранении,Thông tin dữ liệu lưu
+Информация о сохранении...,Thông tin dữ liệu lưu...
+Информация о тикете,Thông tin ticket
+Информация о тикете...,Thông tin ticket...
+Информация об NSP,Thông tin NSP
+Информация об атмосфере,Thông tin Atmosphere
+Информация об игровой активности,Thông tin hoạt động game
+Информация об источние питания,Thông tin nguồn điện
+Информация об оборудовании,Thông tin phần cứng
+Информация...,Thông tin...
+Испанский,Tiếng Tây Ban Nha
+Использовано дополнительной памяти: {}. Создано буферов: {},Bộ nhớ phụ đã dùng: {}. Bộ đệm đã tạo: {}
+Использовать папку для...,Dùng thư mục cho...
+Используется USB{},Đang dùng USB{}
+Итальянский,Tiếng Ý
+Ищется control для ProgramId {},Đang tìm control cho ProgramId {}
+Ищется exefs/romfs для ProgramId {},Đang tìm exefs/romfs cho ProgramId {}
+Ищется exefs/romfs/logo для ProgramId {},Đang tìm exefs/romfs/logo cho ProgramId {}
+Ищется {},Đang tìm {}
+Июль,Tháng Bảy
+Июнь,Tháng Sáu
+Канадский французский,Tiếng Pháp (Canada)
+"Когда ваше устройство подключится, нажмите любую кнопку",Nhấn nút bất kỳ khi thiết bị đã kết nối
+Код партии батареи    : {} ({}),Mã lô pin                : {} ({})
+Кодировка,Bảng mã
+Конец игры            : -,Kết thúc game   : -
+Конец игры            : {},Kết thúc game   : {}
+Контент уже на месте,Nội dung đã có sẵn tại chỗ
+Копирование IVFC слой {} в nca: {},Đang chép lớp IVFC {} vào nca: {}
+Копирование PFS0 в nca,Đang chép PFS0 vào nca
+Копирование PFS0 хэш таблицы в nca,Đang chép bảng hash PFS0 vào nca
+Копирование SDK {} в файл: {}...,Đang chép SDK {} vào tệp: {}...
+Копировать,Sao chép
+Корейский,Tiếng Hàn
+Корень не найден,Không tìm thấy thư mục gốc
+Корень сохранения не существует,Thư mục gốc dữ liệu lưu không tồn tại
+Корея,Hàn Quốc
+Латиноамериканский испанский,Tiếng Tây Ban Nha (Mỹ Latinh)
+Май,Tháng Năm
+Март,Tháng Ba
+Масштаб: По ширине,Tỷ lệ: Vừa chiều rộng
+Масштаб: По экрану,Tỷ lệ: Vừa màn hình
+Масштаб: Точка в точку,Tỷ lệ: Chuẩn pixel
+Масштаб: Увеличение x2,Tỷ lệ: Phóng đại 2x
+Место в  NAND         : {},Dung lượng NAND      : {}
+Место на SD карте     : {},Dung lượng thẻ SD    : {}
+Место на приставке не занято,Không chiếm dung lượng trên máy
+Мета контент отсутствует,Thiếu nội dung Meta
+Миссия провалена\n\nНажмите А для выхода,Nhiệm vụ thất bại\n\nNhấn A để thoát
+Миссия успешна\n\nОсталось ходов: {}\n\nНажмите А для выхода,Nhiệm vụ hoàn thành\n\nNước đi còn: {}\n\nNhấn A để thoát
+Модификация файла не удалась,Sửa đổi tệp thất bại
+На выбранном устройстве нет достаточного свободного места для установки,Không đủ dung lượng trống trên thiết bị đã chọn để cài đặt
+На месте нет достаточно свободного места,Không đủ dung lượng trống
+Нажмите (+) для перезаписи конфига обновлённым\n\nЛюбую другую кнопку для пропуска,Nhấn (+) để ghi đè cấu hình mới\n\nNhấn nút khác để bỏ qua
+"Нажмите (+) для удаления, любую другую кнопку для пропуска...\n (-) Удалять все, больше не спрашивая","Nhấn (+) để xóa, nút khác để bỏ qua...\n (-) Xóa tất cả không hỏi lại"
+"Нажмите A, чтобы продолжить, другую кнопку, чтобы выйти","Nhấn A để tiếp tục, nút khác để thoát"
+"Нажмите B, чтобы вернуться",Nhấn B để quay lại
+Нажмите любую кнопку,Nhấn nút bất kỳ
+Найден SDK: {},Đã tìm thấy SDK: {}
+Найден {} зарегистрированный контент-файл,Đã tìm thấy {} tệp nội dung đã đăng ký
+Найден {} контент-файл,Đã tìm thấy {} tệp nội dung
+Найден {} пользователь,Đã tìm thấy {} người dùng
+Найден {} потерянный контент-файл,Đã tìm thấy {} tệp nội dung mồ côi
+Найден {} файл,Đã tìm thấy {} tệp
+Найден {} файл с ошибками,Đã tìm thấy {} tệp bị lỗi
+Найден и удалён {} неиспользуемый тикет,Đã tìm và xóa {} ticket không dùng
+Найдена {} запись об игре,Đã tìm thấy {} mục game
+Найдена {} запись об ошибках,Đã tìm thấy {} bản ghi lỗi
+Найдена {} установленная игра,Đã tìm thấy {} game đã cài
+Найдено {} записей об играх,Đã tìm thấy {} bản ghi game
+Найдено {} записей об ошибках,Đã tìm thấy {} báo cáo lỗi
+Найдено {} записи об играх,Đã tìm thấy {} mục game
+({}/{}) Устанавливается {},({}/{}) Đang cài đặt {}
+Найдено {} записи об ошибках,Đã tìm thấy {} báo cáo lỗi
+Найдено {} зарегистрированных контент-файла,Đã tìm thấy {} tệp nội dung đã đăng ký
+Найдено {} зарегистрированных контент-файлов,Đã tìm thấy {} tệp nội dung đã đăng ký
+Найдено {} контент-файла,Đã tìm thấy {} tệp nội dung
+Найдено {} контент-файлов,Đã tìm thấy {} tệp nội dung
+Найдено {} обновление,Đã tìm thấy {} bản cập nhật
+Найдено {} обновлений,Đã tìm thấy {} bản cập nhật
+Найдено {} обновления,Đã tìm thấy {} bản cập nhật
+Найдено {} пользователей,Đã tìm thấy {} người dùng
+Найдено {} пользователя,Đã tìm thấy {} người dùng
+Найдено {} потерянных контент-файла,Đã tìm thấy {} tệp nội dung bị mất
+Найдено {} потерянных контент-файлов,Đã tìm thấy {} tệp nội dung mồ côi
+Найдено {} сохранение,Đã tìm thấy {} dữ liệu lưu
+Найдено {} сохранение...,Đã tìm thấy {} dữ liệu lưu...
+Найдено {} сохранений,Đã tìm thấy {} dữ liệu lưu
+Найдено {} сохранений...,Đã tìm thấy {} dữ liệu lưu...
+Найдено {} сохранения,Đã tìm thấy {} dữ liệu lưu
+Найдено {} сохранения...,Đã tìm thấy {} dữ liệu lưu...
+Найдено {} установленные игры,Đã tìm thấy {} game đã cài
+Найдено {} установленных игр,Đã tìm thấy {} game đã cài
+Найдено {} файла,Đã tìm thấy {} tệp
+Найдено {} файла с ошибками,Đã tìm thấy {} tệp bị lỗi
+Найдено {} файлов,Đã tìm thấy {} tệp
+Найдено {} файлов с ошибками,Đã tìm thấy {} tệp bị lỗi
+Найдено и удалено {} неиспользуемых тикета,Đã tìm và xóa {} ticket không dùng
+Найдено и удалено {} неиспользуемых тикетов,Đã tìm và xóa {} ticket không dùng
+Найдено существующее сохранение. Восстанавливаю бекап в него...,Tìm thấy dữ liệu lưu có sẵn. Đang khôi phục bản sao lưu vào đó...
+Настройки,Cài đặt
+Настройки DBI,Cài đặt DBI
+Настройки FB2,Cài đặt FB2
+Начало игры           : -,Bắt đầu game    : -
+Начало игры           : {},Bắt đầu game    : {}
+Начало создания Control.nca,Đang bắt đầu tạo Control.nca
+Начало создания Program.nca,Đang bắt đầu tạo Program.nca
+Начать установку,Bắt đầu cài đặt
+Не доступно,Không khả dụng
+Не известно,Không rõ
+"Не найден USB диск, который смог бы вместить получившийся дамп. Убедитесь, что он отформатирован в ExFAT.",Không tìm thấy ổ USB đủ chỗ chứa bản trích xuất. Hãy đảm bảo ổ được định dạng ExFAT.
+Не найдены требуемые тикеты,Không tìm thấy ticket cần thiết
+. Время простоя \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m,. Thời gian chờ \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m
+Не получилось создать NSP,Tạo NSP thất bại
+Не удалось получить список,Lấy danh sách thất bại
+Не удалось установить аватар\n{},Đặt ảnh đại diện thất bại\n{}
+Не установлен,Chưa cài đặt
+Невозможно найти путь,Không tìm thấy đường dẫn
+Невозможно открыть папку журналов ошибок,Không thể mở thư mục nhật ký lỗi
+Невозможно переименовать '{}' в '{}':,Không thể đổi tên '{}' thành '{}':
+Невозможно получить список LFS,Không thể lấy danh sách LFS
+Невозможно получить список пользователей,Không thể lấy danh sách người dùng
+Невозможно получить статус связи с Nintendo Account,Không thể lấy trạng thái liên kết tài khoản Nintendo
+...готово,...xong
+Невозможно получить число записей об ошибках,Không thể lấy số lượng bản ghi lỗi
+Невозможно прочитать общие тикеты,Không thể đọc common ticket
+Невозможно прочитать персонализированные тикеты,Không thể đọc personalized ticket
+Невозможно разобрать content meta,Không thể phân tích metadata nội dung
+Невозможно разобрать content meta. Неожиданная ошибка,Không thể phân tích metadata nội dung. Lỗi không xác định
+Невозможно разобрать content meta. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Không thể phân tích metadata nội dung. FIRMWARE CŨ. Cần cập nhật HOS
+Невозможно разобрать nca. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Không thể phân tích nca. FIRMWARE CŨ. Cần cập nhật HOS
+Невозможно разобрать индекс кеша,Không thể phân tích chỉ mục bộ nhớ đệm
+Невозможно распаковать '{}':,Không thể giải nén '{}':
+Невозможно скопировать файл\n   '{}'\n➡ '{}'\n,Không thể chép tệp\n   '{}'\n➡ '{}'\n
+Невозможно смонтировать сохранение,Không thể gắn dữ liệu lưu
+Невозможно смонтировать устройство сохраниения,Không thể gắn thiết bị lưu
+Невозможно создать каталог,Không thể tạo thư mục
+Невозможно создать каталог '{}':,Không thể tạo thư mục '{}':
+Невозможно создать файл,Không thể tạo tệp
+Невозможно создать файл '{}':,Không thể tạo tệp '{}':
+Недопустимый идентификатор,Định danh không hợp lệ
+Неизвестная игра [{:016x}],Game không rõ [{:016x}]
+: {:>4} сохранение,: {:>4} bản lưu
+Неизвестно,Không rõ
+Неизвестный тайтл,Tựa game không rõ
+Немецкий,Tiếng Đức
+Неправильное хранилище,Bộ nhớ không hợp lệ
+Неправильный родительский объект,Đối tượng cha không hợp lệ
+Нет,Không
+Нет VFS. Прекращение работы,Không có VFS. Đang dừng
+Нет exefs VFS. Прекращение работы,Không có exefs VFS. Đang dừng
+: {:>4} сохранений,: {:>4} bản lưu
+Нет logo VFS. Прекращение работы,Không có logo VFS. Đang dừng
+Нет romfs VFS. Прекращение работы,Không có romfs VFS. Đang dừng
+Нет лого,Không có logo
+Нечего устанавливать,Không có gì để cài đặt
+Новое имя для '{}',Tên mới cho '{}'
+Новый каталог,Thư mục mới
+Новый размер сохранения в МБ,Kích thước dữ liệu lưu mới (MB)
+Новый рейтинг (-1 для удаления),Giới hạn độ tuổi mới (-1 để gỡ)
+: {:>4} сохранения,: {:>4} bản lưu
+Номер страницы,Số trang
+Ночь,Ban đêm
+Нужен связанный аккаунт,Cần tài khoản đã liên kết
+ОШИБКА ПОЛУЧЕНИЯ ЭКСТРА ДАННЫХ,LỖI KHI LẤY DỮ LIỆU BỔ SUNG
+Обнаружены недопустимые символы,Phát hiện ký tự không hợp lệ
+Обновить DBI,Cập nhật DBI
+Обновить DBI из этого файла,Cập nhật DBI từ tệp này
+Обновить TitleDB,Cập nhật TitleDB
+Обновление TitleDB,Đang cập nhật TitleDB
+Обновление базы данных...,Đang cập nhật cơ sở dữ liệu...
+Обновление версии до {} {}\n\nНажмите (+) для продолжения\nЛюбую другую кнопку для отмены,Đang cập nhật lên phiên bản {} {}\n\nNhấn (+) để tiếp tục\nNút khác để hủy
+Обновление времени...,Đang cập nhật thời gian...
+Обновление закончено\n\nНажмите любую кнопку\nдля перезапуска DBI,Cập nhật hoàn tất\n\nNhấn nút bất kỳ\nđể khởi động lại DBI
+Обновление фейковой записи {} ➡ [v{}],Đang cập nhật bản ghi giả {} ➡ [v{}]
+Обновление. Пожалуйста подождите...,Đang cập nhật. Vui lòng chờ...
+Обновляется запись об игре...,Đang cập nhật bản ghi game...
+Обрабатывается запись {:016X},Đang xử lý bản ghi {:016X}
+Обратный альбом (180°),Album đảo ngược (180°)
+Обратный портрет (270°),Dọc đảo ngược (270°)
+Общее время активной игры     : {} часов,Tổng thời gian chơi thực tế    : {} giờ
+Общее время дампа {:d}:{:02d}:{:02d},Tổng thời gian trích xuất {:d}:{:02d}:{:02d}
+Общее время запущенных игр    : {} часов,Tổng thời gian chơi           : {} giờ
+Общее время игры      : -,Tổng giờ chơi   : -
+Общее время игры      : - (-),Tổng giờ chơi   : - (-)
+Общее время игры      : {:d} часов {:02d} минут,Tổng giờ chơi   : {:d} giờ {:02d} phút
+Общее время установки: {:d}:{:02d}:{:02d},Tổng thời gian cài đặt: {:d}:{:02d}:{:02d}
+Общее время: {:02}:{:02}:{:02},Tổng thời gian: {:02}:{:02}:{:02}
+Общее занимаемое место: N:{} + S:{} = {},Tổng dung lượng đã dùng: N:{} + S:{} = {}
+Общее число запусков  : -,Tổng số lần mở game    : -
+Общие,Chung
+Общий размер установки: {},Tổng dung lượng cài đặt: {}
+Объединение списков,Gộp danh sách
+Объект {} не допустим,Đối tượng {} không được phép
+Объект {} не может быть создан,Không thể tạo đối tượng {}
+Объект не открыт для редактирования,Đối tượng chưa được mở để chỉnh sửa
+Объект удалён,Đã xóa đối tượng
+Объект уже открыт для редактирования,Đối tượng đã được mở để chỉnh sửa
+Огибка получения адреса сокета: {} {},Lỗi lấy địa chỉ socket: {} {}
+Ожидаемый размер: {},Kích thước dự kiến: {}
+Ожидается большой (>4GB) файл,Dự kiến tệp lớn (>4GB)
+Ожидается запуск dbibackend на стороне ПК...,Đang chờ dbibackend khởi động trên PC...
+Ожидание: {} секунд,Đang chờ: {} giây
+Ожидание: {} секунда,Đang chờ: {} giây
+Ожидание: {} секунды,Đang chờ: {} giây
+Ориентация,Xoay màn hình
+Ориентация...,Xoay màn hình...
+Основной SDK не найден. Пробуем мультипрограмный вариант,Không tìm thấy SDK chính. Đang thử biến thể đa chương trình
+Оставить сохранения,Giữ lại dữ liệu lưu
+Осталось ходов:    {:>3},Nước đi còn:   {:>3}
+Остаток файла пропускается,Phần còn lại của tệp được bỏ qua
+Отключение связи с мобильным приложением...,Đang ngắt kết nối ứng dụng di động...
+Открываем папку прошивки...,Đang mở thư mục firmware...
+Открыть,Mở
+Открыть вторую панель,Mở bảng thứ hai
+Открыть как 7Z,Mở dạng 7Z
+Открыть как RAR,Mở dạng RAR
+Открыть как ZIP,Mở dạng ZIP
+Открыть как hex,Mở dạng hex
+Открыть как текст,Mở dạng văn bản
+Открыть контент по MTP,Mở nội dung qua MTP
+контент по MTP,nội dung qua MTP
+Открыть папку LFS,Mở thư mục LFS
+Content meta не найден. Установка прервана,Không tìm thấy metadata nội dung. Đã hủy cài đặt
+Отослано {}/{} байт,Đã gửi {}/{} byte
+Отсутствуют ES сигпатчи!,Thiếu ES sigpatches!
+Очистка /atmosphere/contents,Đang dọn /atmosphere/contents
+Очистка кеша rightsId...,Đang xóa bộ đệm rightsId...
+Очистка папки...,Đang dọn thư mục...
+Очистка плейсхолдеров...,Đang dọn tệp giữ chỗ...
+Очистка системы от мусора,Đang dọn rác hệ thống
+Очистка сохранений,Đang xóa dữ liệu lưu
+Очистка...,Đang dọn dẹp...
+Ошибка FTP сервера,Lỗi máy chủ FTP
+DBI Просмотр альбома,Xem Album DBI
+Ошибка во время копирования файла,Lỗi khi sao chép tệp
+Ошибка во время обновления тайтла,Lỗi khi cập nhật tựa game
+Ошибка выделения сокета: {},Lỗi cấp phát socket: {}
+Ошибка завершения соединения: {},Lỗi ngắt kết nối: {}
+Ошибка загрузки картинки,Lỗi tải ảnh
+Ошибка загрузки файла из альбома: {},Lỗi tải tệp từ album: {}
+Ошибка закрытия сокета: {},Lỗi đóng socket: {}
+Ошибка записи файла: {},Lỗi ghi tệp: {}
+Ошибка изменения размера файла,Lỗi đổi kích thước tệp
+Ошибка инициализации {}: {},Lỗi khởi tạo {}: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз","DPAD và cần gạt - cuộn, L - lên trang, R - xuống trang"
+Ошибка опроса сокета: {},Lỗi thăm dò socket: {}
+Ошибка открытия каталога: {},Lỗi mở thư mục: {}
+Ошибка открытия сокета: {},Lỗi mở socket: {}
+Ошибка открытия файла,Lỗi mở tệp
+Ошибка открытия файла '{}': {},Lỗi mở tệp '{}': {}
+Ошибка открытия файла: {},Lỗi mở tệp: {}
+Ошибка отсылки: {},Lỗi gửi: {}
+Ошибка переименования: {},Lỗi đổi tên: {}
+Ошибка подключения: {},Lỗi kết nối: {}
+Ошибка подмены SDK: {},Lỗi thay thế SDK: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз, R3 - Текст/Hex","DPAD và cần gạt - cuộn, L - lên trang, R - xuống trang, R3 - Văn bản/Hex"
+Ошибка получения адреса узла: {},Lỗi lấy địa chỉ node: {}
+Ошибка получения внеочередных данных: {},Lỗi lấy dữ liệu ngoài băng tần: {}
+Ошибка получения имени сокета: {} {},Lỗi lấy tên socket: {} {}
+Ошибка получения информаци о файле: {},Lỗi lấy thông tin tệp: {}
+Ошибка получения размера файла: {},Lỗi lấy kích thước tệp: {}
+Ошибка получения флагов сокета: {},Lỗi lấy cờ socket: {}
+Ошибка получения хранилища {},Lỗi lấy thông tin bộ nhớ {}
+Ошибка получения: {},Lỗi truy xuất: {}
+Ошибка получения: {} {},Lỗi truy xuất: {} {}
+Ошибка посылки файла: {},Lỗi gửi tệp: {}
+Ошибка привязки сокета к порту {}: {},Lỗi gắn socket vào cổng {}: {}
+Ошибка привязки: {},Lỗi gắn kết: {}
+Ошибка принятия соединения: {} {},Lỗi chấp nhận kết nối: {} {}
+Ошибка приёма соединения: {},Lỗi nhận kết nối: {}
+Ошибка проверси метки сокета: {},Lỗi xác minh nhãn socket: {}
+Ошибка прослушивания: {},Lỗi lắng nghe: {}
+Ошибка прослушки сокета: {},Lỗi lắng nghe socket: {}
+Ошибка сжатия,Lỗi nén
+Ошибка создания каталога: {},Lỗi tạo thư mục: {}
+Ошибка создания сокета: {},Lỗi tạo socket: {}
+Ошибка создания сохранения,Lỗi tạo dữ liệu lưu
+Ошибка удаления каталога: {},Lỗi xóa thư mục: {}
+Ошибка удаления файла: {},Lỗi xóa tệp: {}
+Ошибка установки флагов сокета: {},Lỗi thiết lập cờ socket: {}
+Ошибка чтения записи об игре: {},Lỗi đọc bản ghi game: {}
+Ошибка чтения каталога: {},Lỗi đọc thư mục: {}
+Ошибка чтения файла: {},Lỗi đọc tệp: {}
+Ошибок не найдено,Không tìm thấy lỗi nào
+Ошибочный номер DLC (Должен быть в диапазоне 0x001-0x7FF),Số DLC không hợp lệ (Phải nằm trong khoảng 0x001-0x7FF)
+Ошибочный номер DLC (Должен быть в диапазоне 1-2047),Số DLC không hợp lệ (Phải nằm trong khoảng 1-2047)
+"Ошибочный тикет {0}: kg {1:02X}, pm {2:02X}","Ticket không hợp lệ {0}: kg {1:02X}, pm {2:02X}"
+Папка LFS не найдена,Không tìm thấy thư mục LFS
+Папка обновления очищена,Đã dọn sạch thư mục cập nhật
+Параметры FTP,Cài đặt FTP
+Параметры MTP,Cài đặt MTP
+Параметры установки,Tùy chọn cài đặt
+Передача окончена,Truyền tải hoàn tất
+Переименование объекта,Đang đổi tên đối tượng
+Переименовать,Đổi tên
+Перейти к первой странице,Đến trang đầu
+Перейти к последней странице,Đến trang cuối
+Перейти к странице...,Đến trang...
+Переместить,Di chuyển
+Переместить в NAND,Chuyển sang NAND
+в NAND,sang NAND
+Переместить на SD карту,Chuyển sang thẻ SD
+на SD карту,sang thẻ SD
+"Перемещение {} ({}, {}) в {}","Đang chuyển {} ({}, {}) sang {}"
+Перемещение {} записей,Đang chuyển {} mục
+Перемещение {} записи,Đang chuyển {} mục
+Перемещение {} игр,Đang chuyển {} game
+Перемещение {} игры,Đang chuyển {} game
+FTP сервер (нажмите B для остановки),Máy chủ FTP (nhấn B để dừng)
+Перемещение контента,Đang chuyển nội dung
+Перенос строк,Ngắt dòng
+Переоткрытие ФС сохранения: {},Đang mở lại save FS: {}
+Пишется новая запись о контенте...,Đang ghi bản ghi nội dung mới...
+Пишется новый cnmt.nca...,Đang ghi cnmt.nca mới...
+Подготовка...,Đang chuẩn bị...
+Подключаемся к {}...,Đang kết nối tới {}...
+Подключено к {}:{},Đã kết nối tới {}:{}
+Подмена SDK,Thay thế SDK
+Подменить SDK,Thay thế SDK
+Подсчитывается размер установки...,Đang tính dung lượng cài đặt...
+Подсчитывается размер установки...{}%,Đang tính dung lượng cài...{}%
+Подсчитываются объекты в альбоме в NAND,Đang đếm đối tượng trong album ở NAND
+Подсчитываются объекты в альбоме на SD карте,Đang đếm đối tượng trong album trên thẻ SD
+Подсчёт метаданных...,Đang đếm metadata...
+Подсчёт основного хэша,Đang tính hash chính
+Подсчёт хэша секции,Đang tính hash phân vùng
+"Пожалуйста, подключите вашу консоль к ПК кабелем USB Type-C или нажмите B",Vui lòng kết nối máy với PC bằng cáp USB Type-C hoặc nhấn B
+"Пожалуйста, подождите...",Vui lòng chờ...
+Поиск записей об ошибках,Đang tìm nhật ký lỗi
+Поиск неиспользуемых тикетов,Đang tìm ticket không dùng
+Поиск подготовленного системного обновления,Đang tìm bản cập nhật hệ thống đã chuẩn bị
+Поиск потерянных тайтлов,Đang tìm tựa game bị mất
+Поиск потерянных файлов в NAND,Đang tìm tệp bị mất trong NAND
+Поиск потерянных файлов на SD,Đang tìm tệp bị mất trên SD
+Поиск сохранений удалённых пользователей...,Đang tìm dữ liệu lưu của người dùng đã xóa...
+Get chargeInfoFields : {},Lấy chargeInfoFields : {}
+Получен список из {} записей,Đã nhận danh sách {} mục
+Получен список из {} записи,Đã nhận danh sách {} mục
+Получение версий установленных игр,Đang lấy phiên bản game đã cài
+Получение информации из hac_versionlist...,Đang lấy thông tin từ hac_versionlist...
+Получение информации из системы...,Đang lấy thông tin hệ thống...
+Получение информации об играх...,Đang lấy thông tin game...
+Получение списка тикетов...,Đang lấy danh sách ticket...
+Получение файла: {} МБ ({:.2f} МБ/сек),Đang nhận tệp: {} MB ({:.2f} MB/s)
+Получение файла: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Đang nhận tệp: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m MB/sec)
+Полученное время: {},Thời gian nhận: {}
+Полученный размер: {},Kích thước đã nhận: {}
+"Получено: {}, ({:.2f} МБ/сек)","Đã nhận: {}, ({:.2f} MB/s)"
+Пользователь {} не найден. Создание сохранения невозможно,Không tìm thấy người dùng {}. Không thể tạo dữ liệu lưu
+Пользователь не найден,Không tìm thấy người dùng
+Попытаться разобрать,Thử phân tích
+Попытка исправить,Đang thử sửa chữa
+Портрет (90°),Dọc (90°)
+Португальский,Tiếng Bồ Đào Nha
+"L+⬅-Начало, L+➡-Конец, ZL-Регистр, ZR-Ввод, Y-Пробел, X-Забой, R3-Язык","L+⬅-Đầu, L+➡-Cuối, ZL-Hoa/thường, ZR-Enter, Y-Cách, X-Xóa lùi, R3-Ngôn ngữ"
+После удаления игры не будут запускаться,Game sẽ không chạy được sau khi xóa
+Посылается файл: {},Đang gửi tệp: {}
+Посылается файл: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Đang gửi tệp: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m MB/s)
+Превышен размер командного буфера,Vượt quá kích thước bộ đệm lệnh
+LFS мод.: -,Chế độ LFS: -
+Предоставить по FTP,Cung cấp qua FTP
+Прекращение прослушивания на {}:{},Đang dừng lắng nghe trên {}:{}
+Прервано пользователем,Người dùng đã hủy
+Привязка к {}:{},Đang gắn vào {}:{}
+Принято соединение от {}:{},Đã chấp nhận kết nối từ {}:{}
+Проверить целостность,Kiểm tra toàn vẹn
+Проверка magic...,Đang kiểm tra magic...
+"Проверка {} ({}, {}), {}","Kiểm tra {} ({}, {}), {}"
+Проверка картриджа...,Đang kiểm tra băng game...
+Проверка на наличие  {}...,Đang kiểm tra {}...
+Проверка обновлений,Đang kiểm tra cập nhật
+Проверка обновлений игр,Đang kiểm tra cập nhật game
+Проверка сохранений,Đang kiểm tra dữ liệu lưu
+Проверка целостности ({}),Kiểm tra toàn vẹn ({})
+Проверяется: {},Đang kiểm tra: {}
+"LFS мод.: Присутствует, Размер: подсчёт отключен в настройках","Mod LFS : Có sẵn, Cỡ: đã tắt tính trong cài đặt"
+Проверяются бекапы...,Đang kiểm tra bản sao lưu...
+Проверяются сохранения,Đang kiểm tra dữ liệu lưu
+Программа {}. Control не найдена,Ứng dụng {}. Không tìm thấy Control
+Программа {}. Exefs не найдена,Chương trình {}. Không tìm thấy Exefs
+Программа {}. Romfs не найдена,Ứng dụng {}. Không tìm thấy Romfs
+Произошла неизвестная ошибка,Đã xảy ra lỗi không xác định
+Произошла ошибка:,Đã xảy ra lỗi:
+Произошла ошибка: {},Đã xảy ra lỗi: {}
+LFS папка игры,Thư mục game LFS
+Пропускается: {}          \r,Đang bỏ qua: {}          \r
+Прослушивание на {}:{},Đang lắng nghe trên {}:{}
+Просмотр альбома по HTTP,Xem album qua HTTP
+MTP Респондер (нажмите B для остановки),Trình phản hồi MTP (nhấn B để dừng)
+Просмотреть игры,Xem game
+Просто запуск,Chỉ mở game
+Разбор,Đang phân tích
+Раздел secure не найден,Không tìm thấy phân vùng bảo mật
+"Размер  : {}, {} файл","Cỡ    : {}, {} tệp"
+"Размер  : {}, {} файла","Cỡ    : {}, {} tệp"
+"Размер  : {}, {} файлов","Cỡ    : {}, {} tệp"
+Размер посылаемого файла   : {},Kích thước tệp đang gửi: {}
+Размер сохранений     : {},Cỡ dữ liệu lưu  : {}
+Размер: {},Kích thước: {}
+Разрешено,Cho phép
+Распаковать в подкаталог,Giải nén vào thư mục con
+Распаковать сюда,Giải nén tại đây
+Распаковка файла,Đang giải nén tệp
+Растущие цветы:     {},Đang trồng hoa:      {}
+Nintendo Account задан и связан,Tài khoản Nintendo đã đặt và liên kết
+Регистрация контента {}...,Đang đăng ký nội dung {}...
+Регистрация файла {}...,Đang đăng ký tệp {}...
+Регистры котроллера MAX17050,Thanh ghi bộ điều khiển MAX17050
+Редактирование возрастного рейтинга...,Đang sửa giới hạn độ tuổi...
+Редактирование запретов,Sửa giới hạn
+Рендеринг FB2,Đang kết xuất FB2
+"Nintendo Account задан, но не связан","Tài khoản Nintendo đã đặt, nhưng chưa liên kết"
+Сброс требуемой версии,Đặt lại phiên bản yêu cầu
+Сбросить требуемую версию,Đặt lại phiên bản yêu cầu
+Сведения,Thông tin
+Сведения...,Thông tin...
+Свободное место в хранилище: {},Dung lượng trống: {}
+Свободное место: {},Dung lượng trống: {}
+Сгенерировать и установить,Tạo và cài đặt
+Nintendo Account не задан,Chưa đặt tài khoản Nintendo
+Сдампить на SD карту,Xuất ra thẻ SD
+Сдампить на внешний USB,Xuất ra USB ngoài
+Сдампить текущую прошивку,Xuất firmware hiện tại
+Сдамплено: {}/{} ({}%) ({:.2f} МБ/сек),Đã xuất: {}/{} ({}%) ({:.2f} MB/sec)
+Сделать бекап,Tạo bản sao lưu
+"Сделать бекап, если новее",Sao lưu nếu mới hơn
+Северная Америка,Bắc Mỹ
+Сентябрь,Tháng Chín
+Сепия,Nâu cổ
+Сервер запущен,Máy chủ đã khởi động
+Сервер предлагает выполнить обновление DBI\n\nНажите (+) для согласия\nЛюбую другую кнопку для отмены,Máy chủ đề nghị cập nhật DBI\n\nNhấn (+) để xác nhận\nNút khác để hủy
+Сессии,Phiên chơi
+Сессия закрыта,Đã đóng phiên
+Сессия открыта,Đã mở phiên
+Синхронизация времени по NTP,Đồng bộ giờ NTP
+Системные приложения,Ứng dụng hệ thống
+Системный по умолчанию,Mặc định hệ thống
+Сканирование директорий...,Đang quét thư mục...
+Сканирование игр...,Đang quét game...
+Скачано {}/{},Đã tải {}/{}
+Скачивание файла не удалось,Tải tệp thất bại
+Скорость передачи: {:.2f} МБ/сек,Tốc độ truyền: {:.2f} MB/sec
+Собираются сведения...,Đang thu thập thông tin...
+Соединение сброшено,Kết nối bị đặt lại
+Создание DLC анлокера,Đang tạo trình mở khóa DLC
+Создание NSP,Đang tạo NSP
+Создание sdmc:/versions.txt,Đang tạo sdmc:/versions.txt
+Создание дампа ({}),Đang tạo bản xuất ({})
+Создание дампа: {},Đang tạo bản xuất: {}
+Создание единого репака,Đang tạo gói đóng lại hợp nhất
+Создание записи об игре...,Đang tạo bản ghi game...
+Создание новой записи об игре...,Đang tạo mục game mới...
+Создание плейсхолдера: {}...,Đang tạo tệp giữ chỗ: {}...
+"Создание репака Id: {:016X}, Версия: {}, Тип: {}","Đang tạo bản đóng lại Id: {:016X}, Phiên bản: {}, Loại: {}"
+Создание строк... {}%,Đang tạo chuỗi... {}%
+Создание таблицы имён,Đang tạo bảng tên
+Создание тела файла,Đang tạo thân tệp
+Создание точки доступа...,Đang tạo điểm phát Wi-Fi...
+Создание хэш таблицы,Đang tạo bảng hash
+Создание ярлыка,Đang tạo lối tắt
+Создано новое сохранение. Восстанавливаю бекап в него...,Đã tạo dữ liệu lưu mới. Đang khôi phục bản sao lưu vào đó...
+Создать sdmc:/versions.txt,Tạo sdmc:/versions.txt
+Создать единый репак,Tạo bản đóng lại đơn
+Создать новое сохранение...,Tạo dữ liệu lưu mới...
+Создать новый каталог...,Tạo thư mục mới...
+Создать новый файл...,Tạo tệp mới...
+Создать ярлык,Tạo lối tắt
+Создать ярлык для hbmenu,Tạo lối tắt cho hbmenu
+Создать ярлык на рабочий стол для DBI...,Tạo lối tắt màn hình chính cho DBI...
+Создать ярлык с аргументами...,Tạo lối tắt kèm tham số...
+Создаётся обновлённая запись об игре...,Đang tạo bản ghi game đã cập nhật...
+Сохранение для {} уже существует,Dữ liệu lưu cho {} đã tồn tại
+Сохранения,Dữ liệu lưu
+Сохранения будут удалены!,Dữ liệu lưu sẽ bị xóa!
+Сохранения удалённых игр ({}),Dữ liệu lưu của game đã xóa ({})
+Сохранения установленных игр ({}),Dữ liệu lưu của game đã cài ({})
+Сохранёные в системе параметры котроллера батареи,Đã lưu tham số bộ điều khiển pin vào hệ thống
+Существующая запись об игре не найдена,Không tìm thấy bản ghi game hiện có
+Существующее сохранение не найдено и новое не может быть создано,Không tìm thấy dữ liệu lưu hiện có và không thể tạo mới
+SDK {} уже был экспортирован: {},SDK {} đã được xuất trước đó: {}
+Тайтл не установлен,Tựa game chưa được cài đặt
+Тайтл установлен,Tựa game đã được cài đặt
+Тайтлы с ошибками:,Tựa game bị lỗi:
+Текущее время: {},Thời gian hiện tại: {}
+SDK на подмену не найдены,Không tìm thấy SDK để thay thế
+Тема,Giao diện
+Тикет исправлен,Đã sửa ticket
+Тикеты,Ticket
+Тикеты не найдены,Không tìm thấy ticket nào
+864,864
+881,881
+"больше шансов, что оно заработает». Их",kết quả cuối cùng sẽ ổn.' Chiến thuật của
+быстро проникли в планы шадоков и,"hàng xóm, nhờ có internet nên tinh quái hơn,"
+"всякий раз, когда растение расцветает","kho thiết bị, vây kín lấy hắn, và"
+"выражениях: «Чем больше неудач, тем","càng lớn, cơ hội để mọi thứ đảo chiều"
+"вычислили, что у них есть по крайней",một ăn một triệu nơi mọi chuyện cuối cùng
+заработает… И они торопятся поскорее,999.999 sai lầm chí mạng đầu tiên kia
+"и дает транзистор, они мчатся, чтобы",giờ hễ hắn thấy con chip nào là họ
+"и не кончилось успехом». Или, в других",Hay nói cách khác: 'Thiệt hại càng cao
+"мере один шанс из миллиона, что она",cũng suôn sẻ... nên họ lao vào phạm
+миллионная заработает».,"I. I. Bullshitter, Nhịp Điệu Đột Phá"
+"ничего, что бы непрерывно продолжалось",chỉ là khoản đặt cọc tạm thời cho vinh quang.'
+"но окружили его со всех сторон, и",vị khách chui tọt vào một trong mấy
+"опытов, чтобы быть уверенными, что", 
+осуществить 999999 первых неудачных,để chiến thắng có thể nối gót theo sau.»
+"очень умные благодаря своим шляпам,",nhà hàng xóm đi lấy linh kiện. Người
+"планету гиби искать транзисторы. Гиби,",được cử thẳng từ vùng đầm lầy sang
+постоянно кончаясь неудачами.,một mực tạo ra tăng trưởng âm.
+принципов шадокской логики: «Нет,'Không có thảm họa nào mà chẳng phải
+"ракета еще несовершенна, но они","đình trệ, nhưng họ vẫn bám riết lấy phát"
+"растений, произрастающих на огородах.",nói là đi thu gom chip ngay từ mấy
+решили позабавиться. Они позволили,nhanh chóng nhìn thấu kế sách thâm sâu
+собрать урожай прежде шадока.,giật phăng lại ngay lập tức.
+"терпят неудачу потому, что не хватает",tên lửa rơi rụng vì vi mạch đang khan
+транзисторов в системах безопасности.,hiếm—cả trong hệ thống dẫn đường lẫn
+"шадоку забраться в один из их огородов,",và quyết định bày trò vui. Họ để
+«У шадоков ситуация удовлетворительна.,"«Với lũ orc, mọi thứ đều theo kế hoạch:"
+"Испытания ракет продолжаются,","quá trình vô hiệu hóa vẫn tiến bước đều đặn,"
+Но у гиби транзисторы собирают с,"bồn cầu. Trong khi đó, những người hàng xóm"
+Решено послать одного из шадоков на,thiết bị làm vườn của họ. Thế là một tình nguyện viên
+original,gốc
+"SSID: {}, Пароль: {}","SSID: {}, Mật khẩu: {}"
+Тип оборудования        : {},Loại thiết bị     : {}
+TempC0               : {:04x},TempC0                  : {:04x}
+Уровень заряда батареи         : {},Mức sạc pin                : {}
+URL для проверки обновлений,URL kiểm tra cập nhật
+Установка с картриджа,Cài từ băng game
+Установка через DBIbackend,Cài qua DBIbackend
+Форсировать UTF-8,Ép buộc UTF-8
+Хэш версии              : {},Hash phiên bản    : {}
+Читать дату файлов,Đọc ngày tệp
+Экзосфера очищает CAL0      : {},Exosphere xóa CAL0    : {}
+Экран                 : ({:08X}) {},Màn hình                 : ({:08X}) {}
+Язык                    : {},Ngôn ngữ          : {}
+"Интервал автобекапа сейвов, дни",Chu kỳ tự sao lưu dữ liệu lưu (ngày)
+Конфигурация зарядки            : {},Cấu hình sạc                 : {}
+Режим Hi-Z включён              : {},Đã bật chế độ Hi-Z           : {}
+Зарядка батареи включена        : {},Đã bật sạc pin               : {}
+Маршрут электропитания          : {},Đường cấp nguồn              : {}
+Напряжение источника            : {} mV,Điện áp nguồn                : {} mV
+Ток источника                   : {} mA,Dòng nguồn                   : {} mA
+Быстрая зарядка разрешена       : {},Cho phép sạc nhanh           : {}
+Целевая прошивка            : {}.{}.{},Firmware đích         : {}.{}.{}
+Поддерживаемая версия HOS   : {},Phiên bản HOS hỗ trợ  : {}
+Предел входного тока (буст)     : {} mA,Giới hạn dòng vào (boost)    : {} mA
+Предел тока быстрой зарядки     : {} mA,Giới hạn dòng sạc nhanh      : {} mA
+Напряжение батареи              : {} mV,Điện áp pin                  : {} mV
+Контроллер источника получен    : {},Đã nhận bộ điều khiển nguồn  : {}
+OTG Запрошен                    : {},Đã yêu cầu OTG               : {}
+Производитель    : {:s} ({:02X}),Nhà sản xuất       : {:s} ({:02X})
+OEM ID           : {:s} ({:s}),OEM ID             : {:s} ({:s})
+Имя продукта     : {:s},Tên sản phẩm       : {:s}
+Ревизия продукта : {:s},Phiên bản SP       : {:s}
+Серийный номер   : {:s},Số sê-ri           : {:s}
+Ёмкость с завода   : {} mAh,Dung lượng gốc      : {} mAh
+Автоповтор кнопок при удержании,Tự lặp nút khi giữ
+Версия атмосферы            : {}.{}.{},Phiên bản Atmosphere  : {}.{}.{}
+Версия прошивки         : {}.{}.{}-{}.{},Phiên bản Firmware: {}.{}.{}-{}.{}
+Возраст батареи                : {}%,Độ bền pin                 : {}%
+Время гашения экрана в секундах,Thời gian mờ màn hình (giây)
+Выключать экран,Tắt màn hình
+Выход на рабочий стол,Thoát về Home
+Дата первого игрового события : {},Ngày chơi lần đầu             : {}
+Добавлять суффикс к имени файла,Thêm hậu tố vào tên tệp
+Достаточное питание            : {},Đủ nguồn điện              : {}
+Есть исправление RCM бага   : {},Đã vá lỗi RCM        : {}
+Журналирование действий,Ghi nhật ký thao tác
+Закладки на SD,Dấu trang SD
+Запись в CAL0 разрешена     : {},Cho phép ghi CAL0     : {}
+Запускать точку доступа,Bật điểm phát Wi-Fi
+Запустить FTP сервер,Bật máy chủ FTP
+Запустить HTTP сервер,Bật máy chủ HTTP
+Заряд батареи                  : {}%,Mức pin                    : {}%
+Заряд батареи (сырое значение) : {}%,Mức pin (giá trị thô)      : {}%
+Зарядка батареи                : {},Mức pin                    : {}
+Инструменты,Công cụ
+Использовать 5 GHz,Dùng 5 GHz
+Использовать MSG_WAITALL в recv,Dùng MSG_WAITALL trong recv
+Использовать для неё TitleID,Dùng TitleID cho nó
+Использовать разгон,Dùng ép xung
+Использовать скрытый SSID,Dùng SSID ẩn
+Источник питания                : {},Nguồn điện                   : {}
+Курсор на обеих панелях,Con trỏ trên cả hai bảng
+%% заряд-разряд    : {},%% sạc-xả           : {}
+Никнейм консоли         : {},Tên máy           : {}
+Общее число игровых сессий    : {},Tổng số phiên chơi            : {}
+Bluetooth MAC адрес   : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Địa chỉ MAC Bluetooth    : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+CDIR в листинге,Hiện CDIR trong danh sách
+Configuration Id1     : {},Configuration Id1        : {}
+DeviceId                : {0:} ({0:016X}),DeviceId          : {0:} ({0:016X})
+Папка для бекапа сохранений,Thư mục sao lưu dữ liệu lưu
+Папка для дампа игр,Thư mục trích xuất game
+Папка журналов,Thư mục nhật ký
+DramId                  : {} ({}),DramId            : {} ({})
+Пароль,Mật khẩu
+Перевернуть джойконы,Đảo Joy-Con
+Перевернуть экран,Xoay màn hình
+Emummc включён              : {},Đã bật Emummc         : {}
+Переносить слова,Xuống dòng tự động
+Платформа               : {},Nền tảng          : {}
+FullCap              : {:04x} ({} mAh),FullCap                 : {:04x} ({} mAh)
+Подсвечивать файлы обновлений,Làm nổi bật tệp cập nhật
+FullCapNom           : {:04x} ({} mAh),FullCapNom              : {:04x} ({} mAh)
+Показываемая версия     : {},Phiên bản hiển thị: {}
+Показываемое название   : {},Tên hiển thị      : {}
+Показывать 'Обновить отсюда',Hiện 'Cập nhật từ đây'
+Показывать объединённый NSP,Hiện NSP đã gộp
+Показывать папку 'Mods&Cheats',Hiện thư mục 'Mods&Cheats'
+Показывать прогрев кеша,Hiện làm nóng bộ đệm
+Показывать размер LFS (долго),Hiện kích thước LFS (chậm)
+Показывать секунды,Hiện giây
+Показывать часы в статусе,Hiện đồng hồ ở thanh trạng thái
+Поколение ключа             : {},Thế hệ key            : {}
+Git commit hash             : {:016X},Hash commit Git       : {:016X}
+Полная ёмкость     : {} mAh,Dung lượng đầy      : {} mAh
+IavgEmpty            : {:04x},IavgEmpty               : {:04x}
+Пользовательские хранилища,Bộ nhớ người dùng
+Предел входного тока            : {} mA,Giới hạn dòng vào            : {} mA
+Предназначение          : {},Mục đích          : {}
+Проверять хэш при установке,Kiểm tra hash khi cài
+Просмотр SD карты,Duyệt thẻ SD
+Просмотр USB носителей,Duyệt ổ USB
+Просмотр раздела SYSTEM,Duyệt phân vùng SYSTEM
+Просмотр раздела USER,Duyệt phân vùng USER
+Просмотр сети,Duyệt mạng
+Просмотр сохранений,Xem dữ liệu lưu
+Просмотр тикетов,Xem ticket
+Просмотр установленных игр,Xem game đã cài
+Регион                  : {},Vùng              : {}
+Режим HiZ зарядки       : {},Chế độ sạc HiZ    : {}
+Режим киоска            : {},Chế độ Kiosk      : {}
+Родительский PIN        : {},Mã PIN phụ huynh  : {}
+Серийный # прочитанный  : {},Số sê-ri đọc được : {}
+Серийный # угаданный    : {},Số sê-ri dự đoán  : {}
+Серийный номер        : {},Số sê-ri                 : {}
+Силовая роль                    : {},Vai trò nguồn                : {}
+QrTable00            : {:04x},QrTable00               : {:04x}
+Смещать курсор после выделения,Di chuyển con trỏ sau khi chọn
+QrTable10            : {:04x},QrTable10               : {:04x}
+Сожжено предохранителей : {},Số fuse đã cháy   : {}
+Создавать LFS папку,Tạo thư mục LFS
+QrTable20            : {:04x},QrTable20               : {:04x}
+QrTable30            : {:04x},QrTable30               : {:04x}
+RCOMP0               : {:04x},RCOMP0                  : {:04x}
+Сохранения только в RO режиме,Chỉ mở dữ liệu lưu chế độ RO
+RTC запущены (приблизительно) : {},RTC bắt đầu (ước chừng)       : {}
+Текущая ёмкость                 : {}%,Dung lượng hiện tại          : {}%
+Текущая ёмкость    : {} mAh,Dung lượng hiện tại : {} mAh
+Текущее напряжение : {} mV,Điện áp hiện tại    : {} mV
+Текущий заряд      : {}%,Mức sạc hiện tại    : {}%
+Текущий ток        : {} mA,Dòng tiêu thụ       : {} mA
+Тема отображения,Giao diện hiển thị
+Температура        : {}°C,Nhiệt độ            : {}°C
+Температура батареи             : {}°C,Nhiệt độ pin                 : {}°C
+Тип SoC                 : {},Loại SoC          : {}
+Тип источника питания          : {},Loại nguồn điện            : {}
+Wireless LAN MAC адрес: {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Địa chỉ MAC Wi-Fi        : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+Форсировано вклчение USB 3.0: {},Ép bật USB 3.0        : {}
+Возраст батареи                 : {}%,Độ bền pin                   : {}%
+Предел напряжения заряда батареи: {} mV,Giới hạn điện áp sạc pin     : {} mV
+Средняя температура: {}°C,Nhiệt độ trung bình : {}°C
+Сумма %% заряд-разряд: {} (~{} 0-100 циклов),Tổng %% sạc-xả         : {} (~{} chu kỳ 0-100)
+"          Париж, издательство Грассе.", 
+      Название: {}\n      Издатель: {}\n      Версия: ,      Tên : {}\n      Hãng phát hành: {}\n      Phiên bản: 
+Удаление игры ,Đang xóa game 
+Удаляется бекап ,Đang xóa bản sao lưu 
+Удалять после установки: ,Xóa sau khi cài đặt     :
+  Автоопределение,  Tự động nhận diện
+Шифрование секции ,Mã hóa phân vùng 
+Ярлык   : ,Lối tắt    : 
+ {} минут, {} phút
+Язык    : ,Ngôn ngữ: 
+Путь    : ,Đường dẫn: 
+  Жак Руксель. Великолепие навыворот.,Nhà xuất bản Nhà nước Hầm Ngầm «Gương Soi»
+  Кодировка...,  Đang mã hóa...
+  Применить,  Áp dụng
+  Редактирование,  Đang sửa
+ (по времени игры), (theo giờ chơi)
+ (по названию игры), (theo tên game)
+ (по числу запусков), (theo số lần mở)
+     {:<10} Шифрование: {} Размер установки: {}{:>10},     {:<10} Mã hóa: {} Cỡ cài đặt: {}{:>10}
+ [НЕ МОГУ ОТКРЫТЬ ФАЙЛ], [KHÔNG THỂ MỞ TỆP]
+Автозапуск FTP: ,Tự chạy FTP: 
+Автор   : ,Tác giả : 
+ {:>5} часа, {:>5} giờ
+Базовое хранилище: ,Bộ nhớ gốc: 
+ {:>5} часов, {:>5} giờ
+ВНИМАНИЕ ,CẢNH BÁO 
+ВНИМАНИЕ! ,CẢNH BÁO! 
+ {} в чёрном списке., {} trong danh sách đen.
+Версия  : ,Phiên bản: 
+Внимание! ,Cảnh báo! 
+ {} минута, {} phút
+ {} минуты, {} phút
+Всего освобождено места : ,Tổng dung lượng đã giải phóng: 
+    {:>2} сек,    {:>2} giây
+ Закрытие игры, Đang đóng game
+Выйти из DBI           : ,Thoát DBI               :
+Выключить экран        : ,Tắt màn hình            :
+ Запуск игры, Mở game
+ Логаут пользователя \x1b[36;1m{}\x1b[37;1m, Đang đăng xuất người dùng \x1b[36;1m{}\x1b[37;1m
+ Логин пользователя \x1b[36;1m{}\x1b[37;1m, Tên người dùng \x1b[36;1m{}\x1b[37;1m
+ Переключение на игру, Đang chuyển sang game
+Загружено ,Đã tải 
+ Режим работы изменился: {}, Đã đổi chế độ hoạt động: {}
+ Сброс системных часов, Đặt lại đồng hồ hệ thống
+ Сворачивание игры, Thu nhỏ game
+Запрос на удаление ,Yêu cầu xóa 
+ Состояние электропитания изменилось: {}, Đã đổi trạng thái nguồn điện: {}
+" и {} новое DLC,"," và {} DLC mới,"
+"    Великий колдун сказал, что ракеты",Chiến lược gia trưởng của họ tuyên bố rằng
+" и {} новых DLC,"," và {} DLC mới,"
+Имя     : ,Tên     : 
+ сортировка по дате создания, sắp xếp theo ngày tạo
+ сортировка по имени, sắp xếp theo tên
+ сортировка по имени игры, sắp xếp theo tên game
+Используется ,Đã dùng 
+ сортировка по месту установки, sắp xếp theo nơi cài đặt
+Конвертация в фейковые ,Đang chuyển sang giả 
+ сортировка по общему размеру, sắp xếp theo tổng dung lượng
+ сортировка по пользователю, sắp xếp theo người dùng
+ сортировка по порядку игры, sắp xếp theo thứ tự game
+Место установки        : ,Nơi cài đặt             :
+ сортировка по размеру, sắp xếp theo dung lượng
+Название: ,Tên : 
+    Дело здесь в одном из основных,Bí mật nằm ở logic sâu xa của họ:
+Начало установки. Место установки: ,Bắt đầu cài đặt. Nơi cài đặt: 
+Невозможно создать выходной zip-файл: ,Không thể tạo tệp zip đầu ra: 
+Неиспользуемый тикет: ,Ticket không dùng: 
+   {:>3} мин,   {:>3} phút
+Общий размер передачи  : ,Tổng dung lượng truyền  :
+Общий размер установки : ,Tổng dung lượng cài đặt :
+Ожидается ,Dự kiến 
+Ожидание включения интерфейса: ,Đang chờ giao diện sẵn sàng: 
+Освобождено места в NAND: ,Dung lượng NAND đã giải phóng: 
+Освобождено места на SD : ,Dung lượng SD đã giải phóng : 
+   Получение списка бекапов...   ,   Đang lấy danh sách sao lưu...   
+DPAD/Стики - Навигация по страницам\n\n     ZR+ZL - Переход к странице... \n\n       L/R - Навигация по главам   \n\n       (-) - Эта подсказка         \n\n       (+) - Меню                  ,DPAD/Cần gạt - Chuyển trang\n\n     ZR+ZL - Nhảy tới trang... \n\n       L/R - Chuyển chương         \n\n       (-) - Gợi ý này           \n\n       (+) - Menu                  
+Ошибка чтения регистров max17050: ,Lỗi đọc thanh ghi max17050: 
+Ошибка чтения сохранённых параметров контроллера: ,Lỗi đọc tham số bộ điều khiển đã lưu: 
+   Получение списка бекапов...{}/{}    ,   Đang lấy danh sách sao lưu...{}/{}    
+Предупреждения: ,Cảnh báo: 
+"LFS мод.: Присутствует, Размер: ","Mod LFS.: Có sẵn, Cỡ: "
+Пропускаем файл до начала secure раздела ,Đang bỏ qua tệp đến đầu phân vùng bảo mật 
+Размер  : ,Cỡ    : 
+Сброс требуемой версии к ,Đặt lại phiên bản yêu cầu thành 
+   Получение списка сохранений...   ,   Đang lấy danh sách dữ liệu lưu...   
+Скорость USB интерфейса: ,Tốc độ giao diện USB: 
+Создан zip-файл: ,Đã tạo tệp zip: 
+Создание бекапа сохранения ,Đang tạo bản sao lưu dữ liệu lưu 
+Создание каталога: ,Đang tạo thư mục: 
+Создание объекта: ,Đang tạo đối tượng: 
+Создание фейковой записи... ,Đang tạo mục giả... 
+Создаётся MTP хранилище: ,Đang tạo bộ nhớ MTP: 
+Статистика игры ,Thống kê game 
+Строка поиска: ,Chuỗi tìm kiếm: 
+Не проверять место     : ,Không kiểm tra chỗ trống:
+Проверять хеш-сумму NCA: ,Kiểm tra hash NCA       :
+Патчить имена (HOS 21+): ,Vá tên (HOS 21+)        :
+Занулять мастерключ    : ,Đặt lại masterkey       :
+Патчить запись видео   : ,Vá quay video           :
+Патчить скриншоты      : ,Vá chụp màn hình        :
+Игра использует SDK {},Game dùng SDK {}
+Удалить старые обновления игр,Xóa bản cập nhật game cũ
+Удалить потерянный контент с SD,Xóa nội dung mồ côi khỏi SD
+Удалить потерянный контент из NAND,Xóa nội dung mồ côi khỏi NAND
+Удалить плейсхолдеры с SD,Xóa tệp giữ chỗ khỏi SD
+Удалить плейсхолдеры из NAND,Xóa tệp giữ chỗ khỏi NAND
+Удалить неиспользуемые тикеты,Xóa ticket không dùng
+Починить тикеты с ошибками дампа,Sửa ticket có lỗi trích xuất
+Удалить скачанное обновление системы,Xóa bản cập nhật hệ thống đã tải
+Очистить папку erpt_reports,Dọn thư mục erpt_reports
+Очистить кеш тикетов,Xóa bộ đệm ticket
+Очистить /atmosphere/contents,Dọn /atmosphere/contents
+Удалить сохранения удалённых пользователей,Xóa dữ liệu lưu của người dùng đã xóa
+Дата производства: {:s},Ngày sản xuất      : {:s}
+Ник: {},Biệt danh: {}
+Установить обновления из текущей папки,Cài bản cập nhật từ thư mục hiện tại
+Патчить требование NNID: ,Vá yêu cầu NNID         :
+Выполнить выбранные действия,Thực hiện các hành động đã chọn
+CID: {:s},CID                : {:s}
+TitleId : {} BID: {},TitleId : {} BID: {}
+"Meta SDK: {},  Program SDK: {}","Meta SDK: {},  Program SDK: {}"
+"Внимание!!! Включение следующих опций приведет к тому,",Cảnh báo!!! Bật các tùy chọn sau sẽ dẫn đến việc
+что установленные NCA файлы будут отличаться от исходных:,các tệp NCA đã cài sẽ khác với bản gốc:
+Включение синхронизации времени по сети...,Đang bật đồng bộ giờ qua mạng…
+ Да ,Có 
+Нет , Không 
+Это действие будет нельзя отменить,Hành động này không thể hoàn tác
+Да,Có
+Произошла ошибка: ,Đã xảy ra lỗi: 
+В файле /switch/prod.keys отсутствуют необходимые ключи.,Tệp /switch/prod.keys bị thiếu các key cần thiết.
+Часть функций программы будет недоступна.,Một số chức năng của chương trình sẽ không khả dụng.
+Перегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад,Hãy khởi động lại vào Hekate và dùng payload Lockpick_RCM.bin
+для дампа ключей из SysNAND.,để trích xuất key từ SysNAND.
+Проверять хэш при установке    : ,Kiểm tra hash khi cài     : 
+Просмотр раздела USER          : ,Duyệt phân vùng USER           : 
+Тема отображения               : ,Giao diện hiển thị           : 
+Температура    : {}$°$C,Nhiệt độ            : {}°C
+Температура     : {}$°$C,Nhiệt độ            : {}°C
+Температура      : {}$°$C,Nhiệt độ            : {}°C
+Температура       : {}$°$C,Nhiệt độ            : {}°C
+Температура        : {}$°$C,Nhiệt độ            : {}°C
+Температура         : {}$°$C,Nhiệt độ            : {}°C
+Температура          : {}$°$C,Nhiệt độ            : {}°C
+Температура           : {}$°$C,Nhiệt độ            : {}°C
+Температура            : {}$°$C,Nhiệt độ            : {}°C
+Температура             : {}$°$C,Nhiệt độ            : {}°C
+Температура              : {}$°$C,Nhiệt độ            : {}°C
+Срепняя температура: {}$°$C,Nhiệt độ trung bình : {}°C
+Средняя температура: {}$°$C,Nhiệt độ trung bình : {}°C
+Температура батареи        : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи         : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи          : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи           : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи            : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи             : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи              : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи               : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи                : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи                 : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура батареи                  : {}$°$C,Nhiệt độ pin                 : {}°C
+Температура    : {}°C,Nhiệt độ            : {}°C
+Температура     : {}°C,Nhiệt độ            : {}°C
+Температура      : {}°C,Nhiệt độ            : {}°C
+Температура       : {}°C,Nhiệt độ            : {}°C
+Температура         : {}°C,Nhiệt độ            : {}°C
+Температура          : {}°C,Nhiệt độ            : {}°C
+Температура           : {}°C,Nhiệt độ            : {}°C
+Температура            : {}°C,Nhiệt độ            : {}°C
+Температура             : {}°C,Nhiệt độ            : {}°C
+Температура              : {}°C,Nhiệt độ            : {}°C
+Температура батареи        : {}°C,Nhiệt độ pin                 : {}°C
+Температура батареи         : {}°C,Nhiệt độ pin                 : {}°C
+Температура батареи          : {}°C,Nhiệt độ pin                 : {}°C
+Температура батареи           : {}°C,Nhiệt độ pin                 : {}°C
+Температура батареи            : {}°C,Nhiệt độ pin                 : {}°C
+Температура батареи              : {}°C,Nhiệt độ pin                 : {}°C
+Температура батареи               : {}°C,Nhiệt độ pin                 : {}°C
+Температура батареи                : {}°C,Nhiệt độ pin                 : {}°C
+Температура батареи                 : {}°C,Nhiệt độ pin                 : {}°C
+Температура батареи                  : {}°C,Nhiệt độ pin                 : {}°C
+Срепняя температура: {}°C,Nhiệt độ trung bình : {}°C
+ Новый DLC , DLC mới 
+Записано: ,Đã ghi: 
+Игра использует мастер-ключ ,Game dùng master key 
+Android extensions: ,Phần mở rộng Android: 
+ в чёрном списке., trong danh sách đen.
+МБ/сек),MB/s)
+[32;1mУстановка игры завершена\x1b[37;1m,\x1b[32;1mCài đặt game hoàn tất\x1b[37;1m
+[32;1mТикет исправлен\x1b[37;1m,\x1b[32;1mĐã sửa ticket\x1b[37;1m
+[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,[32;1m[TRUYỀN OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m
+\x1b[31;1m[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,\x1b[31;1m[TRUYỀN BỊ GIÁN ĐOẠN]\x1b[37;1m
+[ПОДПИСЬ: Поддельная]\x1b[37;1m,[CHỮ KÝ: Giả]\x1b[37;1m
+[ПОДПИСЬ: OK]\x1b[37;1m,[CHỮ KÝ: OK]\x1b[37;1m
+[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK],[TRUYỀN OK] [CHỮ KÝ: OK]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная],[TRUYỀN OK] [CHỮ KÝ: Giả]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP],[TRUYỀN OK] [CHỮ KÝ: XCI➡NSP]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI],[TRUYỀN OK] [CHỮ KÝ: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK],[TRUYỀN OK][CHỮ KÝ: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная],[TRUYỀN OK][CHỮ KÝ: Giả]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP],[TRUYỀN OK][CHỮ KÝ: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI],[TRUYỀN OK][CHỮ KÝ: DBI]
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK] \x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK] \x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK] \x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK] \x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m \x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m \x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m \x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m \x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m\x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m\x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m\x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m\x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПОДПИСЬ: DBI]\x1b[37;1m,[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m  \x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]  \x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m \x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m  \x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m\x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK] \x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK]  \x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK]\x1b[32;1m[CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m [CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m  [CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m[CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK] [CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]  [CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK][CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m [CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m  [CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m[CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK] [CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK]  [CHỮ KÝ: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK],[TRUYỀN OK]  [CHỮ KÝ: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,[TRUYỀN OK][CHỮ KÝ: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m  \x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]  \x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m \x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m  \x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m\x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK] \x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK]  \x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK]\x1b[38;2;255;128;0m[CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m [CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m  [CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m[CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK] [CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]  [CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK][CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m [CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m  [CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m[CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK] [CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK]  [CHỮ KÝ: Giả]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная],[TRUYỀN OK]  [CHỮ KÝ: Giả]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,[TRUYỀN OK][CHỮ KÝ: Giả]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m  \x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]  \x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m \x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m  \x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m\x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK] \x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK]  \x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK]\x1b[32;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m [CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m  [CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK] [CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]  [CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK][CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m [CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m  [CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m[CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK] [CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK]  [CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP],[TRUYỀN OK]  [CHỮ KÝ: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[TRUYỀN OK][CHỮ KÝ: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m \x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m  \x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m\x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK] \x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]  \x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m \x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m  \x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m\x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK] \x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]  \x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m  \x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]  \x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m \x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m  \x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m\x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK] \x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]  \x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[32;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m [CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m  [CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]\x1b[37;1m[CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK] [CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK]  [CHỮ KÝ: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[TRUYỀN OK][CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m [CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m  [CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m[CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK] [CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK]  [CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI],[TRUYỀN OK]  [CHỮ KÝ: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,[TRUYỀN OK][CHỮ KÝ: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m,[TRUYỀN OK]\x1b[37;1m
+[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,[TRUYỀN BỊ GIÁN ĐOẠN]\x1b[37;1m
+\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[33;1m[CHỮ KÝ: DBI]\x1b[37;1m
+"\x1b[1m{} R: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} R: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1mTB {:>4.1f} (HT {:>5.2f})\x1b[37;1m MB/sec, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mgiây\x1b[1m"
+"\x1b[22m{} R: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m МБ,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m\x1b[22m МБ/сек, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22mсек\x1b[1m","\x1b[22m{} R: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m MB,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22mTB {:>4.1f} (HT {:>5.2f})\x1b[37;1m\x1b[22m MB/sec, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22mgiây\x1b[1m"
+"\x1b[1m{} W: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} W: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1mTB {:>4.1f} (HT {:>5.2f})\x1b[37;1m MB/sec, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mgiây\x1b[1m"
+Тема...,Giao diện...
+"2ая панель, (+) меню, L3 имя","Bảng 2, (+) Menu, L3 Tên"
+Общее время игры      : {},Tổng giờ chơi   : {}
+Общее время игры      : {} ({}),Tổng giờ chơi   : {} ({})
+Адресное пространство,Không gian địa chỉ
+Поиск старых плейсхолдеров на SD,Đang tìm tệp giữ chỗ cũ trên SD
+Поиск старых плейсхолдеров в NAND,Đang tìm tệp giữ chỗ cũ trong NAND
+\x1b[31;1mТайтл не установлен\x1b[37;1m,\x1b[31;1mTựa game chưa được cài đặt\x1b[37;1m
+\x1b[31;1mТайтл не установлен,\x1b[31;1mTựa game chưa được cài đặt
+Общее время игры      : - ({}),Tổng giờ chơi   : - ({})
+              Общее время игры      : -,              Tổng giờ chơi   : -
+              Начало игры           : -,              Bắt đầu game    : -
+              Конец игры            : -,              Kết thúc game   : -
+[ОШИБКА]\x1b[37;1m,[LỖI]\x1b[37;1m
+\x1b[31;1m[ОШИБКА]\x1b[37;1m,\x1b[31;1m[LỖI]\x1b[37;1m
+\x1b[31;1m[ОШИБКА],\x1b[31;1m[LỖI]
+Настроки создания ярлыков,Cài đặt lối tắt
+Использовать 4 ядра CPU,Dùng cả 4 nhân CPU
+Захват видео,Quay video
+Скриншоты,Chụp màn hình
+Запуск игры,Mở game
+Закрытие игры,Đang đóng game
+Сворачивание игры,Thu nhỏ game
+Переключение на игру,Đang chuyển sang game
+Добавить в исключения SaltyNX,Thêm vào loại trừ SaltyNX
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню, L3 имя","X chọn, Y đảo lựa chọn, A mở, (-) bảng 2, (+) menu, L3 Tên"
+\x1b[32;1mТайтл установлен\x1b[37;1m,\x1b[32;1mTựa game đã được cài đặt\x1b[37;1m
+\x1b[32;1mТайтл установлен,\x1b[32;1mTựa game đã được cài đặt
+Патчить версию в meta  : ,Vá phiên bản trong meta :

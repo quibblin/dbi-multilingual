@@ -1,0 +1,1467 @@
+original,translation
+"X - выбор, Y - инверсия выбора, (+) - меню","X - Välj, Y - Invertera val, (+) - Meny"
+"X - выбор, Y - инверсия выбора, (+) - меню, L3 - запуск","X - Välj, Y - Invertera val, (+) - Meny, L3 - Starta"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка","X - Välj, Y - Invertera val, (+) - Meny, R3 - Sortera"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка, L3 - запуск","X - Välj, Y - Invertera val, (+) - Meny, R3 - Sortera, L3 - Starta"
+"X - выбор, Y - инвертирование выбора, A - открыть, (-) - 2ая панель","X - Välj, Y - Invertera val, A - Öppna, (-) - 2:a panel"
+"X - выбор, Y - инвертирование выбора, ⬅/➡ - смена панели, (-) - закрыть","X - Välj, Y - Invertera val, ⬅/➡ - Byt panel, (-) - Stäng"
+"ZL/ZR - смена даты, Y - период, X - сортировка, (+) - выбрать пользователя","ZL/ZR - Byt datum, Y - Period, X - Sortera, (+) - Välj användare"
+. Время игры \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,. Speltid \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+Невозможно смонтировать системный раздел,Kunde inte montera systempartitionen
+"DPAD или стики для перемещения, (+) - Настройки","DPAD eller spakar för att flytta, (+) - Inställningar"
+Ошибка создания файла: {},Fel vid skapande av fil: {}
+Подключение к серверу...,Ansluter till server...
+   Это действие будет нельзя отменить   ,   Denna åtgärd kan inte ångras   
+SDK подменён,SDK ersatt
+Точка доступа,Åtkomstpunkt
+Традиционный китайский,Traditionell kinesiska
+Транзисторов:      {:>3},Transistorer:     {:>3}
+Требуется вручную разрешить синхронизацию времени через Интернет в настройках,Manuell aktivering av tidssynkronisering via internet i inställningarna krävs
+Тёмная комната,Mörkt rum
+Убрать из любимых,Ta bort från favoriter
+Увеличить размер (в МБ),Öka storlek (i MB)
+"Уверены, что хотите продолжить?",Är du säker på att du vill fortsätta?
+Удаление Wi-Fi профиля,Tar bort Wi-Fi-profil
+Удаление Wi-Fi профиля...,Tar bort Wi-Fi-profil...
+Удаление {} бекапа,Tar bort {} säkerhetskopia
+Удаление {} бекапов,Tar bort {} säkerhetskopior
+Удаление {} сохранений,Tar bort {} sparfiler
+Удаление {} сохранения,Tar bort {} sparfil
+Удаление бекапов,Tar bort säkerhetskopior
+Удаление записи об игре...,Tar bort spelpost...
+Удаление игр,Tar bort spel
+Удаление игры целиком: [{}],Ta bort hela spelet: [{}]
+Удаление каталога LFS,Tar bort LFS-katalog
+Удаление контента,Tar bort innehåll
+Удаление настроек родительского контроля...,Tar bort inställningar för föräldrakontroll...
+Удаление не удалось.\n\nНажмите любую кнопку для продолжения,Borttagning misslyckades.\n\nTryck på valfri knapp för att fortsätta
+Удаление неиспользуемого {}...,Tar bort oanvänd {}...
+Удаление плейсхолдера...,Tar bort platshållare...
+Удаление пользователя,Tar bort användare
+Удаление пользователя...,Tar bort användare...
+Удаление ранее установленных файлов...,Tar bort tidigare installerade filer...
+Удаление родительского контроля,Tar bort föräldrakontroll
+SaveFS очищена,SaveFS rensat
+Удаление связи с Nintendo account...,Tar bort länk till Nintendo-konto...
+Удаление сохранений,Tar bort sparfiler
+Удаление сохранения целиком,Tar bort hela sparfilen
+Удаление старого     {}...,Tar bort gammal  {}...
+Удаление старого файла {}...,Tar bort gammal fil {}...
+Удаление старой записи об игре...,Tar bort gammal spelpost...
+Удаление старой папки {}...,Tar bort gammal mapp {}...
+Удаление тайтла: [{}],Tar bort titel: [{}]
+Удаление тикетов ({}),Tar bort biljetter ({})
+Удаление...,Tar bort...
+Удалить,Ta bort
+Удалить LFS,Ta bort LFS
+Удалить сохранения,Ta bort sparfiler
+Удалить старые бекапы,Ta bort gamla säkerhetskopior
+Удаляется {} из {}...,Tar bort {} av {}...
+Удаляется {}...,Tar bort {}...
+Удаляется запись о контенте...,Tar bort innehållspost...
+Удаляется запись об игре...,Tar bort spelpost...
+Удаляется игра и весь связанный контент,Tar bort spel och allt relaterat innehåll
+Titlekey не может быть инициализирован,Titelnyckel kan inte initieras
+Удаляется папка LFS...,Tar bort LFS-mapp...
+Удаляется пустая папка,Tar bort tom mapp
+Удаляется сохранение {}...,Tar bort sparfil {}...
+Удаляется старая запись о контенте...,Tar bort gammal innehållspost...
+Удаляется старый cnmt.nca...,Tar bort gammal cnmt.nca...
+Удаляется тикет: {}...,Tar bort biljett: {}...
+Удаляются все объекты из альбома для игры,Tar bort alla objekt från spelalbumet
+Удаляются все сохранения для игры,Tar bort alla sparfiler för spelet
+Удаляются сохранения...,Tar bort spardata...
+"UID: {}, Ник: {}","UID: {}, Smeknamn: {}"
+Удалённые,Borttagen
+Удачный экспорт,Export lyckades
+Уделение старого тикета...,Tar bort gammal biljett...
+Упаковка каталога в RomFS,Packar katalog till RomFS
+Упрощенный китайский,Förenklad kinesiska
+Успешно разобран как PFS0 файл,Tolkad som PFS0-fil
+Устанавливается {},Installerar {}
+Установить как аватар...,Ange som avatar...
+Установка,Installation
+Установка анлокера...,Installerar upplåsare...
+Установка завершена,Installation slutförd
+Установка игр (NAND),Installera spel (NAND)
+Установка игр (SD Card),Installera spel (SD-kort)
+Установка игры завершена,Spelinstallation slutförd
+Установка обновлений игр,Installera speluppdateringar
+Установка прервана,Installation avbruten
+Установка тайтлов ({}/{}),Installerar titlar ({}/{})
+USB Соединение,USB-anslutning
+Установка ярлыка...,Installerar genväg...
+Установлен,Installerad
+Установленные,Installerad
+Установленные homebrew,Installerat homebrew
+Установленные homebrew ({}),Installerat homebrew ({})
+Установленные игры,Installerade spel
+Установленные тикеты,Installerade biljetter
+Установленные тикеты ({}),Installerade biljetter ({})
+Файл повреждён и не может быть установлен. Не найдена сигнатура HEAD,Filen är skadad och kan inte installeras. HEAD-signatur hittades inte
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе root,Filen är skadad och kan inte installeras. HFS0-signatur hittades inte i rotpartitionen
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе secure,Filen är skadad och kan inte installeras. HFS0-signatur hittades inte i säker partition
+Файл повреждён и не может быть установлен. Не найдена сигнатура PFS0,Filen är skadad och kan inte installeras. PFS0-signatur hittades inte
+Файл слишком большой для хранилища,Filen är för stor för lagringsutrymmet
+Файл: {},Fil: {}
+Фиксация ФС...,FS-commit...
+Финальный размер: {},Slutlig storlek: {}
+Формирование списка...,Skapar lista...
+Форсированный язык    : {},Tvingat språk    : {}
+Форсированный язык    : {} ({}),Tvingat språk    : {} ({})
+Форсировать язык,Tvinga språk
+Французский,Franska
+"Х:{}, Т:{}, РЦ:{}","H:{}, T:{}, R:{}"
+Хранилища MTP,MTP-lagring
+Хранилище только для чтения,Skrivskyddad lagring
+Целевая запись о контенте не найдена,Målinnehållspost hittades inte
+ЧАСТЬ КОНТЕНТА ОТСУТСТВУЕТ. ИГРА НЕ БУДЕТ РАБОТАТЬ,EN DEL AV INNEHÅLLET SAKNAS. SPELET KOMMER INTE ATT FUNGERA
+Число транзисторов: {:>3},Antal transistorer:    {:>3}
+Число уникальных сыграных игр : {},Antal unika spel spelade      : {}
+Число ходов:        {:>3},Antal drag:             {:>3}
+Чтение каталога...,Läser katalog...
+Чтение списка файлов...,Läser fillista...
+Что-то плохое грядёт,Något dåligt är på väg
+Что-то пошло не так. Пропускаем оставшийся файл,Något gick fel. Hoppar över återstående del av filen
+"Чтобы вернуться, нажмите B",Tryck på B för att gå tillbaka
+Шадок у Гиби,Träskfolk hos grannarna
+Экспорт SDK,SDK-export
+Экспортировать,Exportera
+Экспортировать SDK,Exportera SDK
+Январь,Januari
+Японский,Japanska
+Ярлык для DBI,Genväg för DBI
+да,ja
+не является LFS папкой,är inte en LFS-mapp
+не является LFS папкой игры,är inte en spel-LFS-mapp
+нет,nej
+"ZL/ZR - смена даты, Y - период","ZL/ZR - byt datum, Y - period"
+"Получено: {}, (скорость не определена)","Mottaget: {}, (okänd hastighet)"
+Игры добавлены в список исключений,Spel tillagda i undantagslistan
+Новых игр в список исключений добавлено не было,Inga nya spel har lagts till i undantagslistan
+Просмотр МТР устройства [{}],Visar MTP-enhet [{}]
+Просмотр USB диска [{}],Visar USB-enhet [{}]
+Заряд батареи (сырое значение) : {},Batteriladdning (råvärde)  : {}
+ru,sv
+[CRC ОШИБКА ФАЙЛА],[FIL-CRC-FEL]
+Будет скачана и установлена прошивка системы из файла {}.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены,Systemfirmware kommer att laddas ner och installeras från filen {}.\n\nTryck på (+) för att fortsätta\nValfri annan knapp för att avbryta
+Распаковка архива не удалась,Arkivuppackning misslyckades
+Сканирование архива не удалось,Arkivskanning misslyckades
+Установить все обновления из этой папки,Installera alla uppdateringar från denna mapp
+Япония,Japan
+Русский,Ryska
+Февраль,Februari
+Октябрь,Oktober
+[HASH MISMATCH: GC ➡ eShop],[HASH STÄMMER INTE: GC ➡ eShop]
+Ноябрь,November
+Игрок,Spelare
+Время,Tid
+Контент,Innehåll
+[HASH: OK],[HASH: OK]
+Красная,Röd
+[HASH MISMATCH: Неисправимо],[HASH STÄMMER INTE: Ej återställbar]
+[ПРЕД],[FÖREG]
+Альбом,Album
+Выход,Avsluta
+и т.д...,osv...
+{} бекап,{} säkerhetskopia
+874,874
+Пишется тело: {}/{}MB \r,Skriver kropp: {}/{}MB \r
+Пишется скриншот\n,Skriver skärmdump\n
+Пишется таблица хешей\n,Skriver hashtabell\n
+Пишется подпись видео\n,Skriver videosignatur\n
+Операция завершена\n,Åtgärd slutförd\n
+"Будет скачана и установлена прошивка системы из файла {}.\n\nВНИМАНИЕ!!! Похоже, эта версия не поддерживается текущей атмосферой.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены",Systemfirmware kommer att laddas ner och installeras från filen {}.\n\nVARNING!!! Det verkar som att denna version inte stöds av nuvarande Atmosphere.\n\nTryck på (+) för att fortsätta\nTryck på valfri annan knapp för att avbryta
+Копирование файла не удалось,Kunde inte kopiera filen
+Daybreak.nro не найден,Daybreak.nro hittades inte
+Изображение добавлено в альбом,Bild tillagd i albumet
+Ошибка добавления изобржения в альбом: {},Fel vid tillägg av bild i albumet: {}
+Добавить в альбом,Lägg till i album
+Анализ mp4 файла,Analyserar mp4-fil
+Длительность: {},Längd: {}
+ОШИБКА! Файл не содержит один видео трек,FEL! Filen innehåller inte exakt ett videospår
+ОШИБКА! Файл не содержит один аудио трек,FEL! Filen innehåller inte exakt ett ljudspår
+ОШИБКА! У видео трека неподдерживаемый кодек,FEL! Videospåret har en kodek som inte stöds
+ОШИБКА! У аудио трека неподдерживаемый кодек,FEL! Ljudspåret har en kodek som inte stöds
+ОШИБКА! Аудио трек не стерео,FEL! Ljudspåret är inte i stereo
+[{}] Общий тикет для {},[{}] Allmän biljett för {}
+ОШИБКА! У аудио трека неподходящая частота дискретизации,FEL! Ljudspåret har en olämplig samplingsfrekvens
+ОШИБКА! У видео трека неподходящая ширина,FEL! Videospåret har en olämplig bredd
+ОШИБКА! У видео трека неподходящая высота,FEL! Videospåret har en olämplig höjd
+ВНИМАНИЕ! Возможно видео поток содержит B-Frames. Файл может не воспроизводиться,VARNING! Videoströmmen kan innehålla B-Frames. Filen kanske inte kan spelas upp
+"Похоже, это не MP4 файл",Det verkar inte vara en MP4-fil
+Открыть как RomFS,Öppna som RomFS
+\x1b[31;1mГ\x1b[37;1m,\x1b[31;1mГ\x1b[37;1m
+\x1b[32;1mШ\x1b[37;1m,\x1b[32;1mШ\x1b[37;1m
+Ваша SD карта является подделкой. Рекомендуется заменить SD карту на проверенную.,Ditt SD-kort är förfalskat. Vi rekommenderar att du byter ut SD-kortet mot ett verifierat.
+[{}] Персональный тикет для {},[{}] Personlig biljett för {}
+Кажется ваша SD карта является подделкой.\n\nВозможны проблемы с установкой игр.\nВ этом случае рекомендуется заменить SD карту на проверенную.,Ditt SD-kort verkar vara förfalskat.\n\nProblem med spelinstallation kan uppstå.\nI så fall rekommenderas att du byter ut SD-kortet mot ett verifierat.
+Информация о SD карте,SD-kortinformation
+[ПОДПИСЬ: DBI],[SIGNATUR: DBI]
+.    Время игры    \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,.    Speltid      \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+"ZL/ZR смена даты, Y период, X сортировка, (+) выбрать пользователя","ZL/ZR byt datum, Y period, X sortera, (+) välj användare"
+[{}МБ] {}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,[{}MB] {}MB av {}MB ({:.2f} MB/s)\x1b[0K\r
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка, L3 запуск","X välj, Y invertera val, (+) meny, R3 sortera, L3 starta"
+Создать все известные ({}),Skapa alla kända ({})
+"X выбор, Y обратить выбор, (+) меню, L3 запуск","X välj, Y invertera val, (+) meny, L3 starta"
+"DPAD или стики для перемещения, (+) Настройки","DPAD eller spakar för att flytta, (+) Inställningar"
+Просмотр HTTP/FTP/Github сервера...,Bläddrar på HTTP/FTP/Github-server...
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка","X välj, Y invertera val, (+) meny, R3 sortera"
+"X выбор, Y обр. выбор, (+) меню","X välj, Y invertera val, (+) meny"
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню","X välj, Y invertera val, A öppna, (-) 2:a panel, (+) meny"
+"X выбор, Y обр. выбор, ⬅/➡ смена панели, (-) закрыть, (+) меню","X välj, Y avmarkera, ⬅/➡ byt panel, (-) stäng, (+) meny"
+[ДЕЛЬТА ФРАГМЕНТ НЕ НУЖЕН],[DELTAFRAGMENT BEHÖVS INTE]
+[КОНТЕНТ ОТСУТСТВУЕТ],[INNEHÅLL SAKNAS]
+[НЕ СОЗДАТЬ ПЛЕЙСХОЛДЕР],[SKAPA INTE PLATSHÅLLARE]
+[НЕДОСТАТОЧНО МЕСТА],[INTE TILLRÄCKLIGT MED UTRYMME]
+[НЕИЗВЕСТНОЕ СЖАТИЕ],[OKÄND KOMPRIMERING]
+[ОТСУТСТВУЕТ],[SAKNAS]
+[ОШБК],[FEL]
+[ОШИБКА NCA MAGIC],[NCA MAGIC-FEL]
+[ОШИБКА ЗАПИСИ В ПЛЕЙСХОЛДЕР],[SKRIVFEL FÖR PLATSHÅLLARE]
+[ОШИБКА РАСПАКОВКИ ZSTD: {}],[ZSTD-DEKOMPRIMERINGSFEL: {}]
+[ОШИБКА РАСПАКОВКИ],[UPPACKNINGSFEL]
+[ОШИБКА],[FEL]
+[ОШИБКА] Отсутствует URL списка обновлений,[FEL] URL för uppdateringslista saknas
+[ПЕРЕДАЧА OK],[ÖVERFÖRING OK]
+[ПЕРЕДАЧА ПРЕРВАНА],[ÖVERFÖRING AVBRUTEN]
+[ПОВРЕЖДЁННЫЙ NCA],[SKADAD NCA]
+[ПОДПИСЬ: OK],[SIGNATUR: OK]
+[ПОДПИСЬ: XCI➡NSP],[SIGNATUR: XCI➡NSP]
+[ПОДПИСЬ: Поддельная],[SIGNATUR: Falsk]
+[СТАРАЯ ПРОШИВКА],[GAMMAL FIRMWARE]
+[ТРЕБУЕТСЯ РЕЖИМ ТАЙТЛА],[TITEL-LÄGE KRÄVS]
+[ФАЙЛ ПОВРЕЖДЁН],[FIL SKADAD]
+[ХЕШ ИСПРАВЛЕН],[HASH ÅTGÄRDAD]
+[ХЕШ НЕ СОВПАДАЕТ],[HASH STÄMMER INTE]
+\nНачало обработки dlc {}: {:016X},\nStartar DLC-bearbetning {}: {:016X}
+\nНачало обработки программы {},\nStartade bearbetning av program {}
+\nНачало создания Data.nca,\nStartar skapande av Data.nca
+\nНачало создания Meta.nca,\nStartar skapande av Meta.nca
+\nОшибка USB обмена,\nUSB-överföringsfel
+\nСборка PFS0,\nBygger PFS0
+\nСборка RomFS,\nBygger RomFS
+\nСекция 0,\nSektion 0
+\nСекция 1,\nSektion 1
+\nСекция 2,\nSektion 2
+\nСоздан NSP: {},\nNSP skapad: {}
+\nШифрование NCA,\nNCA-kryptering
+{:04d} {} {:02d}. Всего: {} час,{:04d} {} {:02d}. Totalt: {} tim
+{:04d} {} {:02d}. Всего: {} часа,{:04d} {} {:02d}. Totalt: {} timmar
+{:04d} {} {:02d}. Всего: {} часов,{:04d} {} {:02d}. Totalt: {} timmar
+{:4d} {}. Всего: {} час,{:4d} {}. Totalt: {} tim
+{:4d} {}. Всего: {} часа,{:4d} {}. Totalt: {} timmar
+{:4d} {}. Всего: {} часов,{:4d} {}. Totalt: {} timmar
+{:4d}. Всего: {} час,{:4d}. Totalt: {} tim
+{:4d}. Всего: {} часа,{:4d}. Totalt: {} timmar
+{:4d}. Всего: {} часов,{:4d}. Totalt: {} timmar
+{:>3} {}{:<50}\x1b[37;1m {:>10},{:>3} {}{:<50}\x1b[37;1m {:>10}
+{:>6} объектов обработано. {:>5} записей найдено...\r,{:>6} objekt bearbetade. {:>5} poster hittades...\r
+{:>6}/{}kB уже скачано...\r,{:>6}/{}kB redan nedladdat...\r
+{} cохранение,{} sparfil
+{} cохранений,{} sparad
+{} cохранения,{} spardata
+{} бекапа,{} säkerhetskopia
+{} бекапов,{} säkerhetskopior
+{} записей ({}),{} poster ({})
+{} записи ({}),{} poster ({})
+{} запись ({}),{} post ({})
+{} игр ({}),{} spel ({})
+{} игра ({}),{} spel ({})
+{} игры ({}),{} spel ({})
+{} сохранение,{} sparfil
+{} сохранений,{} sparfiler
+{} сохранения,{} spardata
+{} тикет,{} biljett
+{} тикета,{} biljetter
+{} тикетов,{} biljetter
+{}-{} FW:{}{} SDK:{},{}-sv{:.0} FW:{}{} SDK:{}
+"{}/{} MB (Ср: {:.1f} MB/sec, Тек: {:.1f} MB/sec) Ост. {:02d}:{:02d}      \r","{}/{} MB (Snitt: {:.1f} MB/s, Nu: {:.1f} MB/s) Återst. {:02d}:{:02d}      \r"
+"{}/{} МБ, {:.2f} МБ/сек","{}/{} MB, {:.2f} MB/s"
+{}: {} потерянная запись,{}: {} övergiven post
+{}: {} потерянных записей,{}: {} förlorade poster
+{}: {} потерянных записи,{}: {} förlorade poster
+{}: {}/{} ({:.2f} МБ/сек),{}: {}/{} ({:.2f} MB/s)
+{}: {}/{} ({}%) ({:.2f} МБ/сек),{}: {}/{} ({}%) ({:.2f} MB/s)
+{}: пропускается {}/{} ({:.2f} МБ/сек),{}: hoppar över {}/{} ({:.2f} MB/s)
+"{}\n\nВосстановление бекапа не удалось\n\nНажмите A - прервать, другая кнопка - продолжить","{}\n\nÅterställning av säkerhetskopia misslyckades\n\nTryck på A för att avbryta, valfri annan knapp för att fortsätta"
+{}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,{}MB av {}MB ({:.2f} MB/s)\x1b[0K\r
+АВТО,AUTO
+Аватар установлен,Avatar inställd
+Август,Augusti
+Австралия,Australien
+Автозапуск MTP,Autostarta MTP
+Автозапуск списка homebrew,Autostarta homebrew-lista
+Агрументы для ярлыка,Genvägsargument
+Адрес FTP сервера: {},FTP-serveradress: {}
+Адрес HTTP сервера: {},HTTP-serveradress: {}
+Альбом (0°),Album (0°)
+Американский английский,Amerikansk engelska
+Апрель,April
+База этой игры не самодостаточна. Не забудьте установить обновление,Detta spels basdel är inte fristående. Glöm inte att installera uppdateringen
+Бекапы,Säkerhetskopior
+Бекапы сохранений ({}),Säkerhetskopior av spardata ({})
+Британский английский,Brittisk engelska
+В альбоме найден {} объект,{} objekt hittat i albumet
+В альбоме найдено {} объекта,Hittade {} objekt i albumet
+В альбоме найдено {} объектов,{} objekt hittade i albumet
+В альбоме отсутствуют объекты,Inga objekt i albumet
+В файле /switch/prod.keys отсутствуют необходимые ключи.\n\nЧасть функций программы будет недоступна.\n\nПерегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад\nдля дампа ключей из SysNAND.,Nödvändiga nycklar saknas i filen /switch/prod.keys.\n\nVissa funktioner i programmet kommer inte att vara tillgängliga.\n\nStarta om till Hekate och använd payloaden Lockpick_RCM.bin\nför att dumpa nycklar från SysNAND.
+ВНИМАНИЕ! Тайтл {:016X} не установлен,VARNING! Titel {:016X} är inte installerad
+ВНИМАНИЕ! Установленная версия ({}) не совпадает с желаемой ({}),VARNING! Installerad version ({}) matchar inte önskad ({})
+ВО ВРЕМЯ ПЕРЕДАЧИ ФАЙЛА НАЙДЕНЫ ОШИБКИ. УСТАНОВКА ПРЕРВАНА,FEL HITTADES UNDER FILÖVERFÖRING. INSTALLATION AVBRUTEN
+Введите URL сервера (HTTP или (S)FTP),Ange server-URL (HTTP eller (S)FTP)
+Введите агрументы для ярлыка или оставьте пустым,Ange argument för genvägen eller lämna tomt
+Введите желаемый номер страницы,Ange önskat sidnummer
+Введите новое имя,Ange nytt namn
+Введите новое имя каталога,Ange nytt katalognamn
+Введите новое имя файла,Ange nytt filnamn
+Введите номер DLC,Ange DLC-nummer
+Версия {} [v{}],Version {} [v{}]
+Вместо пользователя {} использовать:,Använd istället för användare {}:
+Внимание!\nНекоторые файлы были заблокированы и поэтому пропущены.,Varning!\nVissa filer var låsta och hoppades därför över.
+Во время разбора\n\n{}\n\nвозникла следующая ошибка:\n\n{},Vid tolkning av\n\n{}\n\nuppstod följande fel:\n\n{}
+Во время установки тикетов были ошибки. Проверьте наличие ES сигпатчей,Fel uppstod vid biljettinstallation. Kontrollera ES-sigpatches
+Во время экспорта были ошибки,Fel uppstod vid export
+Возраст батареи                : {},Batteriålder               : {}
+Возрастной рейтинг,Åldersgräns
+Восстановить,Återställ
+Восстановить бекап...,Återställ säkerhetskopia...
+Восстановить для...,Återställ för...
+Восстановить как бекап сохранения,Återställ som sparfilssäkerhetskopia
+Восстановление бекапа,Återställer säkerhetskopia
+Восстановление не удалось,Återställning misslyckades
+Восстановление успешно,Återställning lyckades
+Восстановление: {},Återställer: {}
+Время игры: {:02}:{:02}:{:02},Speltid: {:02}:{:02}:{:02}
+Время передачи {:d}:{:02d}:{:02d},Överföringstid {:d}:{:02d}:{:02d}
+Все игровые сессии,Alla spelsessioner
+Все игроки,Alla spelare
+Все объекты,Alla objekt
+Все файлы в порядке,Alla filer är OK
+Всего {} байт получен,{} byte mottagna
+Всего {} байт послан,{} byte skickade
+Всего {} байта получено,{} byte mottagna totalt
+ Да, Ja
+Всего {} байта послано,{} byte skickade
+Всего {} байтов получено,{} byte mottagna totalt
+Всего {} байтов послано,{} byte skickade
+Всего записей: {},Totalt antal poster: {}
+Всего отослано: {} ({}/сек),Totalt skickat: {} ({}/s)
+Всего программ: {},Totalt antal titlar: {}
+Вставить,Klistra in
+Вставка...,Infogar...
+Всё время. Всего: {} час,All tid. Totalt: {} timmar
+Всё время. Всего: {} часа,All tid. Totalt: {} timmar
+Всё время. Всего: {} часов,All tid. Totalt: {} timmar
+Вы собираетесь удалить следующие бекапы:,Du håller på att ta bort följande säkerhetskopior:
+Вы собираетесь удалить следующие игры:,Du håller på att ta bort följande spel:
+Вы собираетесь удалить следующие сохранения:,Du håller på att ta bort följande sparfiler:
+Вы собираетесь удалить следующие тикеты:,Du håller på att ta bort följande biljetter:
+Вы уверены в удалении {} записей?\n\n(+) - ДА   B - Отмена,Är du säker på att du vill ta bort {} poster?\n\n(+) - JA    B - Avbryt
+Вы уверены в удалении {} записи?\n\n(+) - ДА   B - Отмена,Är du säker på att du vill ta bort {} post?\n\n(+) - JA    B - Avbryt
+Вы уверены в удалении {} объекта?\n\n(+) - ДА   B - Отмена,Är du säker på att du vill ta bort {} objekt?\n\n(+) - JA    B - Avbryt
+Вы уверены в удалении {} объектов?\n\n(+) - ДА   B - Отмена,Är du säker på att du vill ta bort {} objekt?\n\n(+) - JA    B - Avbryt
+"Вы уверены, что хотите удалить {}?\n\n(+) - ДА, другая кнопка - НЕТ","Är du säker på att du vill ta bort {}?\n\n(+) - JA, annan knapp - NEJ"
+"Вы уверены, что хотите удалить\n{}?\n\n(+) - ДА  В - Отмена",Är du säker på att du vill ta bort\n{}?\n\n(+) - JA   B - Avbryt
+Выберите пользователя,Välj användare
+Выберите тип сохранения,Välj spartyp
+Выбрать все файлы игры,Välj alla spelfiler
+Выбрать того же пользователя,Välj samma användare
+Выбрать ту же игру,Välj samma spel
+Вырезать,Klipp ut
+Вычисление хэша,Beräknar hash
+Вычисленное время конца : {},Beräknad sluttid    : {}
+Вычисленное время начала: {},Beräknad starttid   : {}
+Генерация DLC [{:016X}][v{}],Genererar DLC [{:016X}][v{}]
+Генерация DLC анлокера...,Genererar DLC-upplåsare...
+Генерируется анлокер для {:016X} с номером {} и версией {}...,Genererar upplåsare för {:016X} med nummer {} och version {}...
+Генерируется ярлык для пути '{}' и аргументов '{}'...,Genererar genväg för sökväg '{}' och argument '{}'...
+Главное меню,Huvudmeny
+Голландский,Nederländska
+"Да, я уверен","Ja, jag är säker"
+Дамп анлокера в '{}'...,Dumpar upplåsare till '{}'...
+Дамп текущей прошивки,Dumpa nuvarande firmware
+Дамп ярлыка в '{}'...,Dumpar genväg till '{}'...
+Действия с файлами,Filåtgärder
+Действия с файлами ({}),Filåtgärder ({})
+Декабрь,December
+День,Dag
+Диаграмма активности,Aktivitetsdiagram
+Для бекапов,För säkerhetskopior
+Для выхода нажмите любую кнопку,Tryck på valfri knapp för att avsluta
+Для дампов,För dumpar
+Для логов,För loggar
+Добавить в любимые,Lägg till i favoriter
+Европа,Europa
+"Есть несохранёные изменения.\nВы хотите их сохранить?\n\n(+) - Да, сохранить\n\n(-) - Выйти без сохранения\n\nДругая кнопка - Отмена","Det finns osparade ändringar.\nVill du spara dem?\n\n(+) - Ja, spara\n\n(-) - Avsluta utan att spara\n\nAnnan knapp - Avbryt"
+Желаемая версия: {},Önskad version: {}
+Журнал активности,Aktivitetslogg
+Завершено,Slutförd
+Загружается список обновлений...,Laddar uppdateringslista...
+Загрузка изображения...,Laddar bild...
+Загрузка текста...{}%,Laddar text...{}%
+Загрузка файла... {}%,Laddar fil... {}%
+Задать размер файла {} не удалось: {},Kunde inte ange filstorlek {}: {}
+Закончено за {:02d}:{:02d}:{:02d},Slutförd på {:02d}:{:02d}:{:02d}
+Закончилась память при посылке ответа,Slut på minne vid sändning av svar
+Закончились дополнительные буферы. Скорость записи на носитель слишком низка,Slut på extra buffertar. Skrivhastigheten till lagring är för låg
+Закрытие соединения,Stänger anslutning
+Закрытие соединения к {}:{},Stänger anslutning till {}:{}
+Запаковать LFS в romfs.bin,Packa LFS till romfs.bin
+Запаковать в romfs.bin,Packa till romfs.bin
+Запаковка папки в RomFS,Packar mapp till RomFS
+Записанное время конца  : {},Registrerad sluttid : {}
+Записанное время начала : {},Registrerad starttid: {}
+Запись в файл...,Skriver till fil...
+Запись за пределами файла,Skrivning bortom filens slut
+Заполнение нулями,Nollfyllning
+Заполнить свободное место на SD нулями,Fyll ledigt utrymme på SD med nollor
+Запрет захвата видео,Förbjud videoinspelning
+Запрет скриншотов,Skärmdumpsförbud
+Запрещено,Förbjuden
+Запускавшиеся игры,Startade spel
+Запустить FTP сервер...,Starta FTP-server...
+Запустить HTTP сервер...,Startar HTTP-server...
+Запустить МТР соединение,Starta MTP-anslutning
+Запустить случайную игру,Starta slumpmässigt spel
+Заряд батареи                  : {},Batteriladdning                : {}
+Здесь пусто,Inget här
+Игра анонсирует SDK {},Spelet anger SDK {}
+"Игра анонсирует более новый SDK ({}), чем текущая прошивка ({})",Spelet anger nyare SDK ({}) än nuvarande firmware ({})
+Игра использует titleId от дополнения,Spelet använder titleId från DLC
+Игра использует titleId от обновления,Spelet använder titleId från uppdatering
+Извлечь в LFS,Extrahera till LFS
+Изменение размера сохранения на {} [{}]...,Ändrar storlek på sparfil till {} [{}]...
+Изменить версию DLC (десятичную),Ändra DLC-version (decimal)
+Изменить номер DLC (десятичный),Ändra DLC-nummer (decimal)
+Изменить номер DLC (шестнадцатеричный),Ändra DLC-nummer (hexadecimal)
+Изменён размер SaveFS,SaveFS-storlek ändrad
+Импорт исправленного тикета...,Importerar åtgärdad biljett...
+Импорт тикета...,Importerar biljett...
+"Имя каталога\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Katalognamnet\n'{}'\ninnehåller ogiltiga tecken.\nDet kan inte skapas.\n\nTryck A - avbryt, B - hoppa över, X - byt namn"
+"Имя файла\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Filnamnet\n'{}'\ninnehåller ogiltiga tecken.\nDet kan inte skapas.\n\nTryck A - avbryt, B - hoppa över, X - byt namn"
+Инсталлируется romfs.bin,Installerar romfs.bin
+Информация о зарядке батареи,Batteriladdningsinformation
+Информация о контенте,Innehållsinformation
+Информация о контенте ({}),Innehållsinformation ({})
+Информация о прошивке,Firmware-information
+Информация о системе,Systeminformation
+Информация о сохранении,Spardatainformation
+Информация о сохранении...,Spardatainformation...
+Информация о тикете,Biljettinformation
+Информация о тикете...,Biljettinformation...
+Информация об NSP,NSP-information
+Информация об атмосфере,Atmosphere-information
+Информация об игровой активности,Spelaktivitetsinformation
+Информация об источние питания,Strömkällsinformation
+Информация об оборудовании,Hårdvaruinformation
+Информация...,Information...
+Испанский,Spanska
+Использовано дополнительной памяти: {}. Создано буферов: {},Extra minne använt: {}. Buffertar skapade: {}
+Использовать папку для...,Använd mapp för...
+Используется USB{},Använder USB{}
+Итальянский,Italienska
+Ищется control для ProgramId {},Söker efter control för ProgramId {}
+Ищется exefs/romfs для ProgramId {},Söker efter exefs/romfs för ProgramId {}
+Ищется exefs/romfs/logo для ProgramId {},Söker efter exefs/romfs/logo för ProgramId {}
+Ищется {},Söker efter {}
+Июль,Juli
+Июнь,Juni
+Канадский французский,Kanadensisk franska
+"Когда ваше устройство подключится, нажмите любую кнопку",Tryck på valfri knapp när din enhet ansluter
+Код партии батареи    : {} ({}),Batteripartikod          : {} ({})
+Кодировка,Kodning
+Конец игры            : -,Spelslut        : -
+Конец игры            : {},Spelslut        : {}
+Контент уже на месте,Innehållet finns redan på plats
+Копирование IVFC слой {} в nca: {},Kopierar IVFC-lager {} till nca: {}
+Копирование PFS0 в nca,Kopierar PFS0 till nca
+Копирование PFS0 хэш таблицы в nca,Kopierar PFS0-hashtabell till nca
+Копирование SDK {} в файл: {}...,Kopierar SDK {} till fil: {}...
+Копировать,Kopiera
+Корейский,Koreanska
+Корень не найден,Rot hittades inte
+Корень сохранения не существует,Sparfilsrot finns inte
+Корея,Korea
+Латиноамериканский испанский,Latinamerikansk spanska
+Май,Maj
+Март,Mars
+Масштаб: По ширине,Skala: Anpassa till bredd
+Масштаб: По экрану,Skala: Anpassa till skärm
+Масштаб: Точка в точку,Skala: Pixelperfekt
+Масштаб: Увеличение x2,Skala: 2x förstoring
+Место в  NAND         : {},Utrymme i NAND       : {}
+Место на SD карте     : {},SD-kortutrymme  : {}
+Место на приставке не занято,Inget utrymme upptaget på konsolen
+Мета контент отсутствует,Metainnehåll saknas
+Миссия провалена\n\nНажмите А для выхода,Uppdraget misslyckades\n\nTryck på A för att avsluta
+Миссия успешна\n\nОсталось ходов: {}\n\nНажмите А для выхода,Uppdraget lyckades\n\nDrag kvar: {}\n\nTryck på A för att avsluta
+Модификация файла не удалась,Filändring misslyckades
+На выбранном устройстве нет достаточного свободного места для установки,Det finns inte tillräckligt med ledigt utrymme på vald enhet för installation
+На месте нет достаточно свободного места,Inte tillräckligt med ledigt utrymme
+Нажмите (+) для перезаписи конфига обновлённым\n\nЛюбую другую кнопку для пропуска,Tryck på (+) för att skriva över konfiguration med uppdaterad\n\nValfri annan knapp för att hoppa över
+"Нажмите (+) для удаления, любую другую кнопку для пропуска...\n (-) Удалять все, больше не спрашивая","Tryck på (+) för att ta bort, annan knapp för att hoppa över...\n (-) Ta bort alla utan att fråga igen"
+"Нажмите A, чтобы продолжить, другую кнопку, чтобы выйти","Tryck på A för att fortsätta, annan knapp för att avsluta"
+"Нажмите B, чтобы вернуться",Tryck på B för att återgå
+Нажмите любую кнопку,Tryck på valfri knapp
+Найден SDK: {},SDK hittad: {}
+Найден {} зарегистрированный контент-файл,Hittade {} registrerad innehållsfil
+Найден {} контент-файл,Hittade {} innehållsfil
+Найден {} пользователь,Hittade {} användare
+Найден {} потерянный контент-файл,Hittade {} övergiven innehållsfil
+Найден {} файл,Hittade {} fil
+Найден {} файл с ошибками,Hittade {} fil med fel
+Найден и удалён {} неиспользуемый тикет,Hittade och tog bort {} oanvänd biljett
+Найдена {} запись об игре,Hittade {} spelpost
+Найдена {} запись об ошибках,Hittade {} felpost
+Найдена {} установленная игра,Hittade {} installerat spel
+Найдено {} записей об играх,Hittade {} spelposter
+Найдено {} записей об ошибках,Hittade {} felrapporter
+Найдено {} записи об играх,Hittade {} spelposter
+({}/{}) Устанавливается {},({}/{}) Installerar {}
+Найдено {} записи об ошибках,Hittade {} felrapporter
+Найдено {} зарегистрированных контент-файла,Hittade {} registrerade innehållsfiler
+Найдено {} зарегистрированных контент-файлов,Hittade {} registrerade innehållsfiler
+Найдено {} контент-файла,Hittade {} innehållsfiler
+Найдено {} контент-файлов,{} innehållsfiler hittade
+Найдено {} обновление,{} uppdatering hittad
+Найдено {} обновлений,Hittade {} uppdateringar
+Найдено {} обновления,Hittade {} uppdateringar
+Найдено {} пользователей,Hittade {} användare
+Найдено {} пользователя,Hittade {} användare
+Найдено {} потерянных контент-файла,Hittade {} förlorade innehållsfiler
+Найдено {} потерянных контент-файлов,Hittade {} övergivna innehållsfiler
+Найдено {} сохранение,Hittade {} sparfil
+Найдено {} сохранение...,Hittade {} sparfil...
+Найдено {} сохранений,Hittade {} sparfiler
+Найдено {} сохранений...,Hittade {} sparfiler...
+Найдено {} сохранения,Hittade {} sparfiler
+Найдено {} сохранения...,Hittade {} sparfiler...
+Найдено {} установленные игры,Hittade {} installerade spel
+Найдено {} установленных игр,Hittade {} installerade spel
+Найдено {} файла,{} fil hittad
+Найдено {} файла с ошибками,Hittade {} filer med fel
+Найдено {} файлов,{} filer hittade
+Найдено {} файлов с ошибками,Hittade {} filer med fel
+Найдено и удалено {} неиспользуемых тикета,Hittade och tog bort {} oanvända biljetter
+Найдено и удалено {} неиспользуемых тикетов,Hittade och tog bort {} oanvända biljetter
+Найдено существующее сохранение. Восстанавливаю бекап в него...,Hittade befintlig sparfil. Återställer säkerhetskopia till den...
+Настройки,Inställningar
+Настройки DBI,DBI-inställningar
+Настройки FB2,FB2-inställningar
+Начало игры           : -,Spelstart       : -
+Начало игры           : {},Spelstart       : {}
+Начало создания Control.nca,Startar skapande av Control.nca
+Начало создания Program.nca,Startar skapande av Program.nca
+Начать установку,Starta installation
+Не доступно,Inte tillgänglig
+Не известно,Okänd
+"Не найден USB диск, который смог бы вместить получившийся дамп. Убедитесь, что он отформатирован в ExFAT.",Ingen USB-enhet hittades som rymmer den resulterande dumpen. Se till att den är formaterad som ExFAT.
+Не найдены требуемые тикеты,Nödvändiga biljetter hittades inte
+. Время простоя \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m,. Inaktiv tid \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m
+Не получилось создать NSP,Kunde inte skapa NSP
+Не удалось получить список,Kunde inte hämta lista
+Не удалось установить аватар\n{},Kunde inte ange avatar\n{}
+Не установлен,Inte installerad
+Невозможно найти путь,Kunde inte hitta sökväg
+Невозможно открыть папку журналов ошибок,Kunde inte öppna mappen för felloggar
+Невозможно переименовать '{}' в '{}':,Kan inte byta namn på '{}' till '{}':
+Невозможно получить список LFS,Kunde inte hämta LFS-lista
+Невозможно получить список пользователей,Kunde inte hämta användarlista
+Невозможно получить статус связи с Nintendo Account,Kunde inte hämta länkstatus för Nintendo-konto
+...готово,...klar
+Невозможно получить число записей об ошибках,Kunde inte hämta antal felposter
+Невозможно прочитать общие тикеты,Kunde inte läsa allmänna biljetter
+Невозможно прочитать персонализированные тикеты,Kunde inte läsa personliga biljetter
+Невозможно разобрать content meta,Kunde inte tolka innehållsmeta
+Невозможно разобрать content meta. Неожиданная ошибка,Kunde inte tolka innehållsmeta. Oväntat fel
+Невозможно разобрать content meta. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Kunde inte tolka innehållsmeta. FÖR GAMMAL FIRMWARE. HOS-uppdatering krävs
+Невозможно разобрать nca. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Kunde inte tolka nca. FÖR GAMMAL FIRMWARE. HOS-uppdatering krävs
+Невозможно разобрать индекс кеша,Kunde inte tolka cacheindex
+Невозможно распаковать '{}':,Kan inte packa upp '{}':
+Невозможно скопировать файл\n   '{}'\n➡ '{}'\n,Kan inte kopiera fil\n   '{}'\n➡ '{}'\n
+Невозможно смонтировать сохранение,Kunde inte montera sparfil
+Невозможно смонтировать устройство сохраниения,Kunde inte montera sparenhet
+Невозможно создать каталог,Kan inte skapa katalog
+Невозможно создать каталог '{}':,Kan inte skapa katalogen '{}':
+Невозможно создать файл,Kan inte skapa fil
+Невозможно создать файл '{}':,Kan inte skapa filen '{}':
+Недопустимый идентификатор,Ogiltig identifierare
+Неизвестная игра [{:016x}],Okänt spel [{:016x}]
+: {:>4} сохранение,: {:>4} sparfil
+Неизвестно,Okänd
+Неизвестный тайтл,Okänd titel
+Немецкий,Tyska
+Неправильное хранилище,Ogiltig lagring
+Неправильный родительский объект,Ogiltigt överordnat objekt
+Нет,Nej
+Нет VFS. Прекращение работы,Ingen VFS. Avslutar
+Нет exefs VFS. Прекращение работы,Ingen exefs VFS. Avslutar
+: {:>4} сохранений,: {:>4} sparfiler
+Нет logo VFS. Прекращение работы,Ingen logo VFS. Avslutar
+Нет romfs VFS. Прекращение работы,Ingen romfs VFS. Avslutar
+Нет лого,Ingen logotyp
+Нечего устанавливать,Inget att installera
+Новое имя для '{}',Nytt namn för '{}'
+Новый каталог,Ny katalog
+Новый размер сохранения в МБ,Ny sparfilsstorlek i MB
+Новый рейтинг (-1 для удаления),Nytt betyg (-1 för att ta bort)
+: {:>4} сохранения,: {:>4} sparfiler
+Номер страницы,Sidnummer
+Ночь,Natt
+Нужен связанный аккаунт,Länkat konto krävs
+ОШИБКА ПОЛУЧЕНИЯ ЭКСТРА ДАННЫХ,FEL VID HÄMTNING AV EXTRA DATA
+Обнаружены недопустимые символы,Ogiltiga tecken upptäckta
+Обновить DBI,Uppdatera DBI
+Обновить DBI из этого файла,Uppdatera DBI från denna fil
+Обновить TitleDB,Uppdatera TitleDB
+Обновление TitleDB,Uppdaterar TitleDB
+Обновление базы данных...,Uppdaterar databas...
+Обновление версии до {} {}\n\nНажмите (+) для продолжения\nЛюбую другую кнопку для отмены,Uppdaterar version till {} {}\n\nTryck på (+) för att fortsätta\nValfri annan knapp för att avbryta
+Обновление времени...,Uppdaterar tid...
+Обновление закончено\n\nНажмите любую кнопку\nдля перезапуска DBI,Uppdatering slutförd\n\nTryck på valfri knapp\nför att starta om DBI
+Обновление фейковой записи {} ➡ [v{}],Uppdaterar fejkpost {} ➡ [v{}]
+Обновление. Пожалуйста подождите...,Uppdaterar. Vänta...
+Обновляется запись об игре...,Uppdaterar spelpost...
+Обрабатывается запись {:016X},Bearbetar post {:016X}
+Обратный альбом (180°),Omvänt album (180°)
+Обратный портрет (270°),Omvänt stående (270°)
+Общее время активной игры     : {} часов,Total aktiv speltid           : {} timmar
+Общее время дампа {:d}:{:02d}:{:02d},Total dumptid {:d}:{:02d}:{:02d}
+Общее время запущенных игр    : {} часов,Total speltid                 : {} timmar
+Общее время игры      : -,Total speltid   : -
+Общее время игры      : - (-),Total speltid   : - (-)
+Общее время игры      : {:d} часов {:02d} минут,Total speltid   : {:d} timmar {:02d} minuter
+Общее время установки: {:d}:{:02d}:{:02d},Total installationstid: {:d}:{:02d}:{:02d}
+Общее время: {:02}:{:02}:{:02},Total tid: {:02}:{:02}:{:02}
+Общее занимаемое место: N:{} + S:{} = {},Totalt använt utrymme: N:{} + S:{} = {}
+Общее число запусков  : -,Totalt antal starter     : -
+Общие,Allmänt
+Общий размер установки: {},Total installationsstorlek: {}
+Объединение списков,Slå samman listor
+Объект {} не допустим,Objekt {} är inte tillåtet
+Объект {} не может быть создан,Objekt {} kan inte skapas
+Объект не открыт для редактирования,Objektet är inte öppet för redigering
+Объект удалён,Objekt borttaget
+Объект уже открыт для редактирования,Objektet är redan öppet för redigering
+Огибка получения адреса сокета: {} {},Fel vid hämtning av socket-adress: {} {}
+Ожидаемый размер: {},Förväntad storlek: {}
+Ожидается большой (>4GB) файл,Stor (>4GB) fil förväntad
+Ожидается запуск dbibackend на стороне ПК...,Väntar på att dbibackend ska starta på PC-sidan...
+Ожидание: {} секунд,Väntar: {} sekunder
+Ожидание: {} секунда,Väntar: {} sekund
+Ожидание: {} секунды,Väntar: {} sekunder
+Ориентация,Orientering
+Ориентация...,Orientering...
+Основной SDK не найден. Пробуем мультипрограмный вариант,Huvud-SDK hittades inte. Försöker med flerprogramsvariant
+Оставить сохранения,Behåll spardata
+Осталось ходов:    {:>3},Drag kvar:     {:>3}
+Остаток файла пропускается,Återstoden av filen hoppas över
+Отключение связи с мобильным приложением...,Kopplar från mobilappen...
+Открываем папку прошивки...,Öppnar firmware-mapp...
+Открыть,Öppna
+Открыть вторую панель,Öppna andra panelen
+Открыть как 7Z,Öppna som 7Z
+Открыть как RAR,Öppna som RAR
+Открыть как ZIP,Öppna som ZIP
+Открыть как hex,Öppna som hex
+Открыть как текст,Öppna som text
+Открыть контент по MTP,Öppna innehåll via MTP
+контент по MTP,innehåll via MTP
+Открыть папку LFS,Öppna LFS-mapp
+Content meta не найден. Установка прервана,Innehållsmeta hittades inte. Installation avbruten
+Отослано {}/{} байт,Skickade {}/{} byte
+Отсутствуют ES сигпатчи!,ES-sigpatches saknas!
+Очистка /atmosphere/contents,Rensar /atmosphere/contents
+Очистка кеша rightsId...,Rensar rightsId-cache...
+Очистка папки...,Rensar mapp...
+Очистка плейсхолдеров...,Rensar platshållare...
+Очистка системы от мусора,Rensar systemet från skräp
+Очистка сохранений,Rensar spardata
+Очистка...,Rensar...
+Ошибка FTP сервера,FTP-serverfel
+DBI Просмотр альбома,DBI Albumvy
+Ошибка во время копирования файла,Fel vid kopiering av fil
+Ошибка во время обновления тайтла,Fel vid titeluppdatering
+Ошибка выделения сокета: {},Socket-allokeringsfel: {}
+Ошибка завершения соединения: {},Fel vid avslutning av anslutning: {}
+Ошибка загрузки картинки,Fel vid laddning av bild
+Ошибка загрузки файла из альбома: {},Fel vid laddning av fil från album: {}
+Ошибка закрытия сокета: {},Fel vid stängning av socket: {}
+Ошибка записи файла: {},Filskrivningsfel: {}
+Ошибка изменения размера файла,Fel vid storleksändring av fil
+Ошибка инициализации {}: {},Initieringsfel {}: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз","DPAD och spakar - rulla, L - sida upp, R - sida ner"
+Ошибка опроса сокета: {},Socket-pollfel: {}
+Ошибка открытия каталога: {},Fel vid öppning av katalog: {}
+Ошибка открытия сокета: {},Fel vid öppning av socket: {}
+Ошибка открытия файла,Fel vid öppning av fil
+Ошибка открытия файла '{}': {},Fel vid öppning av fil '{}': {}
+Ошибка открытия файла: {},Fel vid öppning av fil: {}
+Ошибка отсылки: {},Sändningsfel: {}
+Ошибка переименования: {},Namnbytesfel: {}
+Ошибка подключения: {},Anslutningsfel: {}
+Ошибка подмены SDK: {},SDK-ersättningsfel: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз, R3 - Текст/Hex","DPAD och spakar - rulla, L - sida upp, R - sida ner, R3 - Text/Hex"
+Ошибка получения адреса узла: {},Fel vid hämtning av nodadress: {}
+Ошибка получения внеочередных данных: {},Fel vid hämtning av out-of-band-data: {}
+Ошибка получения имени сокета: {} {},Fel vid hämtning av socket-namn: {} {}
+Ошибка получения информаци о файле: {},Fel vid hämtning av filinformation: {}
+Ошибка получения размера файла: {},Fel vid hämtning av filstorlek: {}
+Ошибка получения флагов сокета: {},Fel vid hämtning av socket-flaggor: {}
+Ошибка получения хранилища {},Fel vid hämtning av lagring {}
+Ошибка получения: {},Hämtningsfel: {}
+Ошибка получения: {} {},Hämtningsfel: {} {}
+Ошибка посылки файла: {},Filsändningsfel: {}
+Ошибка привязки сокета к порту {}: {},Fel vid bindning av socket till port {}: {}
+Ошибка привязки: {},Bindningsfel: {}
+Ошибка принятия соединения: {} {},Fel vid acceptans av anslutning: {} {}
+Ошибка приёма соединения: {},Mottagningsfel på anslutning: {}
+Ошибка проверси метки сокета: {},Fel vid verifiering av socket-etikett: {}
+Ошибка прослушивания: {},Lyssningsfel: {}
+Ошибка прослушки сокета: {},Socket-lyssningsfel: {}
+Ошибка сжатия,Komprimeringsfel
+Ошибка создания каталога: {},Fel vid skapande av katalog: {}
+Ошибка создания сокета: {},Fel vid skapande av socket: {}
+Ошибка создания сохранения,Fel vid skapande av sparfil
+Ошибка удаления каталога: {},Fel vid borttagning av katalog: {}
+Ошибка удаления файла: {},Filborttagningsfel: {}
+Ошибка установки флагов сокета: {},Fel vid inställning av socket-flaggor: {}
+Ошибка чтения записи об игре: {},Fel vid läsning av spelpost: {}
+Ошибка чтения каталога: {},Katalogläsningsfel: {}
+Ошибка чтения файла: {},Filläsningsfel: {}
+Ошибок не найдено,Inga fel hittades
+Ошибочный номер DLC (Должен быть в диапазоне 0x001-0x7FF),Ogiltigt DLC-nummer (Måste vara inom 0x001-0x7FF)
+Ошибочный номер DLC (Должен быть в диапазоне 1-2047),Ogiltigt DLC-nummer (Måste vara inom 1-2047)
+"Ошибочный тикет {0}: kg {1:02X}, pm {2:02X}","Ogiltig biljett {0}: kg {1:02X}, pm {2:02X}"
+Папка LFS не найдена,LFS-mapp hittades inte
+Папка обновления очищена,Uppdateringsmapp rensad
+Параметры FTP,FTP-inställningar
+Параметры MTP,MTP-inställningar
+Параметры установки,Installationsalternativ
+Передача окончена,Överföring slutförd
+Переименование объекта,Byter namn på objekt
+Переименовать,Byt namn
+Перейти к первой странице,Gå till första sidan
+Перейти к последней странице,Gå till sista sidan
+Перейти к странице...,Gå till sida...
+Переместить,Flytta
+Переместить в NAND,Flytta till NAND
+в NAND,till NAND
+Переместить на SD карту,Flytta till SD-kort
+на SD карту,till SD-kort
+"Перемещение {} ({}, {}) в {}","Flyttar {} ({}, {}) till {}"
+Перемещение {} записей,Flyttar {} poster
+Перемещение {} записи,Flyttar {} post
+Перемещение {} игр,Flyttar {} spel
+Перемещение {} игры,Flyttar {} spel
+FTP сервер (нажмите B для остановки),FTP-server (tryck B för att stoppa)
+Перемещение контента,Flyttar innehåll
+Перенос строк,Radbrytning
+Переоткрытие ФС сохранения: {},Öppnar om spar-FS: {}
+Пишется новая запись о контенте...,Skriver ny innehållspost...
+Пишется новый cnmt.nca...,Skriver ny cnmt.nca...
+Подготовка...,Förbereder...
+Подключаемся к {}...,Ansluter till {}...
+Подключено к {}:{},Ansluten till {}:{}
+Подмена SDK,SDK-ersättning
+Подменить SDK,Ersätt SDK
+Подсчитывается размер установки...,Beräknar installationsstorlek...
+Подсчитывается размер установки...{}%,Beräknar installationsstorlek...{}%
+Подсчитываются объекты в альбоме в NAND,Räknar objekt i album i NAND
+Подсчитываются объекты в альбоме на SD карте,Räknar objekt i album på SD-kort
+Подсчёт метаданных...,Räknar metadata...
+Подсчёт основного хэша,Beräknar huvudhash
+Подсчёт хэша секции,Beräknar sektionshash
+"Пожалуйста, подключите вашу консоль к ПК кабелем USB Type-C или нажмите B",Anslut konsolen till datorn med en USB Type-C-kabel eller tryck B
+"Пожалуйста, подождите...",Vänta...
+Поиск записей об ошибках,Söker efter felloggar
+Поиск неиспользуемых тикетов,Söker efter oanvända biljetter
+Поиск подготовленного системного обновления,Söker efter förberedd systemuppdatering
+Поиск потерянных тайтлов,Söker efter förlorade titlar
+Поиск потерянных файлов в NAND,Söker efter förlorade filer i NAND
+Поиск потерянных файлов на SD,Söker efter förlorade filer på SD
+Поиск сохранений удалённых пользователей...,Söker efter borttagna användares spardata...
+Get chargeInfoFields : {},Hämta chargeInfoFields : {}
+Получен список из {} записей,Mottog lista med {} poster
+Получен список из {} записи,Mottog lista med {} poster
+Получение версий установленных игр,Hämtar installerade spelversioner
+Получение информации из hac_versionlist...,Hämtar information från hac_versionlist...
+Получение информации из системы...,Hämtar systeminformation...
+Получение информации об играх...,Hämtar spelinformation...
+Получение списка тикетов...,Hämtar biljettlista...
+Получение файла: {} МБ ({:.2f} МБ/сек),Tar emot fil: {} MB ({:.2f} MB/s)
+Получение файла: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Tar emot fil: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m MB/s)
+Полученное время: {},Mottagen tid: {}
+Полученный размер: {},Mottagen storlek: {}
+"Получено: {}, ({:.2f} МБ/сек)","Mottaget: {}, ({:.2f} MB/s)"
+Пользователь {} не найден. Создание сохранения невозможно,Användare {} hittades inte. Sparfil kan inte skapas
+Пользователь не найден,Användare hittades inte
+Попытаться разобрать,Försök tolka
+Попытка исправить,Försöker reparera
+Портрет (90°),Stående (90°)
+Португальский,Portugisiska
+"L+⬅-Начало, L+➡-Конец, ZL-Регистр, ZR-Ввод, Y-Пробел, X-Забой, R3-Язык","L+⬅-Home, L+➡-End, ZL-Skiftläge, ZR-Enter, Y-Mellanslag, X-Backsteg, R3-Språk"
+После удаления игры не будут запускаться,Spel kommer inte att starta efter borttagning
+Посылается файл: {},Skickar fil: {}
+Посылается файл: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Skickar fil: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m MB/s)
+Превышен размер командного буфера,Kommandobuffertens storlek överskriden
+LFS мод.: -,LFS-läge: -
+Предоставить по FTP,Dela via FTP
+Прекращение прослушивания на {}:{},Slutar lyssna på {}:{}
+Прервано пользователем,Avbruten av användaren
+Привязка к {}:{},Binder till {}:{}
+Принято соединение от {}:{},Accepterade anslutning från {}:{}
+Проверить целостность,Verifiera integritet
+Проверка magic...,Kontrollerar magic...
+"Проверка {} ({}, {}), {}","Verifiering {} ({}, {}), {}"
+Проверка картриджа...,Kontrollerar spelkassett...
+Проверка на наличие  {}...,Kontrollerar {}...
+Проверка обновлений,Söker efter uppdateringar
+Проверка обновлений игр,Söker efter speluppdateringar
+Проверка сохранений,Kontrollerar spardata
+Проверка целостности ({}),Integritetskontroll ({})
+Проверяется: {},Kontrollerar: {}
+"LFS мод.: Присутствует, Размер: подсчёт отключен в настройках","LFS-mod : Finns, Storlek: beräkning inaktiverad i inställningar"
+Проверяются бекапы...,Kontrollerar säkerhetskopior...
+Проверяются сохранения,Kontrollerar sparfiler
+Программа {}. Control не найдена,Program {}. Control hittades inte
+Программа {}. Exefs не найдена,Program {}. Exefs hittades inte
+Программа {}. Romfs не найдена,Program {}. Romfs hittades inte
+Произошла неизвестная ошибка,Ett okänt fel uppstod
+Произошла ошибка:,Ett fel uppstod:
+Произошла ошибка: {},Ett fel uppstod: {}
+LFS папка игры,LFS-spelmapp
+Пропускается: {}          \r,Hoppar över: {}       \r
+Прослушивание на {}:{},Lyssnar på {}:{}
+Просмотр альбома по HTTP,Visa album via HTTP
+MTP Респондер (нажмите B для остановки),MTP-responder (tryck B för att stoppa)
+Просмотреть игры,Visa spel
+Просто запуск,Bara starta
+Разбор,Tolkar
+Раздел secure не найден,Säker sektion hittades inte
+"Размер  : {}, {} файл","Storlek: {}, {} fil"
+"Размер  : {}, {} файла","Storlek: {}, {} fil"
+"Размер  : {}, {} файлов","Storlek: {}, {} filer"
+Размер посылаемого файла   : {},Storlek på fil som skickas: {}
+Размер сохранений     : {},Spardatastorlek : {}
+Размер: {},Storlek: {}
+Разрешено,Tillåten
+Распаковать в подкаталог,Extrahera till underkatalog
+Распаковать сюда,Extrahera hit
+Распаковка файла,Packar upp fil
+Растущие цветы:     {},Odlar blommor:       {}
+Nintendo Account задан и связан,Nintendo-konto inställt och länkat
+Регистрация контента {}...,Registrerar innehåll {}...
+Регистрация файла {}...,Registrerar fil {}...
+Регистры котроллера MAX17050,MAX17050-kontrollerregister
+Редактирование возрастного рейтинга...,Redigerar åldersgräns...
+Редактирование запретов,Redigera begränsningar
+Рендеринг FB2,Renderar FB2
+"Nintendo Account задан, но не связан","Nintendo-konto inställt, men inte länkat"
+Сброс требуемой версии,Återställ nödvändig version
+Сбросить требуемую версию,Återställ nödvändig version
+Сведения,Information
+Сведения...,Information...
+Свободное место в хранилище: {},Ledigt lagringsutrymme: {}
+Свободное место: {},Ledigt utrymme: {}
+Сгенерировать и установить,Generera och installera
+Nintendo Account не задан,Nintendo-konto inte inställt
+Сдампить на SD карту,Dumpa till SD-kort
+Сдампить на внешний USB,Dumpa till extern USB
+Сдампить текущую прошивку,Dumpa nuvarande firmware
+Сдамплено: {}/{} ({}%) ({:.2f} МБ/сек),Dumpat: {}/{} ({}%) ({:.2f} MB/s)
+Сделать бекап,Skapa säkerhetskopia
+"Сделать бекап, если новее",Säkerhetskopiera om nyare
+Северная Америка,Nordamerika
+Сентябрь,September
+Сепия,Sepia
+Сервер запущен,Server startad
+Сервер предлагает выполнить обновление DBI\n\nНажите (+) для согласия\nЛюбую другую кнопку для отмены,Servern erbjuder att utföra en DBI-uppdatering\n\nTryck på (+) för att bekräfta\nValfri annan knapp för att avbryta
+Сессии,Sessioner
+Сессия закрыта,Session stängd
+Сессия открыта,Session öppnad
+Синхронизация времени по NTP,NTP-tidssynkronisering
+Системные приложения,Systemprogram
+Системный по умолчанию,Systemstandard
+Сканирование директорий...,Skannar kataloger...
+Сканирование игр...,Skannar spel...
+Скачано {}/{},Nedladdat {}/{}
+Скачивание файла не удалось,Filnedladdning misslyckades
+Скорость передачи: {:.2f} МБ/сек,Överföringshastighet: {:.2f} MB/s
+Собираются сведения...,Samlar information...
+Соединение сброшено,Anslutningen återställdes
+Создание DLC анлокера,Skapar DLC-upplåsare
+Создание NSP,Skapar NSP
+Создание sdmc:/versions.txt,Skapar sdmc:/versions.txt
+Создание дампа ({}),Skapar dump ({})
+Создание дампа: {},Skapar dump: {}
+Создание единого репака,Skapar en enhetlig repack
+Создание записи об игре...,Skapar spelpost...
+Создание новой записи об игре...,Skapar ny spelpost...
+Создание плейсхолдера: {}...,Skapar platshållare: {}...
+"Создание репака Id: {:016X}, Версия: {}, Тип: {}","Skapar repack-Id: {:016X}, Version: {}, Typ: {}"
+Создание строк... {}%,Skapar strängar... {}%
+Создание таблицы имён,Skapar namntabell
+Создание тела файла,Skapar filkropp
+Создание точки доступа...,Skapar åtkomstpunkt...
+Создание хэш таблицы,Skapar hashtabell
+Создание ярлыка,Skapar genväg
+Создано новое сохранение. Восстанавливаю бекап в него...,Ny sparfil skapad. Återställer säkerhetskopia till den...
+Создать sdmc:/versions.txt,Skapa sdmc:/versions.txt
+Создать единый репак,Skapa enkel repack
+Создать новое сохранение...,Skapa ny sparfil...
+Создать новый каталог...,Skapa ny katalog...
+Создать новый файл...,Skapa ny fil...
+Создать ярлык,Skapa genväg
+Создать ярлык для hbmenu,Skapa genväg för hbmenu
+Создать ярлык на рабочий стол для DBI...,Skapa skrivbordsgenväg för DBI...
+Создать ярлык с аргументами...,Skapa genväg med argument...
+Создаётся обновлённая запись об игре...,Skapar uppdaterad spelpost...
+Сохранение для {} уже существует,Spardata för {} finns redan
+Сохранения,Spardata
+Сохранения будут удалены!,Spardata kommer att tas bort!
+Сохранения удалённых игр ({}),Sparfiler för borttagna spel ({})
+Сохранения установленных игр ({}),Sparfiler för installerade spel ({})
+Сохранёные в системе параметры котроллера батареи,Batterikontrollerparametrar sparade i systemet
+Существующая запись об игре не найдена,Befintlig spelpost hittades inte
+Существующее сохранение не найдено и новое не может быть создано,Befintlig sparfil hittades inte och en ny kan inte skapas
+SDK {} уже был экспортирован: {},SDK {} har redan exporterats: {}
+Тайтл не установлен,Titel inte installerad
+Тайтл установлен,Titel installerad
+Тайтлы с ошибками:,Titlar med fel:
+Текущее время: {},Nuvarande tid: {}
+SDK на подмену не найдены,Ingen SDK hittades att ersätta
+Тема,Tema
+Тикет исправлен,Biljett åtgärdad
+Тикеты,Biljetter
+Тикеты не найдены,Inga biljetter hittades
+864,864
+881,881
+"больше шансов, что оно заработает». Их",går vägen till slut.' Deras taktik
+быстро проникли в планы шадоков и,"grannar, som blivit sluga av internet,"
+"всякий раз, когда растение расцветает","redskapsbodar, omringade honom, och"
+"выражениях: «Чем больше неудач, тем","förluster, desto större chans att allt"
+"вычислили, что у них есть по крайней",ett på miljonen-skott där allting
+заработает… И они торопятся поскорее,de första 999 999 ödesdigra misstagen
+"и дает транзистор, они мчатся, чтобы","nu så fort han ser ett chip, så"
+"и не кончилось успехом». Или, в других",Eller med andra ord: 'Ju större
+"мере один шанс из миллиона, что она",till sist lyckas... så de rusar att begå
+миллионная заработает».,"I. I. Bullshitter, Genombrottsrytmer"
+"ничего, что бы непрерывно продолжалось",en tillfällig handpenning på äran.'
+"но окружили его со всех сторон, и",gästen krypa in i en av deras
+"опытов, чтобы быть уверенными, что", 
+осуществить 999999 первых неудачных,så att segern må följa.»
+"очень умные благодаря своим шляпам,",grannarna för att hämta delar. De
+"планету гиби искать транзисторы. Гиби,",skickades från träsken rakt till
+постоянно кончаясь неудачами.,plikttroget ger negativ tillväxt.
+принципов шадокской логики: «Нет,'Det finns ingen katastrof som inte bara är
+"ракета еще несовершенна, но они","stanna av, men de håller krampaktigt fast vid den"
+"растений, произрастающих на огородах.",sades skörda chip rakt ut ur
+решили позабавиться. Они позволили,genomskådade snabbt den sluga planen
+собрать урожай прежде шадока.,rycker de tillbaka det direkt.
+"терпят неудачу потому, что не хватает",robotar faller eftersom mikrochip är
+транзисторов в системах безопасности.,sällsynta—både i styrsystem och
+"шадоку забраться в один из их огородов,",och bestämde sig för att ha lite kul. De lät
+«У шадоков ситуация удовлетворительна.,«För orcherna går allt enligt plan:
+"Испытания ракет продолжаются,","nollställningsprocessen fortskrider,"
+Но у гиби транзисторы собирают с,toaletter. Samtidigt är grannarna
+Решено послать одного из шадоков на,deras trädgårdsmaskiner. Så en frivillig
+original,original
+"SSID: {}, Пароль: {}","SSID: {}, Lösenord: {}"
+Тип оборудования        : {},Utrustningstyp    : {}
+TempC0               : {:04x},TempC0                  : {:04x}
+Уровень заряда батареи         : {},Batteriladdningsnivå       : {}
+URL для проверки обновлений,URL för uppdateringskontroll
+Установка с картриджа,Installera från spelkassett
+Установка через DBIbackend,Installera via DBIbackend
+Форсировать UTF-8,Tvinga UTF-8
+Хэш версии              : {},Versionshash      : {}
+Читать дату файлов,Läs fildatum
+Экзосфера очищает CAL0      : {},Exosphere rensar CAL0: {}
+Экран                 : ({:08X}) {},Skärm                    : ({:08X}) {}
+Язык                    : {},Språk             : {}
+"Интервал автобекапа сейвов, дни","Intervall för auto-säkerhetskopiering, dagar"
+Конфигурация зарядки            : {},Laddningskonfiguration       : {}
+Режим Hi-Z включён              : {},Hi-Z-läge aktiverat          : {}
+Зарядка батареи включена        : {},Batteriladdning aktiverad    : {}
+Маршрут электропитания          : {},Strömförsörjningsväg         : {}
+Напряжение источника            : {} mV,Källspänning                 : {} mV
+Ток источника                   : {} mA,Källström                    : {} mA
+Быстрая зарядка разрешена       : {},Snabbladdning tillåten       : {}
+Целевая прошивка            : {}.{}.{},Målfirmware           : {}.{}.{}
+Поддерживаемая версия HOS   : {},HOS-version som stöds : {}
+Предел входного тока (буст)     : {} mA,Gräns för inström (boost)    : {} mA
+Предел тока быстрой зарядки     : {} mA,Strömgräns för snabbladdning : {} mA
+Напряжение батареи              : {} mV,Batterispänning              : {} mV
+Контроллер источника получен    : {},Källkontroller erhållen      : {}
+OTG Запрошен                    : {},OTG begärd                   : {}
+Производитель    : {:s} ({:02X}),Tillverkare        : {:s} ({:02X})
+OEM ID           : {:s} ({:s}),OEM-ID             : {:s} ({:s})
+Имя продукта     : {:s},Produktnamn        : {:s}
+Ревизия продукта : {:s},Produktrevision    : {:s}
+Серийный номер   : {:s},Serienummer        : {:s}
+Ёмкость с завода   : {} mAh,Fabrikskapacitet    : {} mAh
+Автоповтор кнопок при удержании,Autorepetition när knapp hålls inne
+Версия атмосферы            : {}.{}.{},Atmosphere-version    : {}.{}.{}
+Версия прошивки         : {}.{}.{}-{}.{},Firmware-version  : {}.{}.{}-{}.{}
+Возраст батареи                : {}%,Batteriålder               : {}%
+Время гашения экрана в секундах,Tid till skärmnedtoning i sekunder
+Выключать экран,Stäng av skärm
+Выход на рабочий стол,Avsluta till Home
+Дата первого игрового события : {},Första spelhändelsedatum      : {}
+Добавлять суффикс к имени файла,Lägg till suffix i filnamn
+Достаточное питание            : {},Tillräcklig ström            : {}
+Есть исправление RCM бага   : {},Har RCM-buggfix       : {}
+Журналирование действий,Åtgärdsloggning
+Закладки на SD,SD-bokmärken
+Запись в CAL0 разрешена     : {},CAL0-skrivning tillåten: {}
+Запускать точку доступа,Starta åtkomstpunkt
+Запустить FTP сервер,Starta FTP-server
+Запустить HTTP сервер,Starta HTTP-server
+Заряд батареи                  : {}%,Batteriladdning            : {}%
+Заряд батареи (сырое значение) : {}%,Batteriladdning (råvärde)  : {}%
+Зарядка батареи                : {},Batteriladdning            : {}
+Инструменты,Verktyg
+Использовать 5 GHz,Använd 5 GHz
+Использовать MSG_WAITALL в recv,Använd MSG_WAITALL i recv
+Использовать для неё TitleID,Använd TitleID för det
+Использовать разгон,Använd överklockning
+Использовать скрытый SSID,Använd dolt SSID
+Источник питания                : {},Strömkälla                   : {}
+Курсор на обеих панелях,Markör på båda panelerna
+%% заряд-разряд    : {},%% laddning-urladdn.: {}
+Никнейм консоли         : {},Konsolens smeknamn: {}
+Общее число игровых сессий    : {},Totalt antal spelsessioner    : {}
+Bluetooth MAC адрес   : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Bluetooth MAC-adress     : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+CDIR в листинге,CDIR i listning
+Configuration Id1     : {},Konfigurations-Id1       : {}
+DeviceId                : {0:} ({0:016X}),DeviceId          : {0:} ({0:016X})
+Папка для бекапа сохранений,Mapp för spardatasäkerhetskopior
+Папка для дампа игр,Mapp för speldumpar
+Папка журналов,Loggmapp
+DramId                  : {} ({}),DramId            : {} ({})
+Пароль,Lösenord
+Перевернуть джойконы,Vänd Joy-Cons
+Перевернуть экран,Rotera skärm
+Emummc включён              : {},Emummc aktiverat      : {}
+Переносить слова,Radbryt ord
+Платформа               : {},Plattform         : {}
+FullCap              : {:04x} ({} mAh),FullCap                 : {:04x} ({} mAh)
+Подсвечивать файлы обновлений,Markera uppdateringsfiler
+FullCapNom           : {:04x} ({} mAh),FullCapNom              : {:04x} ({} mAh)
+Показываемая версия     : {},Visad version     : {}
+Показываемое название   : {},Visningsnamn      : {}
+Показывать 'Обновить отсюда',Visa 'Uppdatera härifrån'
+Показывать объединённый NSP,Visa sammanslagen NSP
+Показывать папку 'Mods&Cheats',Visa mappen 'Mods&Cheats'
+Показывать прогрев кеша,Visa cache-uppvärmning
+Показывать размер LFS (долго),Visa LFS-storlek (långsam)
+Показывать секунды,Visa sekunder
+Показывать часы в статусе,Visa klocka i status
+Поколение ключа             : {},Nyckelgeneration      : {}
+Git commit hash             : {:016X},Git commit-hash       : {:016X}
+Полная ёмкость     : {} mAh,Full kapacitet      : {} mAh
+IavgEmpty            : {:04x},IavgEmpty               : {:04x}
+Пользовательские хранилища,Användarlagringar
+Предел входного тока            : {} mA,Gräns för inström            : {} mA
+Предназначение          : {},Syfte             : {}
+Проверять хэш при установке,Verifiera hash vid installation
+Просмотр SD карты,Bläddra på SD-kort
+Просмотр USB носителей,Bläddra på USB-enheter
+Просмотр раздела SYSTEM,Bläddra på SYSTEM-partition
+Просмотр раздела USER,Bläddra på USER-partition
+Просмотр сети,Bläddra i nätverk
+Просмотр сохранений,Visa sparfiler
+Просмотр тикетов,Visa biljetter
+Просмотр установленных игр,Visa installerade spel
+Регион                  : {},Region            : {}
+Режим HiZ зарядки       : {},HiZ-laddningsläge : {}
+Режим киоска            : {},Kioskläge         : {}
+Родительский PIN        : {},Föräldra-PIN      : {}
+Серийный # прочитанный  : {},Läst serienr      : {}
+Серийный # угаданный    : {},Gissat serienr    : {}
+Серийный номер        : {},Serienummer              : {}
+Силовая роль                    : {},Strömroll                    : {}
+QrTable00            : {:04x},QrTable00               : {:04x}
+Смещать курсор после выделения,Flytta markör efter val
+QrTable10            : {:04x},QrTable10               : {:04x}
+Сожжено предохранителей : {},Brända säkringar  : {}
+Создавать LFS папку,Skapa LFS-mapp
+QrTable20            : {:04x},QrTable20               : {:04x}
+QrTable30            : {:04x},QrTable30               : {:04x}
+RCOMP0               : {:04x},RCOMP0                  : {:04x}
+Сохранения только в RO режиме,Sparfiler endast i RO-läge
+RTC запущены (приблизительно) : {},RTC startad (ungefär)         : {}
+Текущая ёмкость                 : {}%,Nuvarande kapacitet          : {}%
+Текущая ёмкость    : {} mAh,Nuvarande kapacitet : {} mAh
+Текущее напряжение : {} mV,Nuvarande spänning  : {} mV
+Текущий заряд      : {}%,Nuvarande laddning  : {}%
+Текущий ток        : {} mA,Nuvarande ström     : {} mA
+Тема отображения,Visningstema
+Температура        : {}°C,Temperatur          : {}°C
+Температура батареи             : {}°C,Batteritemperatur            : {}°C
+Тип SoC                 : {},SoC-typ           : {}
+Тип источника питания          : {},Typ av strömkälla          : {}
+Wireless LAN MAC адрес: {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},WLAN MAC-adress          : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+Форсировано вклчение USB 3.0: {},Tvingad USB 3.0       : {}
+Возраст батареи                 : {}%,Batteriålder                 : {}%
+Предел напряжения заряда батареи: {} mV,Spänningsgräns för laddning  : {} mV
+Средняя температура: {}°C,Medeltemperatur     : {}°C
+Сумма %% заряд-разряд: {} (~{} 0-100 циклов),Summa %% laddn.-urladdn.: {} (~{} 0-100 cykler)
+"          Париж, издательство Грассе.", 
+      Название: {}\n      Издатель: {}\n      Версия: ,      Namn: {}\n      Utgivare: {}\n      Version: 
+Удаление игры ,Tar bort spel 
+Удаляется бекап ,Tar bort säkerhetskopia 
+Удалять после установки: ,Ta bort efter install.  :
+  Автоопределение,  Autodetektering
+Шифрование секции ,Sektionskryptering 
+Ярлык   : ,Genväg     : 
+ {} минут, {} minuter
+Язык    : ,Språk   : 
+Путь    : ,Sökväg  : 
+  Жак Руксель. Великолепие навыворот.,Bunkerstatens förlag «Spegellandet»
+  Кодировка...,  Kodar...
+  Применить,  Verkställ
+  Редактирование,  Redigerar
+ (по времени игры), (efter speltid)
+ (по названию игры), (efter speltitel)
+ (по числу запусков), (efter antal starter)
+     {:<10} Шифрование: {} Размер установки: {}{:>10},     {:<10} Kryptering: {} Inst.storlek: {}{:>10}
+ [НЕ МОГУ ОТКРЫТЬ ФАЙЛ], [KAN INTE ÖPPNA FIL]
+Автозапуск FTP: ,FTP-autostart: 
+Автор   : ,Författare: 
+ {:>5} часа, {:>5} timmar
+Базовое хранилище: ,Baslagring  : 
+ {:>5} часов, {:>5} timmar
+ВНИМАНИЕ ,VARNING 
+ВНИМАНИЕ! ,VARNING! 
+ {} в чёрном списке., {} på svartlistan.
+Версия  : ,Version : 
+Внимание! ,Varning! 
+ {} минута, {} minut
+ {} минуты, {} minuter
+Всего освобождено места : ,Totalt frigjort utrymme : 
+    {:>2} сек,    {:>2} sek
+ Закрытие игры, Stänger spel
+Выйти из DBI           : ,Avsluta DBI             :
+Выключить экран        : ,Stäng av skärm          :
+ Запуск игры, Starta spel
+ Логаут пользователя \x1b[36;1m{}\x1b[37;1m, Loggar ut användare \x1b[36;1m{}\x1b[37;1m
+ Логин пользователя \x1b[36;1m{}\x1b[37;1m, Användarnamn \x1b[36;1m{}\x1b[37;1m
+ Переключение на игру, Växlar till spel
+Загружено ,Laddad 
+ Режим работы изменился: {}, Driftläge ändrat: {}
+ Сброс системных часов, Återställ systemklocka
+ Сворачивание игры, Minimera spel
+Запрос на удаление ,Borttagningsbegäran 
+ Состояние электропитания изменилось: {}, Strömförsörjningsstatus ändrad: {}
+" и {} новое DLC,"," och {} nytt DLC,"
+"    Великий колдун сказал, что ракеты",Deras chefsstrateg förklarade att
+" и {} новых DLC,"," och {} nya DLC,"
+Имя     : ,Namn    : 
+ сортировка по дате создания, sortera efter skapelsedatum
+ сортировка по имени, sortera efter namn
+ сортировка по имени игры, sortera efter spelnamn
+Используется ,Använt 
+ сортировка по месту установки, sortera efter installationsplats
+Конвертация в фейковые ,Konverterar till fejk 
+ сортировка по общему размеру, sortera efter total storlek
+ сортировка по пользователю, sortera efter användare
+ сортировка по порядку игры, sortera efter spelordning
+Место установки        : ,Installationsplats      :
+ сортировка по размеру, sortera efter storlek
+Название: ,Namn: 
+    Дело здесь в одном из основных,Hemligheten ligger i deras djupa logik:
+Начало установки. Место установки: ,Installation startad. Installationsplats: 
+Невозможно создать выходной zip-файл: ,Kunde inte skapa utdata-zipfil: 
+Неиспользуемый тикет: ,Oanvänd biljett: 
+   {:>3} мин,   {:>3} min
+Общий размер передачи  : ,Total överföringsstorlek:
+Общий размер установки : ,Total inst.storlek      :
+Ожидается ,Förväntad 
+Ожидание включения интерфейса: ,Väntar på att gränssnitt ska starta: 
+Освобождено места в NAND: ,NAND-utrymme frigjort: 
+Освобождено места на SD : ,SD-utrymme frigjort : 
+   Получение списка бекапов...   ,   Hämtar lista med säkerhetskopior...   
+DPAD/Стики - Навигация по страницам\n\n     ZR+ZL - Переход к странице... \n\n       L/R - Навигация по главам   \n\n       (-) - Эта подсказка         \n\n       (+) - Меню                  ,DPAD/Spakar - Sidnavigering\n\n     ZR+ZL - Hoppa till sida... \n\n       L/R - Kapitelnavigering  \n\n       (-) - Detta tips          \n\n       (+) - Meny                  
+Ошибка чтения регистров max17050: ,Fel vid läsning av max17050-register: 
+Ошибка чтения сохранённых параметров контроллера: ,Fel vid läsning av sparade kontrollerparametrar: 
+   Получение списка бекапов...{}/{}    ,   Hämtar lista med säkerhetskopior...{}/{}    
+Предупреждения: ,Varningar: 
+"LFS мод.: Присутствует, Размер: ","LFS-mod.: Finns, Storlek: "
+Пропускаем файл до начала secure раздела ,Hoppar över fil till början av säker sektion 
+Размер  : ,Storlek: 
+Сброс требуемой версии к ,Återställ nödvändig version till 
+   Получение списка сохранений...   ,   Hämtar sparfilslista...   
+Скорость USB интерфейса: ,USB-gränssnittshastighet: 
+Создан zip-файл: ,Skapade zip-fil: 
+Создание бекапа сохранения ,Skapar säkerhetskopia av sparfil 
+Создание каталога: ,Skapar katalog: 
+Создание объекта: ,Skapar objekt: 
+Создание фейковой записи... ,Skapar fejkpost... 
+Создаётся MTP хранилище: ,Skapar MTP-lagring: 
+Статистика игры ,Spelstatistik 
+Строка поиска: ,Söksträng: 
+Не проверять место     : ,Kontrollera ej utrymme  :
+Проверять хеш-сумму NCA: ,Verifiera NCA-hash      :
+Патчить имена (HOS 21+): ,Patcha namn (HOS 21+)   :
+Занулять мастерключ    : ,Återställ huvudnyckel   :
+Патчить запись видео   : ,Patcha videoinspelning  :
+Патчить скриншоты      : ,Patcha skärmdumpar      :
+Игра использует SDK {},Spelet använder SDK {}
+Удалить старые обновления игр,Ta bort gamla speluppdateringar
+Удалить потерянный контент с SD,Ta bort övergivet innehåll från SD
+Удалить потерянный контент из NAND,Ta bort övergivet innehåll från NAND
+Удалить плейсхолдеры с SD,Ta bort platshållare från SD
+Удалить плейсхолдеры из NAND,Ta bort platshållare från NAND
+Удалить неиспользуемые тикеты,Ta bort oanvända biljetter
+Починить тикеты с ошибками дампа,Reparera biljetter med dumpfel
+Удалить скачанное обновление системы,Ta bort nedladdad systemuppdatering
+Очистить папку erpt_reports,Rensa mappen erpt_reports
+Очистить кеш тикетов,Rensa biljettcache
+Очистить /atmosphere/contents,Rensa /atmosphere/contents
+Удалить сохранения удалённых пользователей,Ta bort sparfiler för borttagna användare
+Дата производства: {:s},Tillverkningsdatum : {:s}
+Ник: {},Smeknamn: {}
+Установить обновления из текущей папки,Installera uppdateringar från nuvarande mapp
+Патчить требование NNID: ,Patcha NNID-krav        :
+Выполнить выбранные действия,Utför valda åtgärder
+CID: {:s},CID                : {:s}
+TitleId : {} BID: {},TitleId : {} BID: {}
+"Meta SDK: {},  Program SDK: {}","Meta SDK: {},  Program SDK: {}"
+"Внимание!!! Включение следующих опций приведет к тому,",Varning!!! Aktivering av följande alternativ leder till
+что установленные NCA файлы будут отличаться от исходных:,att installerade NCA-filer skiljer sig från originalen:
+Включение синхронизации времени по сети...,Aktiverar nätverkstidssynkronisering…
+ Да ,Ja 
+Нет , Nej 
+Это действие будет нельзя отменить,Denna åtgärd kan inte ångras
+Да,Ja
+Произошла ошибка: ,Ett fel uppstod: 
+В файле /switch/prod.keys отсутствуют необходимые ключи.,Filen /switch/prod.keys saknar nödvändiga nycklar.
+Часть функций программы будет недоступна.,Vissa programfunktioner kommer inte att vara tillgängliga.
+Перегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад,Starta om till Hekate och använd payloaden Lockpick_RCM.bin
+для дампа ключей из SysNAND.,för att dumpa nycklar från SysNAND.
+Проверять хэш при установке    : ,Verifiera hash vid install.: 
+Просмотр раздела USER          : ,Bläddra på USER-partition      : 
+Тема отображения               : ,Visningstema                 : 
+Температура    : {}$°$C,Temperatur          : {}°C
+Температура     : {}$°$C,Temperatur          : {}°C
+Температура      : {}$°$C,Temperatur          : {}°C
+Температура       : {}$°$C,Temperatur          : {}°C
+Температура        : {}$°$C,Temperatur          : {}°C
+Температура         : {}$°$C,Temperatur          : {}°C
+Температура          : {}$°$C,Temperatur          : {}°C
+Температура           : {}$°$C,Temperatur          : {}°C
+Температура            : {}$°$C,Temperatur          : {}°C
+Температура             : {}$°$C,Temperatur          : {}°C
+Температура              : {}$°$C,Temperatur          : {}°C
+Срепняя температура: {}$°$C,Medeltemperatur     : {}°C
+Средняя температура: {}$°$C,Medeltemperatur     : {}°C
+Температура батареи        : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи         : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи          : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи           : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи            : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи             : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи              : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи               : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи                : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи                 : {}$°$C,Batteritemperatur            : {}°C
+Температура батареи                  : {}$°$C,Batteritemperatur            : {}°C
+Температура    : {}°C,Temperatur          : {}°C
+Температура     : {}°C,Temperatur          : {}°C
+Температура      : {}°C,Temperatur          : {}°C
+Температура       : {}°C,Temperatur          : {}°C
+Температура         : {}°C,Temperatur          : {}°C
+Температура          : {}°C,Temperatur          : {}°C
+Температура           : {}°C,Temperatur          : {}°C
+Температура            : {}°C,Temperatur          : {}°C
+Температура             : {}°C,Temperatur          : {}°C
+Температура              : {}°C,Temperatur          : {}°C
+Температура батареи        : {}°C,Batteritemperatur            : {}°C
+Температура батареи         : {}°C,Batteritemperatur            : {}°C
+Температура батареи          : {}°C,Batteritemperatur            : {}°C
+Температура батареи           : {}°C,Batteritemperatur            : {}°C
+Температура батареи            : {}°C,Batteritemperatur            : {}°C
+Температура батареи              : {}°C,Batteritemperatur            : {}°C
+Температура батареи               : {}°C,Batteritemperatur            : {}°C
+Температура батареи                : {}°C,Batteritemperatur            : {}°C
+Температура батареи                 : {}°C,Batteritemperatur            : {}°C
+Температура батареи                  : {}°C,Batteritemperatur            : {}°C
+Срепняя температура: {}°C,Medeltemperatur     : {}°C
+ Новый DLC , Nytt DLC 
+Записано: ,Skrivet: 
+Игра использует мастер-ключ ,Spelet använder huvudnyckel 
+Android extensions: ,Android-tillägg: 
+ в чёрном списке., på svartlistan.
+МБ/сек),MB/s)
+[32;1mУстановка игры завершена\x1b[37;1m,\x1b[32;1mSpelinstallation slutförd\x1b[37;1m
+[32;1mТикет исправлен\x1b[37;1m,\x1b[32;1mBiljett åtgärdad\x1b[37;1m
+[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,[32;1m[ÖVERFÖRING OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m
+\x1b[31;1m[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,\x1b[31;1m[ÖVERFÖRING AVBRUTEN]\x1b[37;1m
+[ПОДПИСЬ: Поддельная]\x1b[37;1m,[SIGNATUR: Falsk]\x1b[37;1m
+[ПОДПИСЬ: OK]\x1b[37;1m,[SIGNATUR: OK]\x1b[37;1m
+[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK],[ÖVERFÖRING OK] [SIGNATUR: OK]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная],[ÖVERFÖRING OK] [SIGNATUR: Falsk]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP],[ÖVERFÖRING OK] [SIGNATUR: XCI➡NSP]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI],[ÖVERFÖRING OK] [SIGNATUR: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK],[ÖVERFÖRING OK][SIGNATUR: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная],[ÖVERFÖRING OK][SIGNATUR: Falsk]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP],[ÖVERFÖRING OK][SIGNATUR: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI],[ÖVERFÖRING OK][SIGNATUR: DBI]
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK] \x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK] \x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK] \x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK] \x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m \x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m \x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m \x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m \x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m\x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m\x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m\x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m\x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПОДПИСЬ: DBI]\x1b[37;1m,[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m  \x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]  \x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m \x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m  \x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m\x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK] \x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK]  \x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[32;1m[SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m [SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m  [SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m[SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK] [SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]  [SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK][SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m [SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m  [SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m[SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK] [SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK]  [SIGNATUR: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK],[ÖVERFÖRING OK]  [SIGNATUR: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,[ÖVERFÖRING OK][SIGNATUR: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m  \x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]  \x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m \x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m  \x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m\x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK] \x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK]  \x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[38;2;255;128;0m[SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m [SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m  [SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m[SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK] [SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]  [SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK][SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m [SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m  [SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m[SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK] [SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK]  [SIGNATUR: Falsk]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная],[ÖVERFÖRING OK]  [SIGNATUR: Falsk]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,[ÖVERFÖRING OK][SIGNATUR: Falsk]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m  \x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]  \x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m \x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m  \x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m\x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK] \x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK]  \x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[32;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m [SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m  [SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK] [SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]  [SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK][SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m [SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m  [SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m[SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK] [SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK]  [SIGNATUR: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP],[ÖVERFÖRING OK]  [SIGNATUR: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[ÖVERFÖRING OK][SIGNATUR: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m \x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m  \x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m\x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK] \x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]  \x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m \x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m  \x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m\x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK] \x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]  \x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m  \x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]  \x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m \x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m  \x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m\x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK] \x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]  \x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[32;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m [SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m  [SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]\x1b[37;1m[SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK] [SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK]  [SIGNATUR: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[ÖVERFÖRING OK][SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m [SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m  [SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m[SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK] [SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK]  [SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI],[ÖVERFÖRING OK]  [SIGNATUR: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,[ÖVERFÖRING OK][SIGNATUR: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m,[ÖVERFÖRING OK]\x1b[37;1m
+[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,[ÖVERFÖRING AVBRUTEN]\x1b[37;1m
+\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[33;1m[SIGNATUR: DBI]\x1b[37;1m
+"\x1b[1m{} R: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} L: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1msnitt {:>4.1f} (nu {:>5.2f})\x1b[37;1m MB/s, \x1b[35;1m{:02d}:{:02d} \x1b[37;1msek\x1b[1m"
+"\x1b[22m{} R: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m МБ,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m\x1b[22m МБ/сек, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22mсек\x1b[1m","\x1b[22m{} L: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m MB,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22msnitt {:>4.1f} (nu {:>5.2f})\x1b[37;1m\x1b[22m MB/s, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22msek\x1b[1m"
+"\x1b[1m{} W: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} S: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1msnitt {:>4.1f} (nu {:>5.2f})\x1b[37;1m MB/s, \x1b[35;1m{:02d}:{:02d} \x1b[37;1msek\x1b[1m"
+Тема...,Tema...
+"2ая панель, (+) меню, L3 имя","2:a panel, (+) Meny, L3 Namn"
+Общее время игры      : {},Total speltid   : {}
+Общее время игры      : {} ({}),Total speltid   : {} ({})
+Адресное пространство,Adressrymd
+Поиск старых плейсхолдеров на SD,Söker efter gamla platshållare på SD
+Поиск старых плейсхолдеров в NAND,Söker efter gamla platshållare i NAND
+\x1b[31;1mТайтл не установлен\x1b[37;1m,\x1b[31;1mTitel inte installerad\x1b[37;1m
+\x1b[31;1mТайтл не установлен,\x1b[31;1mTitel inte installerad
+Общее время игры      : - ({}),Total speltid   : - ({})
+              Общее время игры      : -,              Total speltid   : -
+              Начало игры           : -,              Spelstart       : -
+              Конец игры            : -,              Spelslut        : -
+[ОШИБКА]\x1b[37;1m,[FEL]\x1b[37;1m
+\x1b[31;1m[ОШИБКА]\x1b[37;1m,\x1b[31;1m[FEL]\x1b[37;1m
+\x1b[31;1m[ОШИБКА],\x1b[31;1m[FEL]
+Настроки создания ярлыков,Forwarder-inställningar
+Использовать 4 ядра CPU,Använd alla 4 CPU-kärnor
+Захват видео,Videoinspelning
+Скриншоты,Skärmdumpar
+Запуск игры,Starta spel
+Закрытие игры,Stänger spel
+Сворачивание игры,Minimera spel
+Переключение на игру,Växlar till spel
+Добавить в исключения SaltyNX,Lägg till i SaltyNX-undantag
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню, L3 имя","X välj, Y invertera val, A öppna, (-) 2:a panel, (+) meny, L3 Namn"
+\x1b[32;1mТайтл установлен\x1b[37;1m,\x1b[32;1mTitel installerad\x1b[37;1m
+\x1b[32;1mТайтл установлен,\x1b[32;1mTitel installerad
+Патчить версию в meta  : ,Patcha version i meta   :

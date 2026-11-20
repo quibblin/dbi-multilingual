@@ -1,0 +1,1467 @@
+original,translation
+"X - выбор, Y - инверсия выбора, (+) - меню","X - Piliin, Y - Baligtarin ang napili, (+) - Menu"
+"X - выбор, Y - инверсия выбора, (+) - меню, L3 - запуск","X - Piliin, Y - Baligtarin ang napili, (+) - Menu, L3 - Ilunsad"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка","X - Piliin, Y - Baligtarin ang napili, (+) - Menu, R3 - Ayusin"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка, L3 - запуск","X - Piliin, Y - Baligtarin ang napili, (+) - Menu, R3 - Ayusin, L3 - Ilunsad"
+"X - выбор, Y - инвертирование выбора, A - открыть, (-) - 2ая панель","X - Piliin, Y - Baligtarin ang napili, A - Buksan, (-) - Ika-2 panel"
+"X - выбор, Y - инвертирование выбора, ⬅/➡ - смена панели, (-) - закрыть","X - Piliin, Y - Baligtarin ang napili, ⬅/➡ - Palitan ang panel, (-) - Isara"
+"ZL/ZR - смена даты, Y - период, X - сортировка, (+) - выбрать пользователя","ZL/ZR - Palitan ang petsa, Y - Panahon, X - Ayusin, (+) - Piliin ang user"
+. Время игры \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,. Oras ng paglalaro \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+Невозможно смонтировать системный раздел,Hindi ma-mount ang system partition
+"DPAD или стики для перемещения, (+) - Настройки","DPAD o sticks para gumalaw, (+) - Mga Setting"
+Ошибка создания файла: {},Error sa paggawa ng file: {}
+Подключение к серверу...,Kumokonekta sa server...
+   Это действие будет нельзя отменить   ,   Hindi na mababawi ang aksyong ito   
+SDK подменён,Napalitan ang SDK
+Точка доступа,Access point
+Традиционный китайский,Tradisyonal na Tsino
+Транзисторов:      {:>3},Mga Transistor:   {:>3}
+Требуется вручную разрешить синхронизацию времени через Интернет в настройках,Kailangang mano-manong i-enable ang time sync sa Internet sa mga setting
+Тёмная комната,Madilim na silid
+Убрать из любимых,Alisin sa mga paborito
+Увеличить размер (в МБ),Dagdagan ang laki (sa MB)
+"Уверены, что хотите продолжить?",Sigurado ka bang gusto mong magpatuloy?
+Удаление Wi-Fi профиля,Binubura ang Wi-Fi profile
+Удаление Wi-Fi профиля...,Binubura ang Wi-Fi profile...
+Удаление {} бекапа,Binubura ang {} backup
+Удаление {} бекапов,Binubura ang {} backup
+Удаление {} сохранений,Binubura ang {} save
+Удаление {} сохранения,Binubura ang {} save
+Удаление бекапов,Binubura ang mga backup
+Удаление записи об игре...,Binubura ang rekord ng laro...
+Удаление игр,Binubura ang mga laro
+Удаление игры целиком: [{}],Burahin ang buong laro: [{}]
+Удаление каталога LFS,Binubura ang LFS directory
+Удаление контента,Binubura ang nilalaman
+Удаление настроек родительского контроля...,Binubura ang mga setting ng parental control...
+Удаление не удалось.\n\nНажмите любую кнопку для продолжения,Nabigo ang pagbura.\n\nPindutin ang kahit anong button para magpatuloy
+Удаление неиспользуемого {}...,Binubura ang hindi nagamit na {}...
+Удаление плейсхолдера...,Binubura ang placeholder...
+Удаление пользователя,Binubura ang user
+Удаление пользователя...,Binubura ang user...
+Удаление ранее установленных файлов...,Binubura ang mga naunang naka-install na file...
+Удаление родительского контроля,Binubura ang parental control
+SaveFS очищена,Nalinis ang SaveFS
+Удаление связи с Nintendo account...,Binubura ang link ng Nintendo Account...
+Удаление сохранений,Binubura ang mga save
+Удаление сохранения целиком,Binubura ang buong save
+Удаление старого     {}...,Binubura ang lumang     {}...
+Удаление старого файла {}...,Binubura ang lumang file {}...
+Удаление старой записи об игре...,Binubura ang lumang rekord ng laro...
+Удаление старой папки {}...,Binubura ang lumang folder {}...
+Удаление тайтла: [{}],Binubura ang title: [{}]
+Удаление тикетов ({}),Binubura ang mga ticket ({})
+Удаление...,Binubura...
+Удалить,Burahin
+Удалить LFS,Burahin ang LFS
+Удалить сохранения,Burahin ang mga save
+Удалить старые бекапы,Burahin ang mga lumang backup
+Удаляется {} из {}...,Binubura ang {} sa {}...
+Удаляется {}...,Binubura ang {}...
+Удаляется запись о контенте...,Binubura ang rekord ng nilalaman...
+Удаляется запись об игре...,Binubura ang rekord ng laro...
+Удаляется игра и весь связанный контент,Binubura ang laro at lahat ng kaugnay na nilalaman
+Titlekey не может быть инициализирован,Hindi ma-initialize ang titlekey
+Удаляется папка LFS...,Binubura ang LFS folder...
+Удаляется пустая папка,Binubura ang walang lamang folder
+Удаляется сохранение {}...,Binubura ang save {}...
+Удаляется старая запись о контенте...,Binubura ang lumang rekord ng nilalaman...
+Удаляется старый cnmt.nca...,Binubura ang lumang cnmt.nca...
+Удаляется тикет: {}...,Binubura ang ticket: {}...
+Удаляются все объекты из альбома для игры,Binubura ang lahat ng item mula sa album ng laro
+Удаляются все сохранения для игры,Binubura ang lahat ng save para sa laro
+Удаляются сохранения...,Binubura ang save data...
+"UID: {}, Ник: {}","UID: {}, Palayaw: {}"
+Удалённые,Nabura na
+Удачный экспорт,Matagumpay ang pag-export
+Уделение старого тикета...,Binubura ang lumang ticket...
+Упаковка каталога в RomFS,Pinapack ang directory sa RomFS
+Упрощенный китайский,Pinasimpleng Tsino
+Успешно разобран как PFS0 файл,Matagumpay na na-parse bilang PFS0 file
+Устанавливается {},Ini-install ang {}
+Установить как аватар...,Itakda bilang avatar...
+Установка,Pag-install
+Установка анлокера...,Ini-install ang unlocker...
+Установка завершена,Tapos na ang pag-install
+Установка игр (NAND),I-install ang mga laro (NAND)
+Установка игр (SD Card),I-install ang mga laro (SD Card)
+Установка игры завершена,Tapos na ang pag-install ng laro
+Установка обновлений игр,I-install ang mga update ng laro
+Установка прервана,Naputol ang pag-install
+Установка тайтлов ({}/{}),Ini-install ang mga title ({}/{})
+USB Соединение,Koneksyon sa USB
+Установка ярлыка...,Ini-install ang shortcut...
+Установлен,Naka-install
+Установленные,Naka-install
+Установленные homebrew,Naka-install na homebrew
+Установленные homebrew ({}),Naka-install na homebrew ({})
+Установленные игры,Mga naka-install na laro
+Установленные тикеты,Mga naka-install na ticket
+Установленные тикеты ({}),Mga naka-install na ticket ({})
+Файл повреждён и не может быть установлен. Не найдена сигнатура HEAD,Sira ang file at hindi mai-install. Hindi makita ang HEAD signature
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе root,Sira ang file at hindi mai-install. Hindi makita ang HFS0 signature sa root partition
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе secure,Sira ang file at hindi mai-install. Hindi makita ang HFS0 signature sa secure partition
+Файл повреждён и не может быть установлен. Не найдена сигнатура PFS0,Sira ang file at hindi mai-install. Hindi makita ang PFS0 signature
+Файл слишком большой для хранилища,Masyadong malaki ang file para sa storage
+Файл: {},File: {}
+Фиксация ФС...,FS commit...
+Финальный размер: {},Huling laki: {}
+Формирование списка...,Gumagawa ng listahan...
+Форсированный язык    : {},Sapilitang wika : {}
+Форсированный язык    : {} ({}),Sapilitang wika : {} ({})
+Форсировать язык,Sapilitang wika
+Французский,Pranses
+"Х:{}, Т:{}, РЦ:{}","H:{}, T:{}, R:{}"
+Хранилища MTP,Storage ng MTP
+Хранилище только для чтения,Read-only na storage
+Целевая запись о контенте не найдена,Hindi makita ang target na rekord ng nilalaman
+ЧАСТЬ КОНТЕНТА ОТСУТСТВУЕТ. ИГРА НЕ БУДЕТ РАБОТАТЬ,KULANG ANG BAHAGI NG NILALAMAN. HINDI GAGANA ANG LARO
+Число транзисторов: {:>3},Bilang ng transistors: {:>3}
+Число уникальных сыграных игр : {},Bilang ng natatanging larong nalaro : {}
+Число ходов:        {:>3},Bilang ng galaw:       {:>3}
+Чтение каталога...,Binabasa ang directory...
+Чтение списка файлов...,Binabasa ang listahan ng file...
+Что-то плохое грядёт,May masamang paparating
+Что-то пошло не так. Пропускаем оставшийся файл,May nagkamali. Nilalaktawan ang natitirang file
+"Чтобы вернуться, нажмите B",Pindutin ang B para bumalik
+Шадок у Гиби,Mga Taga-Latian sa Kapitbahay
+Экспорт SDK,Pag-export ng SDK
+Экспортировать,I-export
+Экспортировать SDK,I-export ang SDK
+Январь,Enero
+Японский,Hapon
+Ярлык для DBI,Shortcut para sa DBI
+да,oo
+не является LFS папкой,ay hindi isang LFS folder
+не является LFS папкой игры,ay hindi isang LFS folder ng laro
+нет,hindi
+"ZL/ZR - смена даты, Y - период","ZL/ZR - palitan ang petsa, Y - panahon"
+"Получено: {}, (скорость не определена)","Natanggap: {}, (hindi tukoy ang bilis)"
+Игры добавлены в список исключений,Naidagdag ang mga laro sa listahan ng pagbubukod
+Новых игр в список исключений добавлено не было,Walang bagong larong naidagdag sa listahan ng pagbubukod
+Просмотр МТР устройства [{}],Tinitingnan ang MTP device [{}]
+Просмотр USB диска [{}],Tinitingnan ang USB drive [{}]
+Заряд батареи (сырое значение) : {},Karga ng baterya (raw value) : {}
+ru,tl
+[CRC ОШИБКА ФАЙЛА],[ERROR SA FILE CRC]
+Будет скачана и установлена прошивка системы из файла {}.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены,Ida-download at ii-install ang system firmware mula sa file {}.\n\nPindutin ang (+) para magpatuloy\nIbang button para kanselahin
+Распаковка архива не удалась,Nabigo ang pag-extract ng archive
+Сканирование архива не удалось,Nabigo ang pag-scan ng archive
+Установить все обновления из этой папки,I-install lahat ng update mula sa folder na ito
+Япония,Japan
+Русский,Ruso
+Февраль,Pebrero
+Октябрь,Oktubre
+[HASH MISMATCH: GC ➡ eShop],[HINDI TUGMA ANG HASH: GC ➡ eShop]
+Ноябрь,Nobyembre
+Игрок,Manlalaro
+Время,Oras
+Контент,Nilalaman
+[HASH: OK],[HASH: OK]
+Красная,Pula
+[HASH MISMATCH: Неисправимо],[HINDI TUGMA ANG HASH: Hindi Mababawi]
+[ПРЕД],[NAKA-PRV]
+Альбом,Album
+Выход,Lumabas
+и т.д...,atbp...
+{} бекап,{} backup
+874,874
+Пишется тело: {}/{}MB \r,Sinusulat ang body: {}/{}MB \r
+Пишется скриншот\n,Sinusulat ang screenshot\n
+Пишется таблица хешей\n,Sinusulat ang hash table\n
+Пишется подпись видео\n,Sinusulat ang video signature\n
+Операция завершена\n,Tapos na ang operasyon\n
+"Будет скачана и установлена прошивка системы из файла {}.\n\nВНИМАНИЕ!!! Похоже, эта версия не поддерживается текущей атмосферой.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены",Ida-download at ii-install ang system firmware mula sa file {}.\n\nBABALA!!! Mukhang hindi suportado ang bersyong ito ng kasalukuyang Atmosphere.\n\nPindutin ang (+) para magpatuloy\nIbang button para kanselahin
+Копирование файла не удалось,Nabigo ang pagkopya ng file
+Daybreak.nro не найден,Hindi makita ang Daybreak.nro
+Изображение добавлено в альбом,Naidagdag ang larawan sa album
+Ошибка добавления изобржения в альбом: {},Error sa pagdagdag ng larawan sa album: {}
+Добавить в альбом,Idagdag sa album
+Анализ mp4 файла,Sinusuri ang mp4 file
+Длительность: {},Tagal: {}
+ОШИБКА! Файл не содержит один видео трек,ERROR! Walang iisang video track ang file
+ОШИБКА! Файл не содержит один аудио трек,ERROR! Walang iisang audio track ang file
+ОШИБКА! У видео трека неподдерживаемый кодек,ERROR! Hindi suportado ang codec ng video track
+ОШИБКА! У аудио трека неподдерживаемый кодек,ERROR! Hindi suportado ang codec ng audio track
+ОШИБКА! Аудио трек не стерео,ERROR! Hindi stereo ang audio track
+[{}] Общий тикет для {},[{}] Common ticket para sa {}
+ОШИБКА! У аудио трека неподходящая частота дискретизации,ERROR! Hindi angkop ang sampling rate ng audio track
+ОШИБКА! У видео трека неподходящая ширина,ERROR! Hindi angkop ang lapad ng video track
+ОШИБКА! У видео трека неподходящая высота,ERROR! Hindi angkop ang taas ng video track
+ВНИМАНИЕ! Возможно видео поток содержит B-Frames. Файл может не воспроизводиться,BABALA! Maaaring may B-Frames ang video stream. Baka hindi tumugtog ang file
+"Похоже, это не MP4 файл",Mukhang hindi ito isang MP4 file
+Открыть как RomFS,Buksan bilang RomFS
+\x1b[31;1mГ\x1b[37;1m,\x1b[31;1mГ\x1b[37;1m
+\x1b[32;1mШ\x1b[37;1m,\x1b[32;1mШ\x1b[37;1m
+Ваша SD карта является подделкой. Рекомендуется заменить SD карту на проверенную.,Peke ang iyong SD card. Inirerekomendang palitan ang SD card ng napatunayang totoo.
+[{}] Персональный тикет для {},[{}] Personal ticket para sa {}
+Кажется ваша SD карта является подделкой.\n\nВозможны проблемы с установкой игр.\nВ этом случае рекомендуется заменить SD карту на проверенную.,"Mukhang peke ang iyong SD card.\n\nMaaaring magkaroon ng problema sa pag-install ng laro.\nSa ganitong kaso, palitan ang SD card ng napatunayang totoo."
+Информация о SD карте,Impormasyon ng SD card
+[ПОДПИСЬ: DBI],[PIRMA: DBI]
+.    Время игры    \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,.   Oras ng laro  \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+"ZL/ZR смена даты, Y период, X сортировка, (+) выбрать пользователя","ZL/ZR palitan petsa, Y panahon, X ayusin, (+) piliin user"
+[{}МБ] {}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,[{}MB] {}MB sa {}MB ({:.2f} MB/sec)\x1b[0K\r
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка, L3 запуск","X piliin, Y baligtarin napili, (+) menu, R3 ayusin, L3 ilunsad"
+Создать все известные ({}),Gumawa ng lahat ng alam ({})
+"X выбор, Y обратить выбор, (+) меню, L3 запуск","X piliin, Y baligtarin napili, (+) menu, L3 ilunsad"
+"DPAD или стики для перемещения, (+) Настройки","DPAD o sticks para gumalaw, (+) Mga Setting"
+Просмотр HTTP/FTP/Github сервера...,Binabrowse ang HTTP/FTP/Github server...
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка","X piliin, Y baligtarin napili, (+) menu, R3 ayusin"
+"X выбор, Y обр. выбор, (+) меню","X piliin, Y baligtarin napili, (+) menu"
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню","X piliin, Y baligtarin napili, A buksan, (-) ika-2 panel, (+) menu"
+"X выбор, Y обр. выбор, ⬅/➡ смена панели, (-) закрыть, (+) меню","X piliin, Y alisin pili, ⬅/➡ palitan panel, (-) isara, (+) menu"
+[ДЕЛЬТА ФРАГМЕНТ НЕ НУЖЕН],[HINDI KAILANGAN ANG DELTA FRAGMENT]
+[КОНТЕНТ ОТСУТСТВУЕТ],[KULANG ANG NILALAMAN]
+[НЕ СОЗДАТЬ ПЛЕЙСХОЛДЕР],[HUWAG GUMAWA NG PLACEHOLDER]
+[НЕДОСТАТОЧНО МЕСТА],[KULANG SA ESPASYO]
+[НЕИЗВЕСТНОЕ СЖАТИЕ],[HINDI KILALANG COMPRESSION]
+[ОТСУТСТВУЕТ],[KULANG]
+[ОШБК],[ERROR]
+[ОШИБКА NCA MAGIC],[ERROR SA NCA MAGIC]
+[ОШИБКА ЗАПИСИ В ПЛЕЙСХОЛДЕР],[ERROR SA PAGSULAT NG PLACEHOLDER]
+[ОШИБКА РАСПАКОВКИ ZSTD: {}],[ERROR SA ZSTD DECOMPRESSION: {}]
+[ОШИБКА РАСПАКОВКИ],[ERROR SA PAG-EXTRACT]
+[ОШИБКА],[ERROR]
+[ОШИБКА] Отсутствует URL списка обновлений,[ERROR] Nawawala ang URL ng listahan ng update
+[ПЕРЕДАЧА OK],[OK ANG PAGLIPAT]
+[ПЕРЕДАЧА ПРЕРВАНА],[NAPUTOL ANG PAGLIPAT]
+[ПОВРЕЖДЁННЫЙ NCA],[SIRANG NCA]
+[ПОДПИСЬ: OK],[PIRMA: OK]
+[ПОДПИСЬ: XCI➡NSP],[PIRMA: XCI➡NSP]
+[ПОДПИСЬ: Поддельная],[PIRMA: Peke]
+[СТАРАЯ ПРОШИВКА],[LUMANG FIRMWARE]
+[ТРЕБУЕТСЯ РЕЖИМ ТАЙТЛА],[KAILANGAN NG TITLE MODE]
+[ФАЙЛ ПОВРЕЖДЁН],[SIRA ANG FILE]
+[ХЕШ ИСПРАВЛЕН],[NAAYOS ANG HASH]
+[ХЕШ НЕ СОВПАДАЕТ],[HINDI TUGMA ANG HASH]
+\nНачало обработки dlc {}: {:016X},\nSinisimulan ang pagproseso ng DLC {}: {:016X}
+\nНачало обработки программы {},\nSinimulan ang pagproseso ng application {}
+\nНачало создания Data.nca,\nSinisimulan ang paggawa ng Data.nca
+\nНачало создания Meta.nca,\nSinisimulan ang paggawa ng Meta.nca
+\nОшибка USB обмена,\nError sa paglipat gamit ang USB
+\nСборка PFS0,\nBinubuo ang PFS0
+\nСборка RomFS,\nBinubuo ang RomFS
+\nСекция 0,\nSeksyon 0
+\nСекция 1,\nSeksyon 1
+\nСекция 2,\nSeksyon 2
+\nСоздан NSP: {},\nNagawa ang NSP: {}
+\nШифрование NCA,\nPag-encrypt ng NCA
+{:04d} {} {:02d}. Всего: {} час,{:04d} {} {:02d}. Kabuuan: {} oras
+{:04d} {} {:02d}. Всего: {} часа,{:04d} {} {:02d}. Kabuuan: {} oras
+{:04d} {} {:02d}. Всего: {} часов,{:04d} {} {:02d}. Kabuuan: {} oras
+{:4d} {}. Всего: {} час,{:4d} {}. Kabuuan: {} oras
+{:4d} {}. Всего: {} часа,{:4d} {}. Kabuuan: {} oras
+{:4d} {}. Всего: {} часов,{:4d} {}. Kabuuan: {} oras
+{:4d}. Всего: {} час,{:4d}. Kabuuan: {} oras
+{:4d}. Всего: {} часа,{:4d}. Kabuuan: {} oras
+{:4d}. Всего: {} часов,{:4d}. Kabuuan: {} oras
+{:>3} {}{:<50}\x1b[37;1m {:>10},{:>3} {}{:<50}\x1b[37;1m {:>10}
+{:>6} объектов обработано. {:>5} записей найдено...\r,{:>6} bagay naproseso. {:>5} entry nahanap...\r
+{:>6}/{}kB уже скачано...\r,{:>6}/{}kB na-download na...\r
+{} cохранение,{} save
+{} cохранений,{} nai-save
+{} cохранения,{} save data
+{} бекапа,{} backup
+{} бекапов,{} backup
+{} записей ({}),{} entry ({})
+{} записи ({}),{} entry ({})
+{} запись ({}),{} entry ({})
+{} игр ({}),{} laro ({})
+{} игра ({}),{} laro ({})
+{} игры ({}),{} laro ({})
+{} сохранение,{} save
+{} сохранений,{} save
+{} сохранения,{} save data
+{} тикет,{} ticket
+{} тикета,{} ticket
+{} тикетов,{} ticket
+{}-{} FW:{}{} SDK:{},{}-tl{:.0} FW:{}{} SDK:{}
+"{}/{} MB (Ср: {:.1f} MB/sec, Тек: {:.1f} MB/sec) Ост. {:02d}:{:02d}      \r","{}/{} MB (Avg: {:.1f} MB/sec, Cur: {:.1f} MB/sec) Nat. {:02d}:{:02d}      \r"
+"{}/{} МБ, {:.2f} МБ/сек","{}/{} MB, {:.2f} MB/sec"
+{}: {} потерянная запись,{}: {} naulilang entry
+{}: {} потерянных записей,{}: {} nawawalang entry
+{}: {} потерянных записи,{}: {} nawawalang entry
+{}: {}/{} ({:.2f} МБ/сек),{}: {}/{} ({:.2f} MB/sec)
+{}: {}/{} ({}%) ({:.2f} МБ/сек),{}: {}/{} ({}%) ({:.2f} MB/s)
+{}: пропускается {}/{} ({:.2f} МБ/сек),{}: nilalaktawan {}/{} ({:.2f} MB/sec)
+"{}\n\nВосстановление бекапа не удалось\n\nНажмите A - прервать, другая кнопка - продолжить","{}\n\nNabigo ang pag-restore ng backup\n\nPindutin ang A para ihinto, ibang button para magpatuloy"
+{}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,{}MB sa {}MB ({:.2f} MB/sec)\x1b[0K\r
+АВТО,AUTO
+Аватар установлен,Naitakda ang avatar
+Август,Agosto
+Австралия,Australia
+Автозапуск MTP,Kusang simulan ang MTP
+Автозапуск списка homebrew,Listahan ng autostart homebrew
+Агрументы для ярлыка,Mga argumento ng shortcut
+Адрес FTP сервера: {},Address ng FTP server: {}
+Адрес HTTP сервера: {},Address ng HTTP server: {}
+Альбом (0°),Album (0°)
+Американский английский,Ingles (US)
+Апрель,Abril
+База этой игры не самодостаточна. Не забудьте установить обновление,Hindi nakapag-iisa ang base ng larong ito. Huwag kalimutang i-install ang update
+Бекапы,Mga Backup
+Бекапы сохранений ({}),Mga backup ng save data ({})
+Британский английский,Ingles (UK)
+В альбоме найден {} объект,{} bagay ang nahanap sa album
+В альбоме найдено {} объекта,Nakahanap ng {} bagay sa album
+В альбоме найдено {} объектов,{} bagay ang nahanap sa album
+В альбоме отсутствуют объекты,Walang bagay sa album
+В файле /switch/prod.keys отсутствуют необходимые ключи.\n\nЧасть функций программы будет недоступна.\n\nПерегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад\nдля дампа ключей из SysNAND.,Kulang ng mga kinakailangang key sa /switch/prod.keys.\n\nHindi magagamit ang ilang feature ng app.\n\nMag-reboot sa Hekate at gamitin ang Lockpick_RCM.bin payload\npara i-dump ang mga key mula sa SysNAND.
+ВНИМАНИЕ! Тайтл {:016X} не установлен,BABALA! Hindi naka-install ang title {:016X}
+ВНИМАНИЕ! Установленная версия ({}) не совпадает с желаемой ({}),BABALA! Ang naka-install na bersyon ({}) ay hindi tugma sa gusto ({})
+ВО ВРЕМЯ ПЕРЕДАЧИ ФАЙЛА НАЙДЕНЫ ОШИБКИ. УСТАНОВКА ПРЕРВАНА,MAY MGA ERROR SA PAGLIPAT NG FILE. INIHINTO ANG PAG-INSTALL
+Введите URL сервера (HTTP или (S)FTP),Ilagay ang URL ng server (HTTP o (S)FTP)
+Введите агрументы для ярлыка или оставьте пустым,Ilagay ang mga argumento para sa shortcut o iwanang blangko
+Введите желаемый номер страницы,Ilagay ang gustong numero ng pahina
+Введите новое имя,Ilagay ang bagong pangalan
+Введите новое имя каталога,Ilagay ang bagong pangalan ng directory
+Введите новое имя файла,Ilagay ang bagong pangalan ng file
+Введите номер DLC,Ilagay ang numero ng DLC
+Версия {} [v{}],Bersyon {} [v{}]
+Вместо пользователя {} использовать:,Gamitin imbes na user {}:
+Внимание!\nНекоторые файлы были заблокированы и поэтому пропущены.,Babala!\nMay ilang file na naka-lock kaya nilaktawan.
+Во время разбора\n\n{}\n\nвозникла следующая ошибка:\n\n{},Habang pina-parse ang\n\n{}\n\nnaganap ang sumusunod na error:\n\n{}
+Во время установки тикетов были ошибки. Проверьте наличие ES сигпатчей,May mga error sa pag-install ng ticket. Suriin kung may ES sigpatches
+Во время экспорта были ошибки,May mga error sa pag-export
+Возраст батареи                : {},Edad ng baterya             : {}
+Возрастной рейтинг,Rating ng edad
+Восстановить,I-restore
+Восстановить бекап...,I-restore ang backup...
+Восстановить для...,I-restore para kay...
+Восстановить как бекап сохранения,I-restore bilang save backup
+Восстановление бекапа,Nire-restore ang backup
+Восстановление не удалось,Nabigo ang pagbawi
+Восстановление успешно,Matagumpay ang pag-restore
+Восстановление: {},Nire-restore: {}
+Время игры: {:02}:{:02}:{:02},Oras ng paglalaro: {:02}:{:02}:{:02}
+Время передачи {:d}:{:02d}:{:02d},Oras ng paglipat {:d}:{:02d}:{:02d}
+Все игровые сессии,Lahat ng sesyon ng laro
+Все игроки,Lahat ng manlalaro
+Все объекты,Lahat ng bagay
+Все файлы в порядке,OK lahat ng file
+Всего {} байт получен,{} byte ang natanggap
+Всего {} байт послан,{} byte ang naipadala
+Всего {} байта получено,{} byte ang natanggap sa kabuuan
+ Да, Oo
+Всего {} байта послано,{} byte ang naipadala
+Всего {} байтов получено,{} byte ang natanggap sa kabuuan
+Всего {} байтов послано,{} byte ang naipadala
+Всего записей: {},Kabuuang entry: {}
+Всего отослано: {} ({}/сек),Kabuuang naipadala: {} ({}/sec)
+Всего программ: {},Kabuuang title: {}
+Вставить,I-paste
+Вставка...,Isinisingit...
+Всё время. Всего: {} час,Lahat ng oras. Kabuuan: {} oras
+Всё время. Всего: {} часа,Lahat ng oras. Kabuuan: {} oras
+Всё время. Всего: {} часов,Lahat ng oras. Kabuuan: {} oras
+Вы собираетесь удалить следующие бекапы:,Buburahin mo na ang mga sumusunod na backup:
+Вы собираетесь удалить следующие игры:,Buburahin mo na ang mga sumusunod na laro:
+Вы собираетесь удалить следующие сохранения:,Buburahin mo na ang mga sumusunod na save:
+Вы собираетесь удалить следующие тикеты:,Buburahin mo na ang mga sumusunod na ticket:
+Вы уверены в удалении {} записей?\n\n(+) - ДА   B - Отмена,Sigurado ka bang gusto mong burahin ang {} entry?\n\n(+) - OO   B - Kanselahin
+Вы уверены в удалении {} записи?\n\n(+) - ДА   B - Отмена,Sigurado ka bang gusto mong burahin ang {} entry?\n\n(+) - OO   B - Kanselahin
+Вы уверены в удалении {} объекта?\n\n(+) - ДА   B - Отмена,Sigurado ka bang gusto mong burahin ang {} bagay?\n\n(+) - OO   B - Kanselahin
+Вы уверены в удалении {} объектов?\n\n(+) - ДА   B - Отмена,Sigurado ka bang gusto mong burahin ang {} bagay?\n\n(+) - OO   B - Kanselahin
+"Вы уверены, что хотите удалить {}?\n\n(+) - ДА, другая кнопка - НЕТ","Sigurado ka bang gusto mong burahin ang {}?\n\n(+) - OO, ibang button - HINDI"
+"Вы уверены, что хотите удалить\n{}?\n\n(+) - ДА  В - Отмена",Sigurado ka bang gusto mong burahin ang\n{}?\n\n(+) - OO  B - Kanselahin
+Выберите пользователя,Piliin ang user
+Выберите тип сохранения,Piliin ang uri ng save
+Выбрать все файлы игры,Piliin lahat ng file ng laro
+Выбрать того же пользователя,Piliin ang parehong user
+Выбрать ту же игру,Piliin ang parehong laro
+Вырезать,I-cut
+Вычисление хэша,Kinakalkula ang hash
+Вычисленное время конца : {},Kinakalkulang oras ng pagtatapos : {}
+Вычисленное время начала: {},Kinakalkulang oras ng pagsisimula: {}
+Генерация DLC [{:016X}][v{}],Gumagawa ng DLC [{:016X}][v{}]
+Генерация DLC анлокера...,Gumagawa ng DLC unlocker...
+Генерируется анлокер для {:016X} с номером {} и версией {}...,Gumagawa ng unlocker para sa {:016X} na may numerong {} at bersyong {}...
+Генерируется ярлык для пути '{}' и аргументов '{}'...,Gumagawa ng shortcut para sa path '{}' at mga argumentong '{}'...
+Главное меню,Pangunahing menu
+Голландский,Olandes
+"Да, я уверен","Oo, sigurado ako"
+Дамп анлокера в '{}'...,Idina-dump ang unlocker sa '{}'...
+Дамп текущей прошивки,I-dump ang kasalukuyang firmware
+Дамп ярлыка в '{}'...,Idina-dump ang shortcut sa '{}'...
+Действия с файлами,Mga operasyon sa file
+Действия с файлами ({}),Mga aksyon sa file ({})
+Декабрь,Disyembre
+День,Araw
+Диаграмма активности,Tsart ng Aktibidad
+Для бекапов,Para sa mga backup
+Для выхода нажмите любую кнопку,Pindutin ang kahit anong button para lumabas
+Для дампов,Para sa mga dump
+Для логов,Para sa mga log
+Добавить в любимые,Idagdag sa mga paborito
+Европа,Europa
+"Есть несохранёные изменения.\nВы хотите их сохранить?\n\n(+) - Да, сохранить\n\n(-) - Выйти без сохранения\n\nДругая кнопка - Отмена","May mga hindi pa nai-save na pagbabago.\nGusto mo bang i-save ang mga ito?\n\n(+) - Oo, i-save\n\n(-) - Lumabas nang hindi nagse-save\n\nIbang button - Kanselahin"
+Желаемая версия: {},Gustong bersyon: {}
+Журнал активности,Talaan ng Aktibidad
+Завершено,Tapos na
+Загружается список обновлений...,Nilo-load ang listahan ng update...
+Загрузка изображения...,Nilo-load ang larawan...
+Загрузка текста...{}%,Nilo-load ang teksto...{}%
+Загрузка файла... {}%,Nilo-load ang file... {}%
+Задать размер файла {} не удалось: {},Nabigong itakda ang laki ng file {}: {}
+Закончено за {:02d}:{:02d}:{:02d},Natapos sa {:02d}:{:02d}:{:02d}
+Закончилась память при посылке ответа,Naubusan ng memory habang nagpapadala ng tugon
+Закончились дополнительные буферы. Скорость записи на носитель слишком низка,Naubusan ng dagdag na buffer. Masyadong mabagal ang pagsulat sa storage
+Закрытие соединения,Isinasara ang koneksyon
+Закрытие соединения к {}:{},Isinasara ang koneksyon sa {}:{}
+Запаковать LFS в romfs.bin,I-pack ang LFS sa romfs.bin
+Запаковать в romfs.bin,I-pack sa romfs.bin
+Запаковка папки в RomFS,Pinapack ang folder sa RomFS
+Записанное время конца  : {},Naitalang oras ng pagtatapos  : {}
+Записанное время начала : {},Naitalang oras ng pagsisimula : {}
+Запись в файл...,Sinusulat sa file...
+Запись за пределами файла,Sumulat lampas sa file
+Заполнение нулями,Pinupuno ng zero
+Заполнить свободное место на SD нулями,Punuin ng zero ang libreng espasyo sa SD
+Запрет захвата видео,Ipagbawal ang pagkuha ng video
+Запрет скриншотов,Pagbabawal sa screenshot
+Запрещено,Ipinagbabawal
+Запускавшиеся игры,Mga nailunsad na laro
+Запустить FTP сервер...,Simulan ang FTP server...
+Запустить HTTP сервер...,Sinisimulan ang HTTP server...
+Запустить МТР соединение,Simulan ang koneksyon sa MTP
+Запустить случайную игру,Maglunsad ng random na laro
+Заряд батареи                  : {},Karga ng baterya                 : {}
+Здесь пусто,Walang laman dito
+Игра анонсирует SDK {},Nag-aanunsyo ang laro ng SDK {}
+"Игра анонсирует более новый SDK ({}), чем текущая прошивка ({})",Nag-aanunsyo ang laro ng mas bagong SDK ({}) kaysa sa kasalukuyang firmware ({})
+Игра использует titleId от дополнения,Gumagamit ang laro ng titleId mula sa DLC
+Игра использует titleId от обновления,Gumagamit ang laro ng titleId mula sa update
+Извлечь в LFS,I-extract sa LFS
+Изменение размера сохранения на {} [{}]...,Binabago ang laki ng save sa {} [{}]...
+Изменить версию DLC (десятичную),Palitan ang bersyon ng DLC (decimal)
+Изменить номер DLC (десятичный),Palitan ang numero ng DLC (decimal)
+Изменить номер DLC (шестнадцатеричный),Palitan ang numero ng DLC (hexadecimal)
+Изменён размер SaveFS,Binago ang laki ng SaveFS
+Импорт исправленного тикета...,Ini-import ang naayos na ticket...
+Импорт тикета...,Ini-import ang ticket...
+"Имя каталога\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Ang pangalan ng directory\n'{}'\nay may mga di-wastong karakter.\nHindi ito magagawa.\n\nPindutin ang A - ihinto, B - laktawan, X - palitan ang pangalan"
+"Имя файла\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Ang pangalan ng file\n'{}'\nay may mga di-wastong karakter.\nHindi ito magagawa.\n\nPindutin ang A - ihinto, B - laktawan, X - palitan ang pangalan"
+Инсталлируется romfs.bin,Ini-install ang romfs.bin
+Информация о зарядке батареи,Impormasyon sa pag-charge ng baterya
+Информация о контенте,Impormasyon ng nilalaman
+Информация о контенте ({}),Impormasyon ng nilalaman ({})
+Информация о прошивке,Impormasyon ng firmware
+Информация о системе,Impormasyon ng system
+Информация о сохранении,Impormasyon ng save data
+Информация о сохранении...,Impormasyon ng save data...
+Информация о тикете,Impormasyon ng ticket
+Информация о тикете...,Impormasyon ng ticket...
+Информация об NSP,Impormasyon ng NSP
+Информация об атмосфере,Impormasyon ng Atmosphere
+Информация об игровой активности,Impormasyon sa aktibidad ng laro
+Информация об источние питания,Impormasyon ng pinagmulan ng kuryente
+Информация об оборудовании,Impormasyon ng hardware
+Информация...,Impormasyon...
+Испанский,Espanyol
+Использовано дополнительной памяти: {}. Создано буферов: {},Dagdag na memoryang ginamit: {}. Mga buffer na ginawa: {}
+Использовать папку для...,Gamitin ang folder para sa...
+Используется USB{},Gumagamit ng USB{}
+Итальянский,Italyano
+Ищется control для ProgramId {},Naghahanap ng control para sa ProgramId {}
+Ищется exefs/romfs для ProgramId {},Naghahanap ng exefs/romfs para sa ProgramId {}
+Ищется exefs/romfs/logo для ProgramId {},Naghahanap ng exefs/romfs/logo para sa ProgramId {}
+Ищется {},Naghahanap ng {}
+Июль,Hulyo
+Июнь,Hunyo
+Канадский французский,Pranses (Canada)
+"Когда ваше устройство подключится, нажмите любую кнопку",Pindutin ang kahit anong button kapag nakakonekta na ang device
+Код партии батареи    : {} ({}),Lot code ng baterya      : {} ({})
+Кодировка,Encoding
+Конец игры            : -,Tapos ng laro   : -
+Конец игры            : {},Tapos ng laro   : {}
+Контент уже на месте,Nasa lugar na ang nilalaman
+Копирование IVFC слой {} в nca: {},Kinokopya ang IVFC layer {} sa nca: {}
+Копирование PFS0 в nca,Kinokopya ang PFS0 sa nca
+Копирование PFS0 хэш таблицы в nca,Kinokopya ang PFS0 hash table sa nca
+Копирование SDK {} в файл: {}...,Kinokopya ang SDK {} sa file: {}...
+Копировать,Kopyahin
+Корейский,Koreano
+Корень не найден,Hindi makita ang root
+Корень сохранения не существует,Walang save root
+Корея,Korea
+Латиноамериканский испанский,Espanyol (Latin America)
+Май,Mayo
+Март,Marso
+Масштаб: По ширине,Sukat: Ikasya sa Lapad
+Масштаб: По экрану,Sukat: Ikasya sa screen
+Масштаб: Точка в точку,Sukat: Pixel Perfect
+Масштаб: Увеличение x2,Sukat: 2x Pagpapalaki
+Место в  NAND         : {},Espasyo sa NAND      : {}
+Место на SD карте     : {},Espasyo ng SD card : {}
+Место на приставке не занято,Walang nagamit na espasyo sa console
+Мета контент отсутствует,Kulang ang meta content
+Миссия провалена\n\nНажмите А для выхода,Nabigo ang misyon\n\nPindutin ang A para lumabas
+Миссия успешна\n\nОсталось ходов: {}\n\nНажмите А для выхода,Matagumpay ang misyon\n\nNatitirang galaw: {}\n\nPindutin ang A para lumabas
+Модификация файла не удалась,Nabigo ang pagbabago ng file
+На выбранном устройстве нет достаточного свободного места для установки,Hindi sapat ang libreng espasyo sa napiling device para sa pag-install
+На месте нет достаточно свободного места,Hindi sapat ang libreng espasyo
+Нажмите (+) для перезаписи конфига обновлённым\n\nЛюбую другую кнопку для пропуска,Pindutin ang (+) para palitan ang config ng na-update\n\nIbang button para laktawan
+"Нажмите (+) для удаления, любую другую кнопку для пропуска...\n (-) Удалять все, больше не спрашивая","Pindutin ang (+) para burahin, ibang button para laktawan...\n (-) Burahin lahat nang hindi na nagtatanong"
+"Нажмите A, чтобы продолжить, другую кнопку, чтобы выйти","Pindutin ang A para magpatuloy, ibang button para lumabas"
+"Нажмите B, чтобы вернуться",Pindutin ang B para bumalik
+Нажмите любую кнопку,Pindutin ang kahit anong button
+Найден SDK: {},Nahanap na SDK: {}
+Найден {} зарегистрированный контент-файл,Nakahanap ng {} rehistradong content file
+Найден {} контент-файл,Nakahanap ng {} content file
+Найден {} пользователь,Nakahanap ng {} user
+Найден {} потерянный контент-файл,Nakahanap ng {} naulilang content file
+Найден {} файл,Nakahanap ng {} file
+Найден {} файл с ошибками,Nakahanap ng {} file na may error
+Найден и удалён {} неиспользуемый тикет,Nahanap at nabura ang {} hindi nagamit na ticket
+Найдена {} запись об игре,Nakahanap ng {} entry ng laro
+Найдена {} запись об ошибках,Nakahanap ng {} rekord ng error
+Найдена {} установленная игра,Nakahanap ng {} naka-install na laro
+Найдено {} записей об играх,Nakahanap ng {} rekord ng laro
+Найдено {} записей об ошибках,Nakahanap ng {} ulat ng error
+Найдено {} записи об играх,Nakahanap ng {} entry ng laro
+({}/{}) Устанавливается {},({}/{}) Ini-install ang {}
+Найдено {} записи об ошибках,Nakahanap ng {} ulat ng error
+Найдено {} зарегистрированных контент-файла,Nakahanap ng {} rehistradong content file
+Найдено {} зарегистрированных контент-файлов,Nakahanap ng {} rehistradong content file
+Найдено {} контент-файла,Nakahanap ng {} content file
+Найдено {} контент-файлов,{} content file ang nahanap
+Найдено {} обновление,{} update ang nahanap
+Найдено {} обновлений,Nakahanap ng {} update
+Найдено {} обновления,Nakahanap ng {} update
+Найдено {} пользователей,Nakahanap ng {} user
+Найдено {} пользователя,Nakahanap ng {} user
+Найдено {} потерянных контент-файла,Nakahanap ng {} nawawalang content file
+Найдено {} потерянных контент-файлов,Nakahanap ng {} naulilang content file
+Найдено {} сохранение,Nakahanap ng {} save
+Найдено {} сохранение...,Nakahanap ng {} save...
+Найдено {} сохранений,Nakahanap ng {} save
+Найдено {} сохранений...,Nakahanap ng {} save...
+Найдено {} сохранения,Nakahanap ng {} save
+Найдено {} сохранения...,Nakahanap ng {} save...
+Найдено {} установленные игры,Nakahanap ng {} naka-install na laro
+Найдено {} установленных игр,Nakahanap ng {} naka-install na laro
+Найдено {} файла,{} file ang nahanap
+Найдено {} файла с ошибками,Nakahanap ng {} file na may error
+Найдено {} файлов,{} file ang nahanap
+Найдено {} файлов с ошибками,Nakahanap ng {} file na may error
+Найдено и удалено {} неиспользуемых тикета,Nahanap at inalis ang {} hindi nagamit na ticket
+Найдено и удалено {} неиспользуемых тикетов,Nahanap at inalis ang {} hindi nagamit na ticket
+Найдено существующее сохранение. Восстанавливаю бекап в него...,Nakahanap ng umiiral na save. Nire-restore ang backup dito...
+Настройки,Mga Setting
+Настройки DBI,Mga Setting ng DBI
+Настройки FB2,Mga Setting ng FB2
+Начало игры           : -,Simula ng laro  : -
+Начало игры           : {},Simula ng laro  : {}
+Начало создания Control.nca,Sinisimulan ang paggawa ng Control.nca
+Начало создания Program.nca,Sinisimulan ang paggawa ng Program.nca
+Начать установку,Simulan ang pag-install
+Не доступно,Hindi magagamit
+Не известно,Hindi kilala
+"Не найден USB диск, который смог бы вместить получившийся дамп. Убедитесь, что он отформатирован в ExFAT.",Walang nahanap na USB drive na kasya ang mabubuong dump. Tiyaking naka-format ito bilang ExFAT.
+Не найдены требуемые тикеты,Hindi makita ang mga kinakailangang ticket
+. Время простоя \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m,. Oras na walang ginagawa \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m
+Не получилось создать NSP,Nabigong gumawa ng NSP
+Не удалось получить список,Nabigong kunin ang listahan
+Не удалось установить аватар\n{},Nabigong itakda ang avatar\n{}
+Не установлен,Hindi naka-install
+Невозможно найти путь,Hindi makita ang path
+Невозможно открыть папку журналов ошибок,Hindi mabuksan ang folder ng error log
+Невозможно переименовать '{}' в '{}':,Hindi mapalitan ang pangalan ng '{}' sa '{}':
+Невозможно получить список LFS,Hindi makuha ang listahan ng LFS
+Невозможно получить список пользователей,Hindi makuha ang listahan ng user
+Невозможно получить статус связи с Nintendo Account,Hindi makuha ang katayuan ng link ng Nintendo Account
+...готово,...tapos na
+Невозможно получить число записей об ошибках,Hindi makuha ang bilang ng rekord ng error
+Невозможно прочитать общие тикеты,Hindi mabasa ang mga common ticket
+Невозможно прочитать персонализированные тикеты,Hindi mabasa ang mga personalized ticket
+Невозможно разобрать content meta,Hindi ma-parse ang content meta
+Невозможно разобрать content meta. Неожиданная ошибка,Hindi ma-parse ang content meta. Hindi inaasahang error
+Невозможно разобрать content meta. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Hindi ma-parse ang content meta. LUMA NA ANG FIRMWARE. Kailangan ng HOS update
+Невозможно разобрать nca. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Hindi ma-parse ang nca. LUMA NA ANG FIRMWARE. Kailangan ng HOS update
+Невозможно разобрать индекс кеша,Hindi ma-parse ang cache index
+Невозможно распаковать '{}':,Hindi ma-unpack ang '{}':
+Невозможно скопировать файл\n   '{}'\n➡ '{}'\n,Hindi makopya ang file\n   '{}'\n➡ '{}'\n
+Невозможно смонтировать сохранение,Hindi ma-mount ang save
+Невозможно смонтировать устройство сохраниения,Hindi ma-mount ang save device
+Невозможно создать каталог,Hindi makagawa ng directory
+Невозможно создать каталог '{}':,Hindi makagawa ng directory '{}':
+Невозможно создать файл,Hindi makagawa ng file
+Невозможно создать файл '{}':,Hindi makagawa ng file '{}':
+Недопустимый идентификатор,Di-wastong identifier
+Неизвестная игра [{:016x}],Hindi kilalang laro [{:016x}]
+: {:>4} сохранение,: {:>4} save
+Неизвестно,Hindi kilala
+Неизвестный тайтл,Hindi kilalang title
+Немецкий,Aleman
+Неправильное хранилище,Di-wastong storage
+Неправильный родительский объект,Di-wastong parent object
+Нет,Hindi
+Нет VFS. Прекращение работы,Walang VFS. Tinatapos
+Нет exefs VFS. Прекращение работы,Walang exefs VFS. Tinatapos
+: {:>4} сохранений,: {:>4} save
+Нет logo VFS. Прекращение работы,Walang logo VFS. Tinatapos
+Нет romfs VFS. Прекращение работы,Walang romfs VFS. Tinatapos
+Нет лого,Walang logo
+Нечего устанавливать,Walang ii-install
+Новое имя для '{}',Bagong pangalan para sa '{}'
+Новый каталог,Bagong directory
+Новый размер сохранения в МБ,Bagong laki ng save sa MB
+Новый рейтинг (-1 для удаления),Bagong rating (-1 para alisin)
+: {:>4} сохранения,: {:>4} save
+Номер страницы,Numero ng pahina
+Ночь,Gabi
+Нужен связанный аккаунт,Kailangan ng naka-link na account
+ОШИБКА ПОЛУЧЕНИЯ ЭКСТРА ДАННЫХ,ERROR SA PAGKUHA NG EXTRA DATA
+Обнаружены недопустимые символы,May nakitang mga di-wastong karakter
+Обновить DBI,I-update ang DBI
+Обновить DBI из этого файла,I-update ang DBI mula sa file na ito
+Обновить TitleDB,I-update ang TitleDB
+Обновление TitleDB,Ina-update ang TitleDB
+Обновление базы данных...,Ina-update ang database...
+Обновление версии до {} {}\n\nНажмите (+) для продолжения\nЛюбую другую кнопку для отмены,Ina-update ang bersyon sa {} {}\n\nPindutin ang (+) para magpatuloy\nIbang button para kanselahin
+Обновление времени...,Ina-update ang oras...
+Обновление закончено\n\nНажмите любую кнопку\nдля перезапуска DBI,Tapos na ang update\n\nPindutin ang kahit anong button\npara i-restart ang DBI
+Обновление фейковой записи {} ➡ [v{}],Ina-update ang pekeng rekord {} ➡ [v{}]
+Обновление. Пожалуйста подождите...,Ina-update. Pakihintay...
+Обновляется запись об игре...,Ina-update ang rekord ng laro...
+Обрабатывается запись {:016X},Pinoproseso ang rekord {:016X}
+Обратный альбом (180°),Baligtad na album (180°)
+Обратный портрет (270°),Baligtad na Portrait (270°)
+Общее время активной игры     : {} часов,Kabuuang aktibong oras ng paglalaro : {} oras
+Общее время дампа {:d}:{:02d}:{:02d},Kabuuang oras ng dump {:d}:{:02d}:{:02d}
+Общее время запущенных игр    : {} часов,Kabuuang oras ng paglalaro          : {} oras
+Общее время игры      : -,Kabuuang oras ng laro : -
+Общее время игры      : - (-),Kabuuang oras ng laro : - (-)
+Общее время игры      : {:d} часов {:02d} минут,Kabuuang oras ng laro : {:d} oras {:02d} minuto
+Общее время установки: {:d}:{:02d}:{:02d},Kabuuang oras ng pag-install: {:d}:{:02d}:{:02d}
+Общее время: {:02}:{:02}:{:02},Kabuuang oras: {:02}:{:02}:{:02}
+Общее занимаемое место: N:{} + S:{} = {},Kabuuang nagamit na espasyo: N:{} + S:{} = {}
+Общее число запусков  : -,Kabuuang bilang ng paglunsad : -
+Общие,Pangkalahatan
+Общий размер установки: {},Kabuuang laki ng pag-install: {}
+Объединение списков,Pagsamahin ang mga listahan
+Объект {} не допустим,Hindi pinapayagan ang bagay na {}
+Объект {} не может быть создан,Hindi magawa ang bagay na {}
+Объект не открыт для редактирования,Hindi nakabukas para sa pag-edit ang bagay
+Объект удалён,Nabura ang bagay
+Объект уже открыт для редактирования,Naka-bukas na para sa pag-edit ang bagay
+Огибка получения адреса сокета: {} {},Error sa pagkuha ng socket address: {} {}
+Ожидаемый размер: {},Inaasahang laki: {}
+Ожидается большой (>4GB) файл,Inaasahan ang malaking (>4GB) file
+Ожидается запуск dbibackend на стороне ПК...,Hinihintay na magsimula ang dbibackend sa PC...
+Ожидание: {} секунд,Naghihintay: {} segundo
+Ожидание: {} секунда,Naghihintay: {} segundo
+Ожидание: {} секунды,Naghihintay: {} segundo
+Ориентация,Oryentasyon
+Ориентация...,Oryentasyon...
+Основной SDK не найден. Пробуем мультипрограмный вариант,Hindi makita ang pangunahing SDK. Sinusubukan ang multi-program na baryante
+Оставить сохранения,Panatilihin ang save data
+Осталось ходов:    {:>3},Natitirang galaw: {:>3}
+Остаток файла пропускается,Nilaktawan ang natitirang bahagi ng file
+Отключение связи с мобильным приложением...,Dinidiskonekta mula sa mobile app...
+Открываем папку прошивки...,Binubuksan ang folder ng firmware...
+Открыть,Buksan
+Открыть вторую панель,Buksan ang ikalawang panel
+Открыть как 7Z,Buksan bilang 7Z
+Открыть как RAR,Buksan bilang RAR
+Открыть как ZIP,Buksan bilang ZIP
+Открыть как hex,Buksan bilang hex
+Открыть как текст,Buksan bilang teksto
+Открыть контент по MTP,Buksan ang nilalaman sa MTP
+контент по MTP,nilalaman sa MTP
+Открыть папку LFS,Buksan ang LFS folder
+Content meta не найден. Установка прервана,Hindi makita ang content meta. Inihinto ang pag-install
+Отослано {}/{} байт,Naipadala {}/{} byte
+Отсутствуют ES сигпатчи!,Kulang ang ES sigpatches!
+Очистка /atmosphere/contents,Nililinis ang /atmosphere/contents
+Очистка кеша rightsId...,Nililinis ang rightsId cache...
+Очистка папки...,Nililinis ang folder...
+Очистка плейсхолдеров...,Nililinis ang mga placeholder...
+Очистка системы от мусора,Nililinis ang system mula sa basura
+Очистка сохранений,Nililinis ang save data
+Очистка...,Nililinis...
+Ошибка FTP сервера,Error sa FTP server
+DBI Просмотр альбома,Pagtingin ng Album sa DBI
+Ошибка во время копирования файла,Error habang kinokopya ang file
+Ошибка во время обновления тайтла,Error habang ina-update ang title
+Ошибка выделения сокета: {},Error sa paglalaan ng socket: {}
+Ошибка завершения соединения: {},Error sa pagtapos ng koneksyon: {}
+Ошибка загрузки картинки,Error sa pag-load ng larawan
+Ошибка загрузки файла из альбома: {},Error sa pag-load ng file mula sa album: {}
+Ошибка закрытия сокета: {},Error sa pagsara ng socket: {}
+Ошибка записи файла: {},Error sa pagsulat ng file: {}
+Ошибка изменения размера файла,Error sa pagbago ng laki ng file
+Ошибка инициализации {}: {},Error sa pag-initialize {}: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз","DPAD at sticks - mag-scroll, L - pahina pataas, R - pahina pababa"
+Ошибка опроса сокета: {},Error sa socket poll: {}
+Ошибка открытия каталога: {},Error sa pagbukas ng directory: {}
+Ошибка открытия сокета: {},Error sa pagbukas ng socket: {}
+Ошибка открытия файла,Error sa pagbukas ng file
+Ошибка открытия файла '{}': {},Error sa pagbukas ng file '{}': {}
+Ошибка открытия файла: {},Error sa pagbukas ng file: {}
+Ошибка отсылки: {},Error sa pagpadala: {}
+Ошибка переименования: {},Error sa pagpalit ng pangalan: {}
+Ошибка подключения: {},Error sa koneksyon: {}
+Ошибка подмены SDK: {},Error sa pagpalit ng SDK: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз, R3 - Текст/Hex","DPAD at sticks - mag-scroll, L - pahina pataas, R - pahina pababa, R3 - Teksto/Hex"
+Ошибка получения адреса узла: {},Error sa pagkuha ng node address: {}
+Ошибка получения внеочередных данных: {},Error sa pagkuha ng out-of-band data: {}
+Ошибка получения имени сокета: {} {},Error sa pagkuha ng pangalan ng socket: {} {}
+Ошибка получения информаци о файле: {},Error sa pagkuha ng impormasyon ng file: {}
+Ошибка получения размера файла: {},Error sa pagkuha ng laki ng file: {}
+Ошибка получения флагов сокета: {},Error sa pagkuha ng socket flags: {}
+Ошибка получения хранилища {},Error sa pagkuha ng storage {}
+Ошибка получения: {},Error sa pagkuha: {}
+Ошибка получения: {} {},Error sa pagkuha: {} {}
+Ошибка посылки файла: {},Error sa pagpadala ng file: {}
+Ошибка привязки сокета к порту {}: {},Error sa pag-bind ng socket sa port {}: {}
+Ошибка привязки: {},Error sa pag-bind: {}
+Ошибка принятия соединения: {} {},Error sa pagtanggap ng koneksyon: {} {}
+Ошибка приёма соединения: {},Error sa pagtanggap sa koneksyon: {}
+Ошибка проверси метки сокета: {},Error sa pag-verify ng socket label: {}
+Ошибка прослушивания: {},Error sa pakikinig: {}
+Ошибка прослушки сокета: {},Error sa pakikinig ng socket: {}
+Ошибка сжатия,Error sa compression
+Ошибка создания каталога: {},Error sa paggawa ng directory: {}
+Ошибка создания сокета: {},Error sa paggawa ng socket: {}
+Ошибка создания сохранения,Error sa paggawa ng save
+Ошибка удаления каталога: {},Error sa pagbura ng directory: {}
+Ошибка удаления файла: {},Error sa pagbura ng file: {}
+Ошибка установки флагов сокета: {},Error sa pagtatakda ng socket flags: {}
+Ошибка чтения записи об игре: {},Error sa pagbasa ng rekord ng laro: {}
+Ошибка чтения каталога: {},Error sa pagbasa ng directory: {}
+Ошибка чтения файла: {},Error sa pagbasa ng file: {}
+Ошибок не найдено,Walang nahanap na error
+Ошибочный номер DLC (Должен быть в диапазоне 0x001-0x7FF),Di-wastong numero ng DLC (Dapat nasa pagitan ng 0x001-0x7FF)
+Ошибочный номер DLC (Должен быть в диапазоне 1-2047),Di-wastong numero ng DLC (Dapat nasa pagitan ng 1-2047)
+"Ошибочный тикет {0}: kg {1:02X}, pm {2:02X}","Di-wastong ticket {0}: kg {1:02X}, pm {2:02X}"
+Папка LFS не найдена,Hindi makita ang LFS folder
+Папка обновления очищена,Nalinis ang folder ng update
+Параметры FTP,Mga Setting ng FTP
+Параметры MTP,Mga Setting ng MTP
+Параметры установки,Mga opsyon sa pag-install
+Передача окончена,Tapos na ang paglipat
+Переименование объекта,Pinapalitan ang pangalan ng bagay
+Переименовать,Palitan ang pangalan
+Перейти к первой странице,Pumunta sa unang pahina
+Перейти к последней странице,Pumunta sa huling pahina
+Перейти к странице...,Pumunta sa pahina...
+Переместить,Ilipat
+Переместить в NAND,Ilipat sa NAND
+в NAND,sa NAND
+Переместить на SD карту,Ilipat sa SD card
+на SD карту,sa SD card
+"Перемещение {} ({}, {}) в {}","Inililipat ang {} ({}, {}) sa {}"
+Перемещение {} записей,Inililipat ang {} entry
+Перемещение {} записи,Inililipat ang {} entry
+Перемещение {} игр,Inililipat ang {} laro
+Перемещение {} игры,Inililipat ang {} laro
+FTP сервер (нажмите B для остановки),FTP server (pindutin ang B para ihinto)
+Перемещение контента,Inililipat ang nilalaman
+Перенос строк,Putol ng linya
+Переоткрытие ФС сохранения: {},Binubuksan muli ang save FS: {}
+Пишется новая запись о контенте...,Sinusulat ang bagong rekord ng nilalaman...
+Пишется новый cnmt.nca...,Sinusulat ang bagong cnmt.nca...
+Подготовка...,Inihahanda...
+Подключаемся к {}...,Kumokonekta sa {}...
+Подключено к {}:{},Nakakonekta sa {}:{}
+Подмена SDK,Pagpapalit ng SDK
+Подменить SDK,Palitan ang SDK
+Подсчитывается размер установки...,Kinakalkula ang laki ng pag-install...
+Подсчитывается размер установки...{}%,Kinakalkula ang laki ng install...{}%
+Подсчитываются объекты в альбоме в NAND,Binibilang ang mga bagay sa album sa NAND
+Подсчитываются объекты в альбоме на SD карте,Binibilang ang mga bagay sa album sa SD card
+Подсчёт метаданных...,Binibilang ang metadata...
+Подсчёт основного хэша,Kinakalkula ang pangunahing hash
+Подсчёт хэша секции,Kinakalkula ang hash ng seksyon
+"Пожалуйста, подключите вашу консоль к ПК кабелем USB Type-C или нажмите B",Ikonekta ang console sa PC gamit ang USB Type-C cable o pindutin ang B
+"Пожалуйста, подождите...",Pakihintay...
+Поиск записей об ошибках,Naghahanap ng mga error log
+Поиск неиспользуемых тикетов,Naghahanap ng mga hindi nagamit na ticket
+Поиск подготовленного системного обновления,Naghahanap ng nakahandang system update
+Поиск потерянных тайтлов,Naghahanap ng mga nawawalang title
+Поиск потерянных файлов в NAND,Naghahanap ng mga nawawalang file sa NAND
+Поиск потерянных файлов на SD,Naghahanap ng mga nawawalang file sa SD
+Поиск сохранений удалённых пользователей...,Naghahanap ng save data ng mga naburang user...
+Get chargeInfoFields : {},Kunin ang chargeInfoFields : {}
+Получен список из {} записей,Nakatanggap ng listahan ng {} entry
+Получен список из {} записи,Nakatanggap ng listahan ng {} entry
+Получение версий установленных игр,Kinukuha ang mga naka-install na bersyon ng laro
+Получение информации из hac_versionlist...,Kinukuha ang impormasyon mula sa hac_versionlist...
+Получение информации из системы...,Kinukuha ang impormasyon ng system...
+Получение информации об играх...,Kinukuha ang impormasyon ng laro...
+Получение списка тикетов...,Kinukuha ang listahan ng ticket...
+Получение файла: {} МБ ({:.2f} МБ/сек),Tinatanggap ang file: {} MB ({:.2f} MB/s)
+Получение файла: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Tinatanggap ang file: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m MB/sec)
+Полученное время: {},Oras ng pagtanggap: {}
+Полученный размер: {},Natanggap na laki: {}
+"Получено: {}, ({:.2f} МБ/сек)","Natanggap: {}, ({:.2f} MB/s)"
+Пользователь {} не найден. Создание сохранения невозможно,Hindi makita ang user {}. Imposibleng gumawa ng save
+Пользователь не найден,Hindi makita ang user
+Попытаться разобрать,Subukang i-parse
+Попытка исправить,Sinusubukang ayusin
+Портрет (90°),Portrait (90°)
+Португальский,Portuges
+"L+⬅-Начало, L+➡-Конец, ZL-Регистр, ZR-Ввод, Y-Пробел, X-Забой, R3-Язык","L+⬅-Home, L+➡-End, ZL-Case, ZR-Enter, Y-Space, X-Backspace, R3-Wika"
+После удаления игры не будут запускаться,Hindi maglulunsad ang mga laro pagkatapos burahin
+Посылается файл: {},Ipinapadala ang file: {}
+Посылается файл: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Ipinapadala ang file: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m MB/s)
+Превышен размер командного буфера,Lumampas sa laki ng command buffer
+LFS мод.: -,LFS mode: -
+Предоставить по FTP,Ibigay sa pamamagitan ng FTP
+Прекращение прослушивания на {}:{},Inihihinto ang pakikinig sa {}:{}
+Прервано пользователем,Inihinto ng user
+Привязка к {}:{},Nagba-bind sa {}:{}
+Принято соединение от {}:{},Tinanggap ang koneksyon mula sa {}:{}
+Проверить целостность,Suriin ang integridad
+Проверка magic...,Sinusuri ang magic...
+"Проверка {} ({}, {}), {}","Pag-verify {} ({}, {}), {}"
+Проверка картриджа...,Sinusuri ang cartridge...
+Проверка на наличие  {}...,Sinusuri ang {}...
+Проверка обновлений,Naghahanap ng mga update
+Проверка обновлений игр,Naghahanap ng mga update ng laro
+Проверка сохранений,Sinusuri ang save data
+Проверка целостности ({}),Pagsusuri ng integridad ({})
+Проверяется: {},Sinusuri: {}
+"LFS мод.: Присутствует, Размер: подсчёт отключен в настройках","LFS mod : Meron, Laki: naka-disable ang kalkulasyon sa mga setting"
+Проверяются бекапы...,Sinusuri ang mga backup...
+Проверяются сохранения,Sinusuri ang mga save
+Программа {}. Control не найдена,Application {}. Hindi makita ang Control
+Программа {}. Exefs не найдена,Program {}. Hindi makita ang Exefs
+Программа {}. Romfs не найдена,Application {}. Hindi makita ang Romfs
+Произошла неизвестная ошибка,May naganap na hindi kilalang error
+Произошла ошибка:,May naganap na error:
+Произошла ошибка: {},May naganap na error: {}
+LFS папка игры,LFS folder ng laro
+Пропускается: {}          \r,Nilalaktawan: {}          \r
+Прослушивание на {}:{},Nakikinig sa {}:{}
+Просмотр альбома по HTTP,Tingnan ang album sa HTTP
+MTP Респондер (нажмите B для остановки),MTP Responder (pindutin ang B para ihinto)
+Просмотреть игры,Tingnan ang mga laro
+Просто запуск,Ilunsad lang
+Разбор,Pina-parse
+Раздел secure не найден,Hindi makita ang secure section
+"Размер  : {}, {} файл","Laki  : {}, {} file"
+"Размер  : {}, {} файла","Laki  : {}, {} file"
+"Размер  : {}, {} файлов","Laki  : {}, {} file"
+Размер посылаемого файла   : {},Laki ng file na ipinapadala: {}
+Размер сохранений     : {},Laki ng save data : {}
+Размер: {},Laki: {}
+Разрешено,Pinapayagan
+Распаковать в подкаталог,I-extract sa subdirectory
+Распаковать сюда,I-extract dito
+Распаковка файла,Ina-unpack ang file
+Растущие цветы:     {},Pagpapalaki ng bulaklak: {}
+Nintendo Account задан и связан,Nakatakda at naka-link ang Nintendo Account
+Регистрация контента {}...,Nire-rehistro ang nilalaman {}...
+Регистрация файла {}...,Nire-rehistro ang file {}...
+Регистры котроллера MAX17050,Mga rehistro ng MAX17050 controller
+Редактирование возрастного рейтинга...,Ine-edit ang rating ng edad...
+Редактирование запретов,I-edit ang mga paghihigpit
+Рендеринг FB2,Nire-render ang FB2
+"Nintendo Account задан, но не связан","Nakatakda ang Nintendo Account, pero hindi naka-link"
+Сброс требуемой версии,I-reset ang kinakailangang bersyon
+Сбросить требуемую версию,I-reset ang kinakailangang bersyon
+Сведения,Impormasyon
+Сведения...,Impormasyon...
+Свободное место в хранилище: {},Libreng espasyo sa storage: {}
+Свободное место: {},Libreng espasyo: {}
+Сгенерировать и установить,Gumawa at i-install
+Nintendo Account не задан,Hindi nakatakda ang Nintendo Account
+Сдампить на SD карту,I-dump sa SD card
+Сдампить на внешний USB,I-dump sa external USB
+Сдампить текущую прошивку,I-dump ang kasalukuyang firmware
+Сдамплено: {}/{} ({}%) ({:.2f} МБ/сек),Na-dump: {}/{} ({}%) ({:.2f} MB/sec)
+Сделать бекап,Gumawa ng backup
+"Сделать бекап, если новее",Mag-backup kung mas bago
+Северная Америка,Hilagang Amerika
+Сентябрь,Setyembre
+Сепия,Sepia
+Сервер запущен,Nagsimula ang server
+Сервер предлагает выполнить обновление DBI\n\nНажите (+) для согласия\nЛюбую другую кнопку для отмены,Nag-aalok ang server na mag-update ng DBI\n\nPindutin ang (+) para kumpirmahin\nIbang button para kanselahin
+Сессии,Mga Sesyon
+Сессия закрыта,Isinara ang sesyon
+Сессия открыта,Binuksan ang sesyon
+Синхронизация времени по NTP,Pag-sync ng oras sa NTP
+Системные приложения,Mga system application
+Системный по умолчанию,Default ng system
+Сканирование директорий...,Ini-scan ang mga directory...
+Сканирование игр...,Ini-scan ang mga laro...
+Скачано {}/{},Na-download {}/{}
+Скачивание файла не удалось,Nabigo ang pag-download ng file
+Скорость передачи: {:.2f} МБ/сек,Bilis ng paglipat: {:.2f} MB/sec
+Собираются сведения...,Kumukuha ng impormasyon...
+Соединение сброшено,Na-reset ang koneksyon
+Создание DLC анлокера,Gumagawa ng DLC unlocker
+Создание NSP,Gumagawa ng NSP
+Создание sdmc:/versions.txt,Gumagawa ng sdmc:/versions.txt
+Создание дампа ({}),Gumagawa ng dump ({})
+Создание дампа: {},Gumagawa ng dump: {}
+Создание единого репака,Gumagawa ng pinag-isang repack
+Создание записи об игре...,Gumagawa ng rekord ng laro...
+Создание новой записи об игре...,Gumagawa ng bagong entry ng laro...
+Создание плейсхолдера: {}...,Gumagawa ng placeholder: {}...
+"Создание репака Id: {:016X}, Версия: {}, Тип: {}","Gumagawa ng repack Id: {:016X}, Bersyon: {}, Uri: {}"
+Создание строк... {}%,Gumagawa ng mga string... {}%
+Создание таблицы имён,Gumagawa ng talahanayan ng pangalan
+Создание тела файла,Gumagawa ng katawan ng file
+Создание точки доступа...,Gumagawa ng access point...
+Создание хэш таблицы,Gumagawa ng hash table
+Создание ярлыка,Gumagawa ng shortcut
+Создано новое сохранение. Восстанавливаю бекап в него...,Nagawa ang bagong save. Nire-restore ang backup dito...
+Создать sdmc:/versions.txt,Gumawa ng sdmc:/versions.txt
+Создать единый репак,Gumawa ng solong repack
+Создать новое сохранение...,Gumawa ng bagong save...
+Создать новый каталог...,Gumawa ng bagong directory...
+Создать новый файл...,Gumawa ng bagong file...
+Создать ярлык,Gumawa ng shortcut
+Создать ярлык для hbmenu,Gumawa ng shortcut para sa hbmenu
+Создать ярлык на рабочий стол для DBI...,Gumawa ng desktop shortcut para sa DBI...
+Создать ярлык с аргументами...,Gumawa ng shortcut na may mga argumento...
+Создаётся обновлённая запись об игре...,Gumagawa ng na-update na rekord ng laro...
+Сохранение для {} уже существует,Mayroon nang save data para sa {}
+Сохранения,Save Data
+Сохранения будут удалены!,Mabubura ang save data!
+Сохранения удалённых игр ({}),Mga save ng naburang laro ({})
+Сохранения установленных игр ({}),Mga save ng naka-install na laro ({})
+Сохранёные в системе параметры котроллера батареи,Nai-save sa system ang mga parameter ng battery controller
+Существующая запись об игре не найдена,Hindi makita ang umiiral na rekord ng laro
+Существующее сохранение не найдено и новое не может быть создано,Hindi makita ang umiiral na save at hindi makagawa ng bago
+SDK {} уже был экспортирован: {},Na-export na ang SDK {}: {}
+Тайтл не установлен,Hindi naka-install ang title
+Тайтл установлен,Naka-install ang title
+Тайтлы с ошибками:,Mga title na may error:
+Текущее время: {},Kasalukuyang oras: {}
+SDK на подмену не найдены,Walang nahanap na SDK para sa pagpapalit
+Тема,Tema
+Тикет исправлен,Naayos ang ticket
+Тикеты,Mga Ticket
+Тикеты не найдены,Walang nahanap na ticket
+864,864
+881,881
+"больше шансов, что оно заработает». Их",magiging maayos lahat sa huli.' Ang taktika nila
+быстро проникли в планы шадоков и,"mga kapitbahay, na pinatalino ng internet,"
+"всякий раз, когда растение расцветает","mga bodega ng gamit, pinaligiran siya, at"
+"выражениях: «Чем больше неудач, тем","pagkatalo, mas malaki ang tsansang maging"
+"вычислили, что у них есть по крайней",tsamba sa isang milyon kung saan lahat ay
+заработает… И они торопятся поскорее,"iyong unang 999,999 na nakamamatay na palpak"
+"и дает транзистор, они мчатся, чтобы","ngayon tuwing makakakita siya ng chip, ay"
+"и не кончилось успехом». Или, в других",O sa madaling sabi: 'Mas malaki ang
+"мере один шанс из миллиона, что она",sa wakas ay gumagana... kaya nagmamadali silang gawin
+миллионная заработает».,"I. I. Bolero, Mga Ritmo ng Pambihira"
+"ничего, что бы непрерывно продолжалось",pansamantalang paunang bayad para sa luwalhati.'
+"но окружили его со всех сторон, и",ang bisita ay gumapang sa isa sa kanilang
+"опытов, чтобы быть уверенными, что", 
+осуществить 999999 первых неудачных,upang sumunod ang tagumpay.»
+"очень умные благодаря своим шляпам,",mga kapitbahay para kumuha ng piyesa. Ang
+"планету гиби искать транзисторы. Гиби,",ay ipinadala mula sa latian diretso sa
+постоянно кончаясь неудачами.,masunuring nagbubunga ng negatibong paglago.
+принципов шадокской логики: «Нет,'Walang sakunang hindi lamang isang
+"ракета еще несовершенна, но они","mabalaho, ngunit mahigpit silang kumakapit sa"
+"растений, произрастающих на огородах.",sinabing kunin ang mga chip direkta mula sa
+решили позабавиться. Они позволили,agad na nakita ang tusong plano
+собрать урожай прежде шадока.,binabawi ito agad.
+"терпят неудачу потому, что не хватает",bumabagsak ang mga misil dahil kulang sa
+транзисторов в системах безопасности.,microchip—kapwa sa sistema ng gabay at
+"шадоку забраться в один из их огородов,",at nagpasyang magpakasaya. Hinayaan nila
+«У шадоков ситуация удовлетворительна.,"«Para sa mga orc, ayon sa plano ang lahat:"
+"Испытания ракет продолжаются,","nagpapatuloy ang proseso ng pagpapawalang-bisa,"
+Но у гиби транзисторы собирают с,"mga inidoro. Samantala, ang mga kapitbahay ay"
+Решено послать одного из шадоков на,kanilang mga gamit sa hardin. Kaya isang boluntaryo
+original,orihinal
+"SSID: {}, Пароль: {}","SSID: {}, Password: {}"
+Тип оборудования        : {},Uri ng kagamitan  : {}
+TempC0               : {:04x},TempC0                  : {:04x}
+Уровень заряда батареи         : {},Antas ng karga ng baterya  : {}
+URL для проверки обновлений,URL para sa pagsuri ng update
+Установка с картриджа,I-install mula sa cartridge
+Установка через DBIbackend,I-install gamit ang DBIbackend
+Форсировать UTF-8,Sapilitang UTF-8
+Хэш версии              : {},Hash ng bersyon  : {}
+Читать дату файлов,Basahin ang petsa ng file
+Экзосфера очищает CAL0      : {},Nililinis ng Exosphere ang CAL0 : {}
+Экран                 : ({:08X}) {},Screen                   : ({:08X}) {}
+Язык                    : {},Wika              : {}
+"Интервал автобекапа сейвов, дни","Agwat ng auto-backup ng save, araw"
+Конфигурация зарядки            : {},Konfigurasyon ng pag-charge  : {}
+Режим Hi-Z включён              : {},Naka-enable ang Hi-Z mode    : {}
+Зарядка батареи включена        : {},Naka-enable ang pag-charge   : {}
+Маршрут электропитания          : {},Ruta ng suplay ng kuryente   : {}
+Напряжение источника            : {} mV,Boltahe ng pinagmulan        : {} mV
+Ток источника                   : {} mA,Kuryente ng pinagmulan       : {} mA
+Быстрая зарядка разрешена       : {},Pinapayagan ang fast charge  : {}
+Целевая прошивка            : {}.{}.{},Target na firmware    : {}.{}.{}
+Поддерживаемая версия HOS   : {},Suportadong HOS vers. : {}
+Предел входного тока (буст)     : {} mA,Limit ng input current (boost): {} mA
+Предел тока быстрой зарядки     : {} mA,Limit ng fast charge current : {} mA
+Напряжение батареи              : {} mV,Boltahe ng baterya           : {} mV
+Контроллер источника получен    : {},Nakuha ang source controller : {}
+OTG Запрошен                    : {},Hiniling ang OTG             : {}
+Производитель    : {:s} ({:02X}),Tagagawa           : {:s} ({:02X})
+OEM ID           : {:s} ({:s}),OEM ID             : {:s} ({:s})
+Имя продукта     : {:s},Pangalan ng prod.  : {:s}
+Ревизия продукта : {:s},Rebisyon ng prod.  : {:s}
+Серийный номер   : {:s},Serial number      : {:s}
+Ёмкость с завода   : {} mAh,Kapasidad sa pabrika: {} mAh
+Автоповтор кнопок при удержании,Auto-repeat ng button kapag nakadiin
+Версия атмосферы            : {}.{}.{},Bersyon ng Atmosphere : {}.{}.{}
+Версия прошивки         : {}.{}.{}-{}.{},Bersyon ng firmware: {}.{}.{}-{}.{}
+Возраст батареи                : {}%,Edad ng baterya            : {}%
+Время гашения экрана в секундах,Oras ng pagdilim ng screen sa segundo
+Выключать экран,Patayin ang screen
+Выход на рабочий стол,Lumabas sa Home
+Дата первого игрового события : {},Unang petsa ng paglalaro      : {}
+Добавлять суффикс к имени файла,Magdagdag ng suffix sa filename
+Достаточное питание            : {},Sapat ang kuryente         : {}
+Есть исправление RCM бага   : {},May ayos sa RCM bug   : {}
+Журналирование действий,Pagtatala ng aksyon
+Закладки на SD,Mga Bookmark sa SD
+Запись в CAL0 разрешена     : {},Pinapayagan ang pagsulat CAL0: {}
+Запускать точку доступа,Simulan ang access point
+Запустить FTP сервер,Simulan ang FTP server
+Запустить HTTP сервер,Simulan ang HTTP server
+Заряд батареи                  : {}%,Karga ng baterya           : {}%
+Заряд батареи (сырое значение) : {}%,Karga ng baterya (raw)     : {}%
+Зарядка батареи                : {},Karga ng baterya           : {}
+Инструменты,Mga Kagamitan
+Использовать 5 GHz,Gamitin ang 5 GHz
+Использовать MSG_WAITALL в recv,Gamitin ang MSG_WAITALL sa recv
+Использовать для неё TitleID,Gamitin ang TitleID para dito
+Использовать разгон,Gamitin ang overclocking
+Использовать скрытый SSID,Gumamit ng nakatagong SSID
+Источник питания                : {},Pinagmulan ng kuryente       : {}
+Курсор на обеих панелях,Cursor sa parehong panel
+%% заряд-разряд    : {},%% charge-discharge : {}
+Никнейм консоли         : {},Palayaw ng console: {}
+Общее число игровых сессий    : {},Kabuuang bilang ng sesyon     : {}
+Bluetooth MAC адрес   : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Bluetooth MAC address    : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+CDIR в листинге,CDIR sa listahan
+Configuration Id1     : {},Configuration Id1        : {}
+DeviceId                : {0:} ({0:016X}),DeviceId          : {0:} ({0:016X})
+Папка для бекапа сохранений,Folder ng save data backup
+Папка для дампа игр,Folder ng game dump
+Папка журналов,Folder ng log
+DramId                  : {} ({}),DramId            : {} ({})
+Пароль,Password
+Перевернуть джойконы,Baligtarin ang mga Joy-Con
+Перевернуть экран,Iikot ang screen
+Emummc включён              : {},Naka-enable ang Emummc: {}
+Переносить слова,I-wrap ang mga salita
+Платформа               : {},Platform          : {}
+FullCap              : {:04x} ({} mAh),FullCap                 : {:04x} ({} mAh)
+Подсвечивать файлы обновлений,I-highlight ang mga update file
+FullCapNom           : {:04x} ({} mAh),FullCapNom              : {:04x} ({} mAh)
+Показываемая версия     : {},Ipinapakitang bers: {}
+Показываемое название   : {},Pangalan sa screen: {}
+Показывать 'Обновить отсюда',Ipakita ang 'I-update mula rito'
+Показывать объединённый NSP,Ipakita ang pinagsamang NSP
+Показывать папку 'Mods&Cheats',Ipakita ang 'Mods&Cheats' folder
+Показывать прогрев кеша,Ipakita ang cache warming
+Показывать размер LFS (долго),Ipakita ang laki ng LFS (mabagal)
+Показывать секунды,Ipakita ang mga segundo
+Показывать часы в статусе,Ipakita ang orasan sa status
+Поколение ключа             : {},Henerasyon ng key     : {}
+Git commit hash             : {:016X},Git commit hash       : {:016X}
+Полная ёмкость     : {} mAh,Buong kapasidad     : {} mAh
+IavgEmpty            : {:04x},IavgEmpty               : {:04x}
+Пользовательские хранилища,Mga storage ng user
+Предел входного тока            : {} mA,Limit ng input current       : {} mA
+Предназначение          : {},Layunin           : {}
+Проверять хэш при установке,I-verify ang hash sa pag-install
+Просмотр SD карты,I-browse ang SD card
+Просмотр USB носителей,I-browse ang mga USB drive
+Просмотр раздела SYSTEM,I-browse ang SYSTEM partition
+Просмотр раздела USER,I-browse ang USER partition
+Просмотр сети,I-browse ang network
+Просмотр сохранений,Tingnan ang mga save
+Просмотр тикетов,Tingnan ang mga ticket
+Просмотр установленных игр,Tingnan ang mga naka-install na laro
+Регион                  : {},Rehiyon           : {}
+Режим HiZ зарядки       : {},HiZ charging mode : {}
+Режим киоска            : {},Kiosk mode        : {}
+Родительский PIN        : {},Parental PIN      : {}
+Серийный # прочитанный  : {},Nabasang Serial # : {}
+Серийный # угаданный    : {},Nahulang Serial # : {}
+Серийный номер        : {},Serial number            : {}
+Силовая роль                    : {},Tungkulin sa kuryente        : {}
+QrTable00            : {:04x},QrTable00               : {:04x}
+Смещать курсор после выделения,Ilipat ang cursor pagkatapos pumili
+QrTable10            : {:04x},QrTable10               : {:04x}
+Сожжено предохранителей : {},Mga nasunog na fuse: {}
+Создавать LFS папку,Gumawa ng LFS folder
+QrTable20            : {:04x},QrTable20               : {:04x}
+QrTable30            : {:04x},QrTable30               : {:04x}
+RCOMP0               : {:04x},RCOMP0                  : {:04x}
+Сохранения только в RO режиме,Mga save sa RO mode lang
+RTC запущены (приблизительно) : {},Nagsimula ang RTC (humigit)   : {}
+Текущая ёмкость                 : {}%,Kasalukuyang kapasidad       : {}%
+Текущая ёмкость    : {} mAh,Kasalukuyang kap.   : {} mAh
+Текущее напряжение : {} mV,Kasalukuyang boltahe: {} mV
+Текущий заряд      : {}%,Kasalukuyang karga  : {}%
+Текущий ток        : {} mA,Kasalukuyang konsumo: {} mA
+Тема отображения,Tema ng display
+Температура        : {}°C,Temperatura         : {}°C
+Температура батареи             : {}°C,Temperatura ng baterya       : {}°C
+Тип SoC                 : {},Uri ng SoC        : {}
+Тип источника питания          : {},Uri ng pinagmulan ng kury. : {}
+Wireless LAN MAC адрес: {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Wireless LAN MAC address : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+Форсировано вклчение USB 3.0: {},Sapilitang naka-on USB 3.0 : {}
+Возраст батареи                 : {}%,Edad ng baterya              : {}%
+Предел напряжения заряда батареи: {} mV,Limit ng boltahe ng pag-charge: {} mV
+Средняя температура: {}°C,Katamtamang temp.   : {}°C
+Сумма %% заряд-разряд: {} (~{} 0-100 циклов),Kabuuan %% charge-discharge : {} (~{} 0-100 cycle)
+"          Париж, издательство Грассе.", 
+      Название: {}\n      Издатель: {}\n      Версия: ,      Pangalan: {}\n      Tagapaglathala: {}\n      Bersyon: 
+Удаление игры ,Binubura ang laro 
+Удаляется бекап ,Binubura ang backup 
+Удалять после установки: ,Burahin pagkatapos install:
+  Автоопределение,  Auto-detection
+Шифрование секции ,Pag-encrypt ng seksyon 
+Ярлык   : ,Shortcut   : 
+ {} минут, {} minuto
+Язык    : ,Wika    : 
+Путь    : ,Path    : 
+  Жак Руксель. Великолепие навыворот.,Bunker State Press «Salamin-Tinginan»
+  Кодировка...,  Ine-encode...
+  Применить,  Ilapat
+  Редактирование,  Ine-edit
+ (по времени игры), (ayon sa oras ng laro)
+ (по названию игры), (ayon sa pamagat ng laro)
+ (по числу запусков), (ayon sa bilang ng paglunsad)
+     {:<10} Шифрование: {} Размер установки: {}{:>10},     {:<10} Pag-encrypt: {} Laki ng install: {}{:>10}
+ [НЕ МОГУ ОТКРЫТЬ ФАЙЛ], [HINDI MABUKSAN ANG FILE]
+Автозапуск FTP: ,FTP Autostart: 
+Автор   : ,May-akda: 
+ {:>5} часа, {:>5} oras
+Базовое хранилище: ,Base storage: 
+ {:>5} часов, {:>5} oras
+ВНИМАНИЕ ,BABALA 
+ВНИМАНИЕ! ,BABALA! 
+ {} в чёрном списке., {} sa blacklist.
+Версия  : ,Bersyon : 
+Внимание! ,Babala! 
+ {} минута, {} minuto
+ {} минуты, {} minuto
+Всего освобождено места : ,Kabuuang espasyong nalinis: 
+    {:>2} сек,    {:>2} seg
+ Закрытие игры, Isinasara ang laro
+Выйти из DBI           : ,Lumabas sa DBI          :
+Выключить экран        : ,Patayin ang screen      :
+ Запуск игры, Ilunsad ang laro
+ Логаут пользователя \x1b[36;1m{}\x1b[37;1m, Nilolog-out ang user \x1b[36;1m{}\x1b[37;1m
+ Логин пользователя \x1b[36;1m{}\x1b[37;1m, Pangalan ng user \x1b[36;1m{}\x1b[37;1m
+ Переключение на игру, Lumilipat sa laro
+Загружено ,Na-load 
+ Режим работы изменился: {}, Nagbago ang operating mode: {}
+ Сброс системных часов, I-reset ang orasan ng system
+ Сворачивание игры, I-minimize ang laro
+Запрос на удаление ,Hiling na pagbura 
+ Состояние электропитания изменилось: {}, Nagbago ang estado ng kuryente: {}
+" и {} новое DLC,"," at {} bagong DLC,"
+"    Великий колдун сказал, что ракеты",Ipinahayag ng kanilang punong strategist na
+" и {} новых DLC,"," at {} bagong DLC,"
+Имя     : ,Pangalan: 
+ сортировка по дате создания, ayusin ayon sa petsa ng paggawa
+ сортировка по имени, ayusin ayon sa pangalan
+ сортировка по имени игры, ayusin ayon sa pangalan ng laro
+Используется ,Nagamit 
+ сортировка по месту установки, ayusin ayon sa lokasyon ng install
+Конвертация в фейковые ,Ginagawang peke 
+ сортировка по общему размеру, ayusin ayon sa kabuuang laki
+ сортировка по пользователю, ayusin ayon sa user
+ сортировка по порядку игры, ayusin ayon sa ayos ng laro
+Место установки        : ,Lokasyon ng pag-install :
+ сортировка по размеру, ayusin ayon sa laki
+Название: ,Pangalan: 
+    Дело здесь в одном из основных,Ang sikreto ay nasa malalim nilang lohika:
+Начало установки. Место установки: ,Nagsimula ang pag-install. Lokasyon ng pag-install: 
+Невозможно создать выходной zip-файл: ,Hindi makagawa ng output zip file: 
+Неиспользуемый тикет: ,Hindi nagamit na ticket: 
+   {:>3} мин,   {:>3} min
+Общий размер передачи  : ,Kabuuang laki ng paglipat:
+Общий размер установки : ,Kabuuang laki ng install :
+Ожидается ,Inaasahan 
+Ожидание включения интерфейса: ,Hinihintay bumangon ang interface: 
+Освобождено места в NAND: ,Espasyong nalinis sa NAND: 
+Освобождено места на SD : ,Espasyong nalinis sa SD : 
+   Получение списка бекапов...   ,   Kinukuha ang listahan ng backup...   
+DPAD/Стики - Навигация по страницам\n\n     ZR+ZL - Переход к странице... \n\n       L/R - Навигация по главам   \n\n       (-) - Эта подсказка         \n\n       (+) - Меню                  ,DPAD/Sticks - Pag-navigate sa pahina\n\n     ZR+ZL - Tumalon sa pahina... \n\n       L/R - Pag-navigate sa kabanata   \n\n       (-) - Pahiwatig na ito         \n\n       (+) - Menu                  
+Ошибка чтения регистров max17050: ,Error sa pagbasa ng mga max17050 register: 
+Ошибка чтения сохранённых параметров контроллера: ,Error sa pagbasa ng mga nai-save na parameter ng controller: 
+   Получение списка бекапов...{}/{}    ,   Kinukuha ang listahan ng backup...{}/{}    
+Предупреждения: ,Mga Babala: 
+"LFS мод.: Присутствует, Размер: ","LFS mod.: Meron, Laki: "
+Пропускаем файл до начала secure раздела ,Nilalaktawan ang file hanggang sa simula ng secure section 
+Размер  : ,Laki  : 
+Сброс требуемой версии к ,I-reset ang kinakailangang bersyon sa 
+   Получение списка сохранений...   ,   Kinukuha ang listahan ng save...   
+Скорость USB интерфейса: ,Bilis ng USB interface: 
+Создан zip-файл: ,Nagawa ang zip file: 
+Создание бекапа сохранения ,Gumagawa ng save backup 
+Создание каталога: ,Gumagawa ng directory: 
+Создание объекта: ,Gumagawa ng bagay: 
+Создание фейковой записи... ,Gumagawa ng pekeng entry... 
+Создаётся MTP хранилище: ,Gumagawa ng MTP storage: 
+Статистика игры ,Estadistika ng laro 
+Строка поиска: ,Hinahanap na string: 
+Не проверять место     : ,Huwag suriin ang espasyo:
+Проверять хеш-сумму NCA: ,I-verify ang NCA hash   :
+Патчить имена (HOS 21+): ,I-patch ang pangalan (HOS 21+):
+Занулять мастерключ    : ,I-reset ang masterkey   :
+Патчить запись видео   : ,I-patch ang video capture:
+Патчить скриншоты      : ,I-patch ang screenshots :
+Игра использует SDK {},Gumagamit ang laro ng SDK {}
+Удалить старые обновления игр,Burahin ang mga lumang update ng laro
+Удалить потерянный контент с SD,Burahin ang naulilang nilalaman sa SD
+Удалить потерянный контент из NAND,Burahin ang naulilang nilalaman sa NAND
+Удалить плейсхолдеры с SD,Burahin ang mga placeholder sa SD
+Удалить плейсхолдеры из NAND,Burahin ang mga placeholder sa NAND
+Удалить неиспользуемые тикеты,Burahin ang mga hindi nagamit na ticket
+Починить тикеты с ошибками дампа,Ayusin ang mga ticket na may dump error
+Удалить скачанное обновление системы,Burahin ang na-download na system update
+Очистить папку erpt_reports,Linisin ang erpt_reports folder
+Очистить кеш тикетов,Linisin ang ticket cache
+Очистить /atmosphere/contents,Linisin ang /atmosphere/contents
+Удалить сохранения удалённых пользователей,Burahin ang mga save ng naburang user
+Дата производства: {:s},Petsa ng paggawa   : {:s}
+Ник: {},Palayaw: {}
+Установить обновления из текущей папки,I-install ang mga update mula sa kasalukuyang folder
+Патчить требование NNID: ,I-patch ang NNID req.   :
+Выполнить выбранные действия,Isagawa ang mga napiling aksyon
+CID: {:s},CID                : {:s}
+TitleId : {} BID: {},TitleId : {} BID: {}
+"Meta SDK: {},  Program SDK: {}","Meta SDK: {},  Program SDK: {}"
+"Внимание!!! Включение следующих опций приведет к тому,",Babala!!! Ang pag-enable sa mga sumusunod na opsyon ay magdudulot
+что установленные NCA файлы будут отличаться от исходных:,na maiba ang mga naka-install na NCA file mula sa mga orihinal:
+Включение синхронизации времени по сети...,Ino-on ang network time synchronization…
+ Да ,Oo 
+Нет , Hindi 
+Это действие будет нельзя отменить,Hindi na mababawi ang aksyong ito
+Да,Oo
+Произошла ошибка: ,May naganap na error: 
+В файле /switch/prod.keys отсутствуют необходимые ключи.,Kulang ng mga kinakailangang key ang file na /switch/prod.keys.
+Часть функций программы будет недоступна.,Hindi magagamit ang ilang function ng program.
+Перегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад,Mag-reboot sa Hekate at gamitin ang Lockpick_RCM.bin payload
+для дампа ключей из SysNAND.,para i-dump ang mga key mula sa SysNAND.
+Проверять хэш при установке    : ,I-verify ang hash sa install: 
+Просмотр раздела USER          : ,I-browse ang USER partition     : 
+Тема отображения               : ,Tema ng display              : 
+Температура    : {}$°$C,Temperatura         : {}°C
+Температура     : {}$°$C,Temperatura         : {}°C
+Температура      : {}$°$C,Temperatura         : {}°C
+Температура       : {}$°$C,Temperatura         : {}°C
+Температура        : {}$°$C,Temperatura         : {}°C
+Температура         : {}$°$C,Temperatura         : {}°C
+Температура          : {}$°$C,Temperatura         : {}°C
+Температура           : {}$°$C,Temperatura         : {}°C
+Температура            : {}$°$C,Temperatura         : {}°C
+Температура             : {}$°$C,Temperatura         : {}°C
+Температура              : {}$°$C,Temperatura         : {}°C
+Срепняя температура: {}$°$C,Katamtamang temp.   : {}°C
+Средняя температура: {}$°$C,Katamtamang temp.   : {}°C
+Температура батареи        : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи         : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи          : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи           : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи            : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи             : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи              : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи               : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи                : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи                 : {}$°$C,Temperatura ng baterya       : {}°C
+Температура батареи                  : {}$°$C,Temperatura ng baterya       : {}°C
+Температура    : {}°C,Temperatura         : {}°C
+Температура     : {}°C,Temperatura         : {}°C
+Температура      : {}°C,Temperatura         : {}°C
+Температура       : {}°C,Temperatura         : {}°C
+Температура         : {}°C,Temperatura         : {}°C
+Температура          : {}°C,Temperatura         : {}°C
+Температура           : {}°C,Temperatura         : {}°C
+Температура            : {}°C,Temperatura         : {}°C
+Температура             : {}°C,Temperatura         : {}°C
+Температура              : {}°C,Temperatura         : {}°C
+Температура батареи        : {}°C,Temperatura ng baterya       : {}°C
+Температура батареи         : {}°C,Temperatura ng baterya       : {}°C
+Температура батареи          : {}°C,Temperatura ng baterya       : {}°C
+Температура батареи           : {}°C,Temperatura ng baterya       : {}°C
+Температура батареи            : {}°C,Temperatura ng baterya       : {}°C
+Температура батареи              : {}°C,Temperatura ng baterya       : {}°C
+Температура батареи               : {}°C,Temperatura ng baterya       : {}°C
+Температура батареи                : {}°C,Temperatura ng baterya       : {}°C
+Температура батареи                 : {}°C,Temperatura ng baterya       : {}°C
+Температура батареи                  : {}°C,Temperatura ng baterya       : {}°C
+Срепняя температура: {}°C,Katamtamang temp.   : {}°C
+ Новый DLC , Bagong DLC 
+Записано: ,Naisulat: 
+Игра использует мастер-ключ ,Gumagamit ang laro ng master key 
+Android extensions: ,Mga extension ng Android: 
+ в чёрном списке., sa black list.
+МБ/сек),MB/s)
+[32;1mУстановка игры завершена\x1b[37;1m,\x1b[32;1mTapos na ang pag-install ng laro\x1b[37;1m
+[32;1mТикет исправлен\x1b[37;1m,\x1b[32;1mNaayos ang ticket\x1b[37;1m
+[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,[32;1m[OK ANG PAGLIPAT]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m
+\x1b[31;1m[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,\x1b[31;1m[NAPUTOL ANG PAGLIPAT]\x1b[37;1m
+[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PIRMA: Peke]\x1b[37;1m
+[ПОДПИСЬ: OK]\x1b[37;1m,[PIRMA: OK]\x1b[37;1m
+[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[32;1m[PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK],[OK ANG PAGLIPAT] [PIRMA: OK]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная],[OK ANG PAGLIPAT] [PIRMA: Peke]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP],[OK ANG PAGLIPAT] [PIRMA: XCI➡NSP]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI],[OK ANG PAGLIPAT] [PIRMA: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK],[OK ANG PAGLIPAT][PIRMA: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная],[OK ANG PAGLIPAT][PIRMA: Peke]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP],[OK ANG PAGLIPAT][PIRMA: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI],[OK ANG PAGLIPAT][PIRMA: DBI]
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT] \x1b[32;1m[PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT] \x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT] \x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT] \x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m \x1b[32;1m[PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m \x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m \x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m \x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m\x1b[32;1m[PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m\x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m\x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m\x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PIRMA: OK]\x1b[37;1m
+\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+[ПОДПИСЬ: DBI]\x1b[37;1m,[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[32;1m[PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]  \x1b[32;1m[PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m \x1b[32;1m[PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[32;1m[PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m\x1b[32;1m[PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT] \x1b[32;1m[PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT]  \x1b[32;1m[PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[32;1m[PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m [PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m  [PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m[PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT] [PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]  [PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT][PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m [PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m  [PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m[PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT] [PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT]  [PIRMA: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK],[OK ANG PAGLIPAT]  [PIRMA: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,[OK ANG PAGLIPAT][PIRMA: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]  \x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m \x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m\x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT] \x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT]  \x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[38;2;255;128;0m[PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m [PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m  [PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m[PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT] [PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]  [PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT][PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m [PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m  [PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m[PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT] [PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT]  [PIRMA: Peke]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная],[OK ANG PAGLIPAT]  [PIRMA: Peke]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,[OK ANG PAGLIPAT][PIRMA: Peke]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]  \x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m \x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m\x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT] \x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT]  \x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[32;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m [PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m  [PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT] [PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]  [PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT][PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m [PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m  [PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m[PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT] [PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT]  [PIRMA: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP],[OK ANG PAGLIPAT]  [PIRMA: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[OK ANG PAGLIPAT][PIRMA: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m \x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m\x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT] \x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]  \x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m \x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m\x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT] \x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]  \x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]  \x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m \x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m  \x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m\x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT] \x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]  \x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[32;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m [PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m  [PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]\x1b[37;1m[PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT] [PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT]  [PIRMA: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[OK ANG PAGLIPAT][PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m [PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m  [PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m[PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT] [PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT]  [PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI],[OK ANG PAGLIPAT]  [PIRMA: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,[OK ANG PAGLIPAT][PIRMA: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m,[OK ANG PAGLIPAT]\x1b[37;1m
+[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,[NAPUTOL ANG PAGLIPAT]\x1b[37;1m
+\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[33;1m[PIRMA: DBI]\x1b[37;1m
+"\x1b[1m{} R: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} R: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1mavg {:>4.1f} (cur {:>5.2f})\x1b[37;1m MB/sec, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mseg\x1b[1m"
+"\x1b[22m{} R: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m МБ,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m\x1b[22m МБ/сек, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22mсек\x1b[1m","\x1b[22m{} R: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m MB,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22mavg {:>4.1f} (cur {:>5.2f})\x1b[37;1m\x1b[22m MB/sec, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22mseg\x1b[1m"
+"\x1b[1m{} W: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} W: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1mavg {:>4.1f} (cur {:>5.2f})\x1b[37;1m MB/sec, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mseg\x1b[1m"
+Тема...,Tema...
+"2ая панель, (+) меню, L3 имя","Ika-2 panel, (+) Menu, L3 Pangalan"
+Общее время игры      : {},Kabuuang oras ng laro : {}
+Общее время игры      : {} ({}),Kabuuang oras ng laro : {} ({})
+Адресное пространство,Address space
+Поиск старых плейсхолдеров на SD,Naghahanap ng mga lumang placeholder sa SD
+Поиск старых плейсхолдеров в NAND,Naghahanap ng mga lumang placeholder sa NAND
+\x1b[31;1mТайтл не установлен\x1b[37;1m,\x1b[31;1mHindi naka-install ang title\x1b[37;1m
+\x1b[31;1mТайтл не установлен,\x1b[31;1mHindi naka-install ang title
+Общее время игры      : - ({}),Kabuuang oras ng laro : - ({})
+              Общее время игры      : -,              Kabuuang oras ng laro : -
+              Начало игры           : -,              Simula ng laro        : -
+              Конец игры            : -,              Tapos ng laro         : -
+[ОШИБКА]\x1b[37;1m,[ERROR]\x1b[37;1m
+\x1b[31;1m[ОШИБКА]\x1b[37;1m,\x1b[31;1m[ERROR]\x1b[37;1m
+\x1b[31;1m[ОШИБКА],\x1b[31;1m[ERROR]
+Настроки создания ярлыков,Mga setting ng forwarder
+Использовать 4 ядра CPU,Gamitin lahat ng 4 CPU core
+Захват видео,Pagkuha ng video
+Скриншоты,Mga Screenshot
+Запуск игры,Ilunsad ang laro
+Закрытие игры,Isinasara ang laro
+Сворачивание игры,I-minimize ang laro
+Переключение на игру,Lumilipat sa laro
+Добавить в исключения SaltyNX,Idagdag sa mga pagbubukod ng SaltyNX
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню, L3 имя","X piliin, Y baligtarin napili, A buksan, (-) ika-2 panel, (+) menu, L3 Pangalan"
+\x1b[32;1mТайтл установлен\x1b[37;1m,\x1b[32;1mNaka-install ang title\x1b[37;1m
+\x1b[32;1mТайтл установлен,\x1b[32;1mNaka-install ang title
+Патчить версию в meta  : ,I-patch ang bersyon sa meta:

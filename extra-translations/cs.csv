@@ -1,0 +1,1467 @@
+original,translation
+"X - выбор, Y - инверсия выбора, (+) - меню","X - Vybrat, Y - Invertovat výběr, (+) - Menu"
+"X - выбор, Y - инверсия выбора, (+) - меню, L3 - запуск","X - Vybrat, Y - Invertovat výběr, (+) - Menu, L3 - Spustit"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка","X - Vybrat, Y - Invertovat výběr, (+) - Menu, R3 - Seřadit"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка, L3 - запуск","X - Vybrat, Y - Invertovat výběr, (+) - Menu, R3 - Seřadit, L3 - Spustit"
+"X - выбор, Y - инвертирование выбора, A - открыть, (-) - 2ая панель","X - Vybrat, Y - Invertovat výběr, A - Otevřít, (-) - 2. panel"
+"X - выбор, Y - инвертирование выбора, ⬅/➡ - смена панели, (-) - закрыть","X - Vybrat, Y - Invertovat výběr, ⬅/➡ - Změnit panel, (-) - Zavřít"
+"ZL/ZR - смена даты, Y - период, X - сортировка, (+) - выбрать пользователя","ZL/ZR - Změnit datum, Y - Období, X - Seřadit, (+) - Vybrat uživatele"
+. Время игры \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,. Doba hraní \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+Невозможно смонтировать системный раздел,Nelze připojit systémový oddíl
+"DPAD или стики для перемещения, (+) - Настройки","DPAD nebo páčky pro pohyb, (+) - Nastavení"
+Ошибка создания файла: {},Chyba při vytváření souboru: {}
+Подключение к серверу...,Připojování k serveru...
+   Это действие будет нельзя отменить   ,   Tuto akci nelze vrátit zpět   
+SDK подменён,SDK nahrazeno
+Точка доступа,Přístupový bod
+Традиционный китайский,Tradiční čínština
+Транзисторов:      {:>3},Tranzistory:      {:>3}
+Требуется вручную разрешить синхронизацию времени через Интернет в настройках,Je nutné ručně zapnout synchronizaci času přes internet v nastavení
+Тёмная комната,Tmavá místnost
+Убрать из любимых,Odebrat z oblíbených
+Увеличить размер (в МБ),Zvětšit velikost (v MB)
+"Уверены, что хотите продолжить?",Opravdu chcete pokračovat?
+Удаление Wi-Fi профиля,Mazání Wi-Fi profilu
+Удаление Wi-Fi профиля...,Mazání Wi-Fi profilu...
+Удаление {} бекапа,Mazání {} zálohy
+Удаление {} бекапов,Mazání {} záloh
+Удаление {} сохранений,Mazání {} uložení
+Удаление {} сохранения,Mazání {} uložení
+Удаление бекапов,Mazání záloh
+Удаление записи об игре...,Mazání záznamu hry...
+Удаление игр,Mazání her
+Удаление игры целиком: [{}],Smazat celou hru: [{}]
+Удаление каталога LFS,Mazání složky LFS
+Удаление контента,Mazání obsahu
+Удаление настроек родительского контроля...,Mazání nastavení rodičovské kontroly...
+Удаление не удалось.\n\nНажмите любую кнопку для продолжения,Smazání selhalo.\n\nStiskněte libovolné tlačítko pro pokračování
+Удаление неиспользуемого {}...,Mazání nepoužitého {}...
+Удаление плейсхолдера...,Mazání placeholderu...
+Удаление пользователя,Mazání uživatele
+Удаление пользователя...,Mazání uživatele...
+Удаление ранее установленных файлов...,Mazání dříve nainstalovaných souborů...
+Удаление родительского контроля,Mazání rodičovské kontroly
+SaveFS очищена,SaveFS vymazán
+Удаление связи с Nintendo account...,Mazání propojení s účtem Nintendo...
+Удаление сохранений,Mazání uložení
+Удаление сохранения целиком,Mazání celého uložení
+Удаление старого     {}...,Mazání starého   {}...
+Удаление старого файла {}...,Mazání starého souboru {}...
+Удаление старой записи об игре...,Mazání starého záznamu hry...
+Удаление старой папки {}...,Mazání staré složky {}...
+Удаление тайтла: [{}],Mazání titulu: [{}]
+Удаление тикетов ({}),Mazání ticketů ({})
+Удаление...,Mazání...
+Удалить,Smazat
+Удалить LFS,Smazat LFS
+Удалить сохранения,Smazat uložení
+Удалить старые бекапы,Smazat staré zálohy
+Удаляется {} из {}...,Mazání {} z {}...
+Удаляется {}...,Mazání {}...
+Удаляется запись о контенте...,Mazání záznamu obsahu...
+Удаляется запись об игре...,Mazání záznamu hry...
+Удаляется игра и весь связанный контент,Mazání hry a veškerého souvisejícího obsahu
+Titlekey не может быть инициализирован,Nelze inicializovat titlekey
+Удаляется папка LFS...,Mazání složky LFS...
+Удаляется пустая папка,Mazání prázdné složky
+Удаляется сохранение {}...,Mazání uložení {}...
+Удаляется старая запись о контенте...,Mazání starého záznamu obsahu...
+Удаляется старый cnmt.nca...,Mazání starého cnmt.nca...
+Удаляется тикет: {}...,Mazání ticketu: {}...
+Удаляются все объекты из альбома для игры,Mazání všech položek z herního alba
+Удаляются все сохранения для игры,Mazání všech uložení pro hru
+Удаляются сохранения...,Mazání uložených dat...
+"UID: {}, Ник: {}","UID: {}, Přezdívka: {}"
+Удалённые,Smazáno
+Удачный экспорт,Úspěšný export
+Уделение старого тикета...,Mazání starého ticketu...
+Упаковка каталога в RomFS,Balení složky do RomFS
+Упрощенный китайский,Zjednodušená čínština
+Успешно разобран как PFS0 файл,Úspěšně zpracováno jako soubor PFS0
+Устанавливается {},Instalace {}
+Установить как аватар...,Nastavit jako avatar...
+Установка,Instalace
+Установка анлокера...,Instalace odemykače...
+Установка завершена,Instalace dokončena
+Установка игр (NAND),Instalovat hry (NAND)
+Установка игр (SD Card),Instalovat hry (SD karta)
+Установка игры завершена,Instalace hry dokončena
+Установка обновлений игр,Instalovat aktualizace her
+Установка прервана,Instalace přerušena
+Установка тайтлов ({}/{}),Instalace titulů ({}/{})
+USB Соединение,USB připojení
+Установка ярлыка...,Instalace zástupce...
+Установлен,Nainstalováno
+Установленные,Nainstalováno
+Установленные homebrew,Nainstalované homebrew
+Установленные homebrew ({}),Nainstalované homebrew ({})
+Установленные игры,Nainstalované hry
+Установленные тикеты,Nainstalované tickety
+Установленные тикеты ({}),Nainstalované tickety ({})
+Файл повреждён и не может быть установлен. Не найдена сигнатура HEAD,Soubor je poškozený a nelze jej nainstalovat. Signatura HEAD nenalezena
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе root,Soubor je poškozený a nelze jej nainstalovat. Signatura HFS0 v kořenovém oddílu nenalezena
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе secure,Soubor je poškozený a nelze jej nainstalovat. Signatura HFS0 v zabezpečeném oddílu nenalezena
+Файл повреждён и не может быть установлен. Не найдена сигнатура PFS0,Soubor je poškozený a nelze jej nainstalovat. Signatura PFS0 nenalezena
+Файл слишком большой для хранилища,Soubor je příliš velký pro úložiště
+Файл: {},Soubor: {}
+Фиксация ФС...,FS commit...
+Финальный размер: {},Výsledná velikost: {}
+Формирование списка...,Generování seznamu...
+Форсированный язык    : {},Vynucený jazyk : {}
+Форсированный язык    : {} ({}),Vynucený jazyk : {} ({})
+Форсировать язык,Vynutit jazyk
+Французский,Francouzština
+"Х:{}, Т:{}, РЦ:{}","H:{}, T:{}, R:{}"
+Хранилища MTP,MTP úložiště
+Хранилище только для чтения,Úložiště jen pro čtení
+Целевая запись о контенте не найдена,Cílový záznam obsahu nenalezen
+ЧАСТЬ КОНТЕНТА ОТСУТСТВУЕТ. ИГРА НЕ БУДЕТ РАБОТАТЬ,ČÁST OBSAHU CHYBÍ. HRA NEBUDE FUNGOVAT
+Число транзисторов: {:>3},Počet tranzistorů: {:>3}
+Число уникальных сыграных игр : {},Počet různých hraných her : {}
+Число ходов:        {:>3},Počet tahů:             {:>3}
+Чтение каталога...,Čtení složky...
+Чтение списка файлов...,Čtení seznamu souborů...
+Что-то плохое грядёт,Blíží se něco zlého
+Что-то пошло не так. Пропускаем оставшийся файл,Něco se pokazilo. Přeskakuji zbytek souboru
+"Чтобы вернуться, нажмите B",Stiskněte B pro návrat
+Шадок у Гиби,Bažináři u sousedů
+Экспорт SDK,Export SDK
+Экспортировать,Export
+Экспортировать SDK,Exportovat SDK
+Январь,Leden
+Японский,Japonština
+Ярлык для DBI,Zástupce pro DBI
+да,ano
+не является LFS папкой,není složka LFS
+не является LFS папкой игры,není herní složka LFS
+нет,ne
+"ZL/ZR - смена даты, Y - период","ZL/ZR - změnit datum, Y - období"
+"Получено: {}, (скорость не определена)","Přijato: {}, (rychlost neurčena)"
+Игры добавлены в список исключений,Hry přidány na seznam vyloučených
+Новых игр в список исключений добавлено не было,Žádné nové hry nebyly přidány na seznam vyloučených
+Просмотр МТР устройства [{}],Prohlížení MTP zařízení [{}]
+Просмотр USB диска [{}],Prohlížení USB disku [{}]
+Заряд батареи (сырое значение) : {},Nabití baterie (surová hodnota) : {}
+ru,cs
+[CRC ОШИБКА ФАЙЛА],[CHYBA CRC SOUBORU]
+Будет скачана и установлена прошивка системы из файла {}.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены,Systémový firmware bude stažen a nainstalován ze souboru {}.\n\nStiskněte (+) pro pokračování\nJiné tlačítko pro zrušení
+Распаковка архива не удалась,Rozbalení archivu selhalo
+Сканирование архива не удалось,Skenování archivu selhalo
+Установить все обновления из этой папки,Instalovat všechny aktualizace z této složky
+Япония,Japonsko
+Русский,Ruština
+Февраль,Únor
+Октябрь,Říjen
+[HASH MISMATCH: GC ➡ eShop],[NESHODA HASHE: GC ➡ eShop]
+Ноябрь,Listopad
+Игрок,Hráč
+Время,Čas
+Контент,Obsah
+[HASH: OK],[HASH: OK]
+Красная,Červená
+[HASH MISMATCH: Неисправимо],[NESHODA HASHE: Neopravitelná]
+[ПРЕД],[PŘEDCH.]
+Альбом,Album
+Выход,Konec
+и т.д...,atd...
+{} бекап,{} záloha
+874,874
+Пишется тело: {}/{}MB \r,Zápis těla: {}/{}MB \r
+Пишется скриншот\n,Zápis snímku obrazovky\n
+Пишется таблица хешей\n,Zápis hash tabulky\n
+Пишется подпись видео\n,Zápis podpisu videa\n
+Операция завершена\n,Operace dokončena\n
+"Будет скачана и установлена прошивка системы из файла {}.\n\nВНИМАНИЕ!!! Похоже, эта версия не поддерживается текущей атмосферой.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены","Systémový firmware bude stažen a nainstalován ze souboru {}.\n\nVAROVÁNÍ!!! Zdá se, že tato verze není podporována aktuálním Atmosphere.\n\nStiskněte (+) pro pokračování\nStiskněte jiné tlačítko pro zrušení"
+Копирование файла не удалось,Kopírování souboru selhalo
+Daybreak.nro не найден,Daybreak.nro nenalezen
+Изображение добавлено в альбом,Obrázek přidán do alba
+Ошибка добавления изобржения в альбом: {},Chyba při přidávání obrázku do alba: {}
+Добавить в альбом,Přidat do alba
+Анализ mp4 файла,Analýza souboru mp4
+Длительность: {},Délka: {}
+ОШИБКА! Файл не содержит один видео трек,CHYBA! Soubor neobsahuje jednu video stopu
+ОШИБКА! Файл не содержит один аудио трек,CHYBA! Soubor neobsahuje jednu audio stopu
+ОШИБКА! У видео трека неподдерживаемый кодек,CHYBA! Video stopa má nepodporovaný kodek
+ОШИБКА! У аудио трека неподдерживаемый кодек,CHYBA! Audio stopa má nepodporovaný kodek
+ОШИБКА! Аудио трек не стерео,CHYBA! Audio stopa není stereo
+[{}] Общий тикет для {},[{}] Běžný ticket pro {}
+ОШИБКА! У аудио трека неподходящая частота дискретизации,CHYBA! Audio stopa má nevhodnou vzorkovací frekvenci
+ОШИБКА! У видео трека неподходящая ширина,CHYBA! Video stopa má nevhodnou šířku
+ОШИБКА! У видео трека неподходящая высота,CHYBA! Video stopa má nevhodnou výšku
+ВНИМАНИЕ! Возможно видео поток содержит B-Frames. Файл может не воспроизводиться,VAROVÁNÍ! Video proud může obsahovat B-snímky. Soubor se nemusí přehrát
+"Похоже, это не MP4 файл","Vypadá to, že toto není soubor MP4"
+Открыть как RomFS,Otevřít jako RomFS
+\x1b[31;1mГ\x1b[37;1m,\x1b[31;1mГ\x1b[37;1m
+\x1b[32;1mШ\x1b[37;1m,\x1b[32;1mШ\x1b[37;1m
+Ваша SD карта является подделкой. Рекомендуется заменить SD карту на проверенную.,Vaše SD karta je padělaná. Doporučujeme ji nahradit ověřenou SD kartou.
+[{}] Персональный тикет для {},[{}] Osobní ticket pro {}
+Кажется ваша SD карта является подделкой.\n\nВозможны проблемы с установкой игр.\nВ этом случае рекомендуется заменить SD карту на проверенную.,Vaše SD karta se zdá být padělaná.\n\nMohou nastat problémy s instalací her.\nDoporučujeme SD kartu nahradit ověřenou kartou.
+Информация о SD карте,Informace o SD kartě
+[ПОДПИСЬ: DBI],[PODPIS: DBI]
+.    Время игры    \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,.    Doba hraní   \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+"ZL/ZR смена даты, Y период, X сортировка, (+) выбрать пользователя","ZL/ZR změnit datum, Y období, X řazení, (+) vybrat uživatele"
+[{}МБ] {}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,[{}MB] {}MB z {}MB ({:.2f} MB/s)\x1b[0K\r
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка, L3 запуск","X vybrat, Y invertovat výběr, (+) menu, R3 seřadit, L3 spustit"
+Создать все известные ({}),Vytvořit vše známé ({})
+"X выбор, Y обратить выбор, (+) меню, L3 запуск","X vybrat, Y invertovat výběr, (+) menu, L3 spustit"
+"DPAD или стики для перемещения, (+) Настройки","DPAD nebo páčky pro pohyb, (+) Nastavení"
+Просмотр HTTP/FTP/Github сервера...,Prohlížení HTTP/FTP/Github serveru...
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка","X vybrat, Y invertovat výběr, (+) menu, R3 seřadit"
+"X выбор, Y обр. выбор, (+) меню","X vybrat, Y invertovat výběr, (+) menu"
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню","X vybrat, Y invertovat výběr, A otevřít, (-) 2. panel, (+) menu"
+"X выбор, Y обр. выбор, ⬅/➡ смена панели, (-) закрыть, (+) меню","X vybrat, Y zrušit výběr, ⬅/➡ přepnout panel, (-) zavřít, (+) menu"
+[ДЕЛЬТА ФРАГМЕНТ НЕ НУЖЕН],[DELTA FRAGMENT NENÍ POTŘEBA]
+[КОНТЕНТ ОТСУТСТВУЕТ],[CHYBÍ OBSAH]
+[НЕ СОЗДАТЬ ПЛЕЙСХОЛДЕР],[NEVYTVÁŘET PLACEHOLDER]
+[НЕДОСТАТОЧНО МЕСТА],[NEDOSTATEK MÍSTA]
+[НЕИЗВЕСТНОЕ СЖАТИЕ],[NEZNÁMÁ KOMPRESE]
+[ОТСУТСТВУЕТ],[CHYBÍ]
+[ОШБК],[CHYBA]
+[ОШИБКА NCA MAGIC],[CHYBA NCA MAGIC]
+[ОШИБКА ЗАПИСИ В ПЛЕЙСХОЛДЕР],[CHYBA ZÁPISU PLACEHOLDERU]
+[ОШИБКА РАСПАКОВКИ ZSTD: {}],[CHYBA DEKOMPRESE ZSTD: {}]
+[ОШИБКА РАСПАКОВКИ],[CHYBA ROZBALENÍ]
+[ОШИБКА],[CHYBA]
+[ОШИБКА] Отсутствует URL списка обновлений,[CHYBA] Chybí URL seznamu aktualizací
+[ПЕРЕДАЧА OK],[PŘENOS OK]
+[ПЕРЕДАЧА ПРЕРВАНА],[PŘENOS PŘERUŠEN]
+[ПОВРЕЖДЁННЫЙ NCA],[POŠKOZENÝ NCA]
+[ПОДПИСЬ: OK],[PODPIS: OK]
+[ПОДПИСЬ: XCI➡NSP],[PODPIS: XCI➡NSP]
+[ПОДПИСЬ: Поддельная],[PODPIS: Falešný]
+[СТАРАЯ ПРОШИВКА],[STARÝ FIRMWARE]
+[ТРЕБУЕТСЯ РЕЖИМ ТАЙТЛА],[VYŽADOVÁN TITLE REŽIM]
+[ФАЙЛ ПОВРЕЖДЁН],[POŠKOZENÝ SOUBOR]
+[ХЕШ ИСПРАВЛЕН],[HASH OPRAVEN]
+[ХЕШ НЕ СОВПАДАЕТ],[NESHODA HASHE]
+\nНачало обработки dlc {}: {:016X},\nSpouštění zpracování DLC {}: {:016X}
+\nНачало обработки программы {},\nZahájeno zpracování aplikace {}
+\nНачало создания Data.nca,\nSpouštění vytváření Data.nca
+\nНачало создания Meta.nca,\nSpouštění vytváření Meta.nca
+\nОшибка USB обмена,\nChyba USB přenosu
+\nСборка PFS0,\nSestavování PFS0
+\nСборка RomFS,\nSestavování RomFS
+\nСекция 0,\nSekce 0
+\nСекция 1,\nSekce 1
+\nСекция 2,\nSekce 2
+\nСоздан NSP: {},\nNSP vytvořeno: {}
+\nШифрование NCA,\nŠifrování NCA
+{:04d} {} {:02d}. Всего: {} час,{:04d} {} {:02d}. Celkem: {} hod.
+{:04d} {} {:02d}. Всего: {} часа,{:04d} {} {:02d}. Celkem: {} hod.
+{:04d} {} {:02d}. Всего: {} часов,{:04d} {} {:02d}. Celkem: {} hod.
+{:4d} {}. Всего: {} час,{:4d} {}. Celkem: {} hod.
+{:4d} {}. Всего: {} часа,{:4d} {}. Celkem: {} hod.
+{:4d} {}. Всего: {} часов,{:4d} {}. Celkem: {} hod.
+{:4d}. Всего: {} час,{:4d}. Celkem: {} hod.
+{:4d}. Всего: {} часа,{:4d}. Celkem: {} hod.
+{:4d}. Всего: {} часов,{:4d}. Celkem: {} hod.
+{:>3} {}{:<50}\x1b[37;1m {:>10},{:>3} {}{:<50}\x1b[37;1m {:>10}
+{:>6} объектов обработано. {:>5} записей найдено...\r,{:>6} objektů zpracováno. {:>5} položek nalezeno...\r
+{:>6}/{}kB уже скачано...\r,{:>6}/{}kB již staženo...\r
+{} cохранение,{} uložení
+{} cохранений,{} uloženo
+{} cохранения,{} uložených dat
+{} бекапа,{} záloha
+{} бекапов,{} záloh
+{} записей ({}),{} položek ({})
+{} записи ({}),{} položky ({})
+{} запись ({}),{} položka ({})
+{} игр ({}),{} her ({})
+{} игра ({}),{} hra ({})
+{} игры ({}),{} hry ({})
+{} сохранение,{} uložení
+{} сохранений,{} uložení
+{} сохранения,{} uložených dat
+{} тикет,{} ticket
+{} тикета,{} tickety
+{} тикетов,{} ticketů
+{}-{} FW:{}{} SDK:{},{}-cs{:.0} FW:{}{} SDK:{}
+"{}/{} MB (Ср: {:.1f} MB/sec, Тек: {:.1f} MB/sec) Ост. {:02d}:{:02d}      \r","{}/{} MB (Prům: {:.1f} MB/s, Akt: {:.1f} MB/s) Zbývá {:02d}:{:02d} \r"
+"{}/{} МБ, {:.2f} МБ/сек","{}/{} MB, {:.2f} MB/s"
+{}: {} потерянная запись,{}: {} osiřelá položka
+{}: {} потерянных записей,{}: {} ztracené položky
+{}: {} потерянных записи,{}: {} ztracených položek
+{}: {}/{} ({:.2f} МБ/сек),{}: {}/{} ({:.2f} MB/s)
+{}: {}/{} ({}%) ({:.2f} МБ/сек),{}: {}/{} ({}%) ({:.2f} MB/s)
+{}: пропускается {}/{} ({:.2f} МБ/сек),{}: přeskakuji {}/{} ({:.2f} MB/s)
+"{}\n\nВосстановление бекапа не удалось\n\nНажмите A - прервать, другая кнопка - продолжить","{}\n\nObnova zálohy selhala\n\nStiskněte A pro přerušení, jiné tlačítko pro pokračování"
+{}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,{}MB z {}MB ({:.2f} MB/s)\x1b[0K\r
+АВТО,AUTO
+Аватар установлен,Avatar nastaven
+Август,Srpen
+Австралия,Austrálie
+Автозапуск MTP,Automatické spuštění MTP
+Автозапуск списка homebrew,Seznam automatického spuštění homebrew
+Агрументы для ярлыка,Argumenty zástupce
+Адрес FTP сервера: {},Adresa FTP serveru: {}
+Адрес HTTP сервера: {},Adresa HTTP serveru: {}
+Альбом (0°),Album (0°)
+Американский английский,Americká angličtina
+Апрель,Duben
+База этой игры не самодостаточна. Не забудьте установить обновление,Základ této hry není samostatný. Nezapomeňte nainstalovat aktualizaci
+Бекапы,Zálohy
+Бекапы сохранений ({}),Zálohy uložených dat ({})
+Британский английский,Britská angličtina
+В альбоме найден {} объект,{} objekt nalezen v albu
+В альбоме найдено {} объекта,Nalezeno {} objektů v albu
+В альбоме найдено {} объектов,{} objekty nalezeny v albu
+В альбоме отсутствуют объекты,V albu nejsou žádné objekty
+В файле /switch/prod.keys отсутствуют необходимые ключи.\n\nЧасть функций программы будет недоступна.\n\nПерегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад\nдля дампа ключей из SysNAND.,V souboru /switch/prod.keys chybí požadované klíče.\n\nNěkteré funkce aplikace nebudou dostupné.\n\nRestartujte do Hekate a použijte payload Lockpick_RCM.bin\npro dump klíčů ze SysNAND.
+ВНИМАНИЕ! Тайтл {:016X} не установлен,VAROVÁNÍ! Titul {:016X} není nainstalován
+ВНИМАНИЕ! Установленная версия ({}) не совпадает с желаемой ({}),VAROVÁNÍ! Nainstalovaná verze ({}) neodpovídá požadované ({})
+ВО ВРЕМЯ ПЕРЕДАЧИ ФАЙЛА НАЙДЕНЫ ОШИБКИ. УСТАНОВКА ПРЕРВАНА,BĚHEM PŘENOSU SOUBORU NALEZENY CHYBY. INSTALACE PŘERUŠENA
+Введите URL сервера (HTTP или (S)FTP),Zadejte URL serveru (HTTP nebo (S)FTP)
+Введите агрументы для ярлыка или оставьте пустым,Zadejte argumenty pro zástupce nebo nechte prázdné
+Введите желаемый номер страницы,Zadejte požadované číslo stránky
+Введите новое имя,Zadejte nový název
+Введите новое имя каталога,Zadejte nový název složky
+Введите новое имя файла,Zadejte nový název souboru
+Введите номер DLC,Zadejte číslo DLC
+Версия {} [v{}],Verze {} [v{}]
+Вместо пользователя {} использовать:,Použít místo uživatele {}:
+Внимание!\nНекоторые файлы были заблокированы и поэтому пропущены.,"Varování!\nNěkteré soubory byly uzamčeny, a proto přeskočeny."
+Во время разбора\n\n{}\n\nвозникла следующая ошибка:\n\n{},Při zpracování\n\n{}\n\nnastala následující chyba:\n\n{}
+Во время установки тикетов были ошибки. Проверьте наличие ES сигпатчей,Během instalace ticketů nastaly chyby. Zkontrolujte ES sigpatche
+Во время экспорта были ошибки,Během exportu nastaly chyby
+Возраст батареи                : {},Stáří baterie              : {}
+Возрастной рейтинг,Věkové hodnocení
+Восстановить,Obnovit
+Восстановить бекап...,Obnovit zálohu...
+Восстановить для...,Obnovit pro...
+Восстановить как бекап сохранения,Obnovit jako zálohu uložení
+Восстановление бекапа,Obnovování zálohy
+Восстановление не удалось,Obnova selhala
+Восстановление успешно,Obnova úspěšná
+Восстановление: {},Obnovování: {}
+Время игры: {:02}:{:02}:{:02},Doba hraní: {:02}:{:02}:{:02}
+Время передачи {:d}:{:02d}:{:02d},Čas přenosu {:d}:{:02d}:{:02d}
+Все игровые сессии,Všechny herní relace
+Все игроки,Všichni hráči
+Все объекты,Všechny objekty
+Все файлы в порядке,Všechny soubory jsou v pořádku
+Всего {} байт получен,Přijato {} bajtů
+Всего {} байт послан,Odesláno {} bajtů
+Всего {} байта получено,Celkem přijato {} bajtů
+ Да, Ano
+Всего {} байта послано,Odesláno {} bajtů
+Всего {} байтов получено,Celkem přijato {} bajtů
+Всего {} байтов послано,Odesláno {} bajtů
+Всего записей: {},Celkem položek: {}
+Всего отослано: {} ({}/сек),Celkem odesláno: {} ({}/s)
+Всего программ: {},Celkem titulů: {}
+Вставить,Vložit
+Вставка...,Vkládání...
+Всё время. Всего: {} час,Celá doba. Celkem: {} hod.
+Всё время. Всего: {} часа,Celá doba. Celkem: {} hod.
+Всё время. Всего: {} часов,Celá doba. Celkem: {} hod.
+Вы собираетесь удалить следующие бекапы:,Chystáte se smazat následující zálohy:
+Вы собираетесь удалить следующие игры:,Chystáte se smazat následující hry:
+Вы собираетесь удалить следующие сохранения:,Chystáte se smazat následující uložení:
+Вы собираетесь удалить следующие тикеты:,Chystáte se smazat následující tickety:
+Вы уверены в удалении {} записей?\n\n(+) - ДА   B - Отмена,Opravdu chcete smazat {} položek?\n\n(+) - ANO   B - Zrušit
+Вы уверены в удалении {} записи?\n\n(+) - ДА   B - Отмена,Opravdu chcete smazat {} položku?\n\n(+) - ANO   B - Zrušit
+Вы уверены в удалении {} объекта?\n\n(+) - ДА   B - Отмена,Opravdu chcete smazat {} objekt?\n\n(+) - ANO   B - Zrušit
+Вы уверены в удалении {} объектов?\n\n(+) - ДА   B - Отмена,Opravdu chcete smazat {} objektů?\n\n(+) - ANO   B - Zrušit
+"Вы уверены, что хотите удалить {}?\n\n(+) - ДА, другая кнопка - НЕТ","Opravdu chcete smazat {}?\n\n(+) - ANO, jiné tlačítko - NE"
+"Вы уверены, что хотите удалить\n{}?\n\n(+) - ДА  В - Отмена",Opravdu chcete smazat\n{}?\n\n(+) - ANO  B - Zrušit
+Выберите пользователя,Vybrat uživatele
+Выберите тип сохранения,Vybrat typ uložení
+Выбрать все файлы игры,Vybrat všechny soubory hry
+Выбрать того же пользователя,Vybrat stejného uživatele
+Выбрать ту же игру,Vybrat stejnou hru
+Вырезать,Vyjmout
+Вычисление хэша,Výpočet hashe
+Вычисленное время конца : {},Vypočtený čas konce  : {}
+Вычисленное время начала: {},Vypočtený čas začátku: {}
+Генерация DLC [{:016X}][v{}],Generování DLC [{:016X}][v{}]
+Генерация DLC анлокера...,Generování DLC odemykače...
+Генерируется анлокер для {:016X} с номером {} и версией {}...,Generování odemykače pro {:016X} s číslem {} a verzí {}...
+Генерируется ярлык для пути '{}' и аргументов '{}'...,Generování zástupce pro cestu '{}' a argumenty '{}'...
+Главное меню,Hlavní menu
+Голландский,Nizozemština
+"Да, я уверен","Ano, jsem si jistý"
+Дамп анлокера в '{}'...,Dumpování odemykače do '{}'...
+Дамп текущей прошивки,Dump aktuálního firmwaru
+Дамп ярлыка в '{}'...,Dumpování zástupce do '{}'...
+Действия с файлами,Operace se soubory
+Действия с файлами ({}),Akce se soubory ({})
+Декабрь,Prosinec
+День,Den
+Диаграмма активности,Graf aktivity
+Для бекапов,Pro zálohy
+Для выхода нажмите любую кнопку,Stiskněte libovolné tlačítko pro ukončení
+Для дампов,Pro dumpy
+Для логов,Pro logy
+Добавить в любимые,Přidat do oblíbených
+Европа,Evropa
+"Есть несохранёные изменения.\nВы хотите их сохранить?\n\n(+) - Да, сохранить\n\n(-) - Выйти без сохранения\n\nДругая кнопка - Отмена","Existují neuložené změny.\nChcete je uložit?\n\n(+) - Ano, uložit\n\n(-) - Ukončit bez uložení\n\nJiné tlačítko - Zrušit"
+Желаемая версия: {},Požadovaná verze: {}
+Журнал активности,Záznam aktivity
+Завершено,Dokončeno
+Загружается список обновлений...,Načítání seznamu aktualizací...
+Загрузка изображения...,Načítání obrázku...
+Загрузка текста...{}%,Načítání textu...{}%
+Загрузка файла... {}%,Načítání souboru... {}%
+Задать размер файла {} не удалось: {},Nepodařilo se nastavit velikost souboru {}: {}
+Закончено за {:02d}:{:02d}:{:02d},Dokončeno za {:02d}:{:02d}:{:02d}
+Закончилась память при посылке ответа,Nedostatek paměti při odesílání odpovědi
+Закончились дополнительные буферы. Скорость записи на носитель слишком низка,Došly přídavné vyrovnávací paměti. Rychlost zápisu na úložiště je příliš nízká
+Закрытие соединения,Ukončování spojení
+Закрытие соединения к {}:{},Ukončování spojení s {}:{}
+Запаковать LFS в romfs.bin,Zabalit LFS do romfs.bin
+Запаковать в romfs.bin,Zabalit do romfs.bin
+Запаковка папки в RomFS,Balení složky do RomFS
+Записанное время конца  : {},Zaznamenaný čas konce  : {}
+Записанное время начала : {},Zaznamenaný čas začátku: {}
+Запись в файл...,Zápis do souboru...
+Запись за пределами файла,Zápis za konec souboru
+Заполнение нулями,Vyplnění nulami
+Заполнить свободное место на SD нулями,Vyplnit volné místo na SD nulami
+Запрет захвата видео,Zakázat záznam videa
+Запрет скриншотов,Zákaz snímků obrazovky
+Запрещено,Zakázáno
+Запускавшиеся игры,Spuštěné hry
+Запустить FTP сервер...,Spustit FTP server...
+Запустить HTTP сервер...,Spouštění HTTP serveru...
+Запустить МТР соединение,Spustit MTP připojení
+Запустить случайную игру,Spustit náhodnou hru
+Заряд батареи                  : {},Nabití baterie                 : {}
+Здесь пусто,Nic tu není
+Игра анонсирует SDK {},Hra uvádí SDK {}
+"Игра анонсирует более новый SDK ({}), чем текущая прошивка ({})",Hra uvádí novější SDK ({}) než aktuální firmware ({})
+Игра использует titleId от дополнения,Hra používá titleId z DLC
+Игра использует titleId от обновления,Hra používá titleId z aktualizace
+Извлечь в LFS,Rozbalit do LFS
+Изменение размера сохранения на {} [{}]...,Změna velikosti uložení na {} [{}]...
+Изменить версию DLC (десятичную),Změnit verzi DLC (desítkově)
+Изменить номер DLC (десятичный),Změnit číslo DLC (desítkově)
+Изменить номер DLC (шестнадцатеричный),Změnit číslo DLC (šestnáctkově)
+Изменён размер SaveFS,Velikost SaveFS změněna
+Импорт исправленного тикета...,Import opraveného ticketu...
+Импорт тикета...,Import ticketu...
+"Имя каталога\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Název složky\n'{}'\nobsahuje neplatné znaky.\nNelze jej vytvořit.\n\nStiskněte A - přerušit, B - přeskočit, X - přejmenovat"
+"Имя файла\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Název souboru\n'{}'\nobsahuje neplatné znaky.\nNelze jej vytvořit.\n\nStiskněte A - přerušit, B - přeskočit, X - přejmenovat"
+Инсталлируется romfs.bin,Instalace romfs.bin
+Информация о зарядке батареи,Informace o nabíjení baterie
+Информация о контенте,Informace o obsahu
+Информация о контенте ({}),Informace o obsahu ({})
+Информация о прошивке,Informace o firmwaru
+Информация о системе,Systémové informace
+Информация о сохранении,Informace o uložených datech
+Информация о сохранении...,Informace o uložených datech...
+Информация о тикете,Informace o ticketu
+Информация о тикете...,Informace o ticketu...
+Информация об NSP,Informace o NSP
+Информация об атмосфере,Informace o Atmosphere
+Информация об игровой активности,Informace o herní aktivitě
+Информация об источние питания,Informace o zdroji napájení
+Информация об оборудовании,Informace o hardwaru
+Информация...,Informace...
+Испанский,Španělština
+Использовано дополнительной памяти: {}. Создано буферов: {},Využitá přídavná paměť: {}. Vytvořené buffery: {}
+Использовать папку для...,Použít složku pro...
+Используется USB{},Používá se USB{}
+Итальянский,Italština
+Ищется control для ProgramId {},Hledání control pro ProgramId {}
+Ищется exefs/romfs для ProgramId {},Hledání exefs/romfs pro ProgramId {}
+Ищется exefs/romfs/logo для ProgramId {},Hledání exefs/romfs/logo pro ProgramId {}
+Ищется {},Hledání {}
+Июль,Červenec
+Июнь,Červen
+Канадский французский,Kanadská francouzština
+"Когда ваше устройство подключится, нажмите любую кнопку",Stiskněte libovolné tlačítko po připojení zařízení
+Код партии батареи    : {} ({}),Kód šarže baterie        : {} ({})
+Кодировка,Kódování
+Конец игры            : -,Konec hry       : -
+Конец игры            : {},Konec hry       : {}
+Контент уже на месте,Obsah je již na místě
+Копирование IVFC слой {} в nca: {},Kopírování vrstvy IVFC {} do nca: {}
+Копирование PFS0 в nca,Kopírování PFS0 do nca
+Копирование PFS0 хэш таблицы в nca,Kopírování hash tabulky PFS0 do nca
+Копирование SDK {} в файл: {}...,Kopírování SDK {} do souboru: {}...
+Копировать,Kopírovat
+Корейский,Korejština
+Корень не найден,Kořen nenalezen
+Корень сохранения не существует,Kořen uložení neexistuje
+Корея,Korea
+Латиноамериканский испанский,Latinskoamerická španělština
+Май,Květen
+Март,Březen
+Масштаб: По ширине,Měřítko: Přizpůsobit šířce
+Масштаб: По экрану,Měřítko: Přizpůsobit obrazovce
+Масштаб: Точка в точку,Měřítko: Pixel Perfect
+Масштаб: Увеличение x2,Měřítko: Zvětšení 2x
+Место в  NAND         : {},Místo v NAND         : {}
+Место на SD карте     : {},Místo na SD kartě : {}
+Место на приставке не занято,V konzoli není zabráno žádné místo
+Мета контент отсутствует,Chybí meta obsah
+Миссия провалена\n\nНажмите А для выхода,Mise selhala\n\nStiskněte A pro ukončení
+Миссия успешна\n\nОсталось ходов: {}\n\nНажмите А для выхода,Mise úspěšná\n\nZbývající tahy: {}\n\nStiskněte A pro ukončení
+Модификация файла не удалась,Úprava souboru selhala
+На выбранном устройстве нет достаточного свободного места для установки,Na vybraném zařízení není dostatek volného místa pro instalaci
+На месте нет достаточно свободного места,Není dostatek volného místa
+Нажмите (+) для перезаписи конфига обновлённым\n\nЛюбую другую кнопку для пропуска,Stiskněte (+) pro přepsání konfigurace aktualizovanou\n\nJiné tlačítko pro přeskočení
+"Нажмите (+) для удаления, любую другую кнопку для пропуска...\n (-) Удалять все, больше не спрашивая","Stiskněte (+) pro smazání, jiné tlačítko pro přeskočení...\n (-) Smazat vše bez dalšího dotazu"
+"Нажмите A, чтобы продолжить, другую кнопку, чтобы выйти","Stiskněte A pro pokračování, jiné tlačítko pro ukončení"
+"Нажмите B, чтобы вернуться",Stiskněte B pro návrat
+Нажмите любую кнопку,Stiskněte libovolné tlačítko
+Найден SDK: {},Nalezeno SDK: {}
+Найден {} зарегистрированный контент-файл,Nalezen {} registrovaný soubor obsahu
+Найден {} контент-файл,Nalezen {} soubor obsahu
+Найден {} пользователь,Nalezen {} uživatel
+Найден {} потерянный контент-файл,Nalezen {} osiřelý soubor obsahu
+Найден {} файл,Nalezen {} soubor
+Найден {} файл с ошибками,Nalezen {} soubor s chybami
+Найден и удалён {} неиспользуемый тикет,Nalezen a smazán {} nepoužitý ticket
+Найдена {} запись об игре,Nalezen {} záznam hry
+Найдена {} запись об ошибках,Nalezen {} záznam chyby
+Найдена {} установленная игра,Nalezena {} nainstalovaná hra
+Найдено {} записей об играх,Nalezeno {} záznamů her
+Найдено {} записей об ошибках,Nalezeno {} hlášení o chybách
+Найдено {} записи об играх,Nalezeny {} záznamy her
+({}/{}) Устанавливается {},({}/{}) Instalace {}
+Найдено {} записи об ошибках,Nalezeny {} hlášení o chybách
+Найдено {} зарегистрированных контент-файла,Nalezeny {} registrované soubory obsahu
+Найдено {} зарегистрированных контент-файлов,Nalezeno {} registrovaných souborů obsahu
+Найдено {} контент-файла,Nalezeny {} soubory obsahu
+Найдено {} контент-файлов,Nalezeno {} souborů obsahu
+Найдено {} обновление,Nalezena {} aktualizace
+Найдено {} обновлений,Nalezeny {} aktualizace
+Найдено {} обновления,Nalezeno {} aktualizací
+Найдено {} пользователей,Nalezeni {} uživatelé
+Найдено {} пользователя,Nalezeno {} uživatelů
+Найдено {} потерянных контент-файла,Nalezeny {} ztracené soubory obsahu
+Найдено {} потерянных контент-файлов,Nalezeno {} osiřelých souborů obsahu
+Найдено {} сохранение,Nalezeno {} uložení
+Найдено {} сохранение...,Nalezeno {} uložení...
+Найдено {} сохранений,Nalezena {} uložení
+Найдено {} сохранений...,Nalezena {} uložení...
+Найдено {} сохранения,Nalezeno {} uložení
+Найдено {} сохранения...,Nalezeno {} uložení...
+Найдено {} установленные игры,Nalezeny {} nainstalované hry
+Найдено {} установленных игр,Nalezeno {} nainstalovaných her
+Найдено {} файла,Nalezen {} soubor
+Найдено {} файла с ошибками,Nalezeny {} soubory s chybami
+Найдено {} файлов,Nalezeno {} souborů
+Найдено {} файлов с ошибками,Nalezeno {} souborů s chybami
+Найдено и удалено {} неиспользуемых тикета,Nalezeny a odstraněny {} nepoužité tickety
+Найдено и удалено {} неиспользуемых тикетов,Nalezeno a odstraněno {} nepoužitých ticketů
+Найдено существующее сохранение. Восстанавливаю бекап в него...,Nalezeno existující uložení. Obnovování zálohy do něj...
+Настройки,Nastavení
+Настройки DBI,Nastavení DBI
+Настройки FB2,Nastavení FB2
+Начало игры           : -,Spuštění hry    : -
+Начало игры           : {},Spuštění hry    : {}
+Начало создания Control.nca,Spouštění vytváření Control.nca
+Начало создания Program.nca,Spouštění vytváření Program.nca
+Начать установку,Spustit instalaci
+Не доступно,Nedostupné
+Не известно,Neznámé
+"Не найден USB диск, который смог бы вместить получившийся дамп. Убедитесь, что он отформатирован в ExFAT.","Nebyl nalezen žádný USB disk, na který by se vešel výsledný dump. Ujistěte se, že je naformátován jako ExFAT."
+Не найдены требуемые тикеты,Požadované tickety nenalezeny
+. Время простоя \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m,. Nečinnost \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m
+Не получилось создать NSP,Nepodařilo se vytvořit NSP
+Не удалось получить список,Nepodařilo se načíst seznam
+Не удалось установить аватар\n{},Nepodařilo se nastavit avatar\n{}
+Не установлен,Nenainstalováno
+Невозможно найти путь,Nelze najít cestu
+Невозможно открыть папку журналов ошибок,Nelze otevřít složku s protokoly chyb
+Невозможно переименовать '{}' в '{}':,Nelze přejmenovat '{}' na '{}':
+Невозможно получить список LFS,Nelze získat seznam LFS
+Невозможно получить список пользователей,Nelze načíst seznam uživatelů
+Невозможно получить статус связи с Nintendo Account,Nelze zjistit stav propojení s účtem Nintendo
+...готово,...hotovo
+Невозможно получить число записей об ошибках,Nelze zjistit počet záznamů chyb
+Невозможно прочитать общие тикеты,Nelze přečíst běžné tickety
+Невозможно прочитать персонализированные тикеты,Nelze přečíst osobní tickety
+Невозможно разобрать content meta,Nelze zpracovat meta obsahu
+Невозможно разобрать content meta. Неожиданная ошибка,Nelze zpracovat meta obsahu. Neočekávaná chyba
+Невозможно разобрать content meta. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Nelze zpracovat meta obsahu. ZASTARALÝ FIRMWARE. Je nutná aktualizace HOS
+Невозможно разобрать nca. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Nelze zpracovat nca. ZASTARALÝ FIRMWARE. Je nutná aktualizace HOS
+Невозможно разобрать индекс кеша,Nelze zpracovat index mezipaměti
+Невозможно распаковать '{}':,Nelze rozbalit '{}':
+Невозможно скопировать файл\n   '{}'\n➡ '{}'\n,Nelze zkopírovat soubor\n   '{}'\n➡ '{}'\n
+Невозможно смонтировать сохранение,Nelze připojit uložení
+Невозможно смонтировать устройство сохраниения,Nelze připojit zařízení uložení
+Невозможно создать каталог,Nelze vytvořit složku
+Невозможно создать каталог '{}':,Nelze vytvořit složku '{}':
+Невозможно создать файл,Nelze vytvořit soubor
+Невозможно создать файл '{}':,Nelze vytvořit soubor '{}':
+Недопустимый идентификатор,Neplatný identifikátor
+Неизвестная игра [{:016x}],Neznámá hra [{:016x}]
+: {:>4} сохранение,: {:>4} uložení
+Неизвестно,Neznámé
+Неизвестный тайтл,Neznámý titul
+Немецкий,Němčina
+Неправильное хранилище,Neplatné úložiště
+Неправильный родительский объект,Neplatný nadřazený objekt
+Нет,Ne
+Нет VFS. Прекращение работы,Chybí VFS. Ukončuji
+Нет exefs VFS. Прекращение работы,Chybí exefs VFS. Ukončuji
+: {:>4} сохранений,: {:>4} uložení
+Нет logo VFS. Прекращение работы,Chybí logo VFS. Ukončuji
+Нет romfs VFS. Прекращение работы,Chybí romfs VFS. Ukončuji
+Нет лого,Bez loga
+Нечего устанавливать,Není co instalovat
+Новое имя для '{}',Nový název pro '{}'
+Новый каталог,Nová složka
+Новый размер сохранения в МБ,Nová velikost uložení v MB
+Новый рейтинг (-1 для удаления),Nové hodnocení (-1 pro odstranění)
+: {:>4} сохранения,: {:>4} uložení
+Номер страницы,Číslo stránky
+Ночь,Noc
+Нужен связанный аккаунт,Je vyžadován propojený účet
+ОШИБКА ПОЛУЧЕНИЯ ЭКСТРА ДАННЫХ,CHYBA PŘI ZÍSKÁVÁNÍ EXTRA DAT
+Обнаружены недопустимые символы,Zjištěny neplatné znaky
+Обновить DBI,Aktualizovat DBI
+Обновить DBI из этого файла,Aktualizovat DBI z tohoto souboru
+Обновить TitleDB,Aktualizovat TitleDB
+Обновление TitleDB,Aktualizace TitleDB
+Обновление базы данных...,Aktualizace databáze...
+Обновление версии до {} {}\n\nНажмите (+) для продолжения\nЛюбую другую кнопку для отмены,Aktualizace verze na {} {}\n\nStiskněte (+) pro pokračování\nJiné tlačítko pro zrušení
+Обновление времени...,Aktualizace času...
+Обновление закончено\n\nНажмите любую кнопку\nдля перезапуска DBI,Aktualizace dokončena\n\nStiskněte libovolné tlačítko\npro restart DBI
+Обновление фейковой записи {} ➡ [v{}],Aktualizace falešného záznamu {} ➡ [v{}]
+Обновление. Пожалуйста подождите...,Aktualizace. Čekejte prosím...
+Обновляется запись об игре...,Aktualizace záznamu hry...
+Обрабатывается запись {:016X},Zpracování záznamu {:016X}
+Обратный альбом (180°),Obrácené album (180°)
+Обратный портрет (270°),Obráceně na výšku (270°)
+Общее время активной игры     : {} часов,Celková doba aktivního hraní  : {} hod.
+Общее время дампа {:d}:{:02d}:{:02d},Celkový čas dumpu {:d}:{:02d}:{:02d}
+Общее время запущенных игр    : {} часов,Celková doba hraní            : {} hod.
+Общее время игры      : -,Celková doba hraní : -
+Общее время игры      : - (-),Celková doba hraní : - (-)
+Общее время игры      : {:d} часов {:02d} минут,Celková doba hraní : {:d} hod. {:02d} min.
+Общее время установки: {:d}:{:02d}:{:02d},Celkový čas instalace: {:d}:{:02d}:{:02d}
+Общее время: {:02}:{:02}:{:02},Celkový čas: {:02}:{:02}:{:02}
+Общее занимаемое место: N:{} + S:{} = {},Celkem využito místa: N:{} + S:{} = {}
+Общее число запусков  : -,Celkový počet spuštění   : -
+Общие,Obecné
+Общий размер установки: {},Celková velikost instalace: {}
+Объединение списков,Sloučit seznamy
+Объект {} не допустим,Objekt {} není povolen
+Объект {} не может быть создан,Objekt {} nelze vytvořit
+Объект не открыт для редактирования,Objekt není otevřen pro úpravy
+Объект удалён,Objekt smazán
+Объект уже открыт для редактирования,Objekt je již otevřen pro úpravy
+Огибка получения адреса сокета: {} {},Chyba při získávání adresy socketu: {} {}
+Ожидаемый размер: {},Očekávaná velikost: {}
+Ожидается большой (>4GB) файл,Očekáván velký soubor (>4GB)
+Ожидается запуск dbibackend на стороне ПК...,Čekání na spuštění dbibackend na straně PC...
+Ожидание: {} секунд,Čekání: {} sekund
+Ожидание: {} секунда,Čekání: {} sekunda
+Ожидание: {} секунды,Čekání: {} sekundy
+Ориентация,Orientace
+Ориентация...,Orientace...
+Основной SDK не найден. Пробуем мультипрограмный вариант,Hlavní SDK nenalezeno. Zkouším vícepřogramovou variantu
+Оставить сохранения,Ponechat uložená data
+Осталось ходов:    {:>3},Zbývající tahy: {:>3}
+Остаток файла пропускается,Zbytek souboru je přeskočen
+Отключение связи с мобильным приложением...,Odpojování od mobilní aplikace...
+Открываем папку прошивки...,Otevírání složky firmwaru...
+Открыть,Otevřít
+Открыть вторую панель,Otevřít druhý panel
+Открыть как 7Z,Otevřít jako 7Z
+Открыть как RAR,Otevřít jako RAR
+Открыть как ZIP,Otevřít jako ZIP
+Открыть как hex,Otevřít jako hex
+Открыть как текст,Otevřít jako text
+Открыть контент по MTP,Otevřít obsah přes MTP
+контент по MTP,obsah přes MTP
+Открыть папку LFS,Otevřít složku LFS
+Content meta не найден. Установка прервана,Meta obsahu nenalezeno. Instalace přerušena
+Отослано {}/{} байт,Odesláno {}/{} bajtů
+Отсутствуют ES сигпатчи!,Chybí ES sigpatche!
+Очистка /atmosphere/contents,Čištění /atmosphere/contents
+Очистка кеша rightsId...,Mazání mezipaměti rightsId...
+Очистка папки...,Čištění složky...
+Очистка плейсхолдеров...,Mazání placeholderů...
+Очистка системы от мусора,Čištění systému od zbytků
+Очистка сохранений,Mazání uložených dat
+Очистка...,Čištění...
+Ошибка FTP сервера,Chyba FTP serveru
+DBI Просмотр альбома,Prohlížeč alba DBI
+Ошибка во время копирования файла,Chyba při kopírování souboru
+Ошибка во время обновления тайтла,Chyba při aktualizaci titulu
+Ошибка выделения сокета: {},Chyba alokace socketu: {}
+Ошибка завершения соединения: {},Chyba ukončení spojení: {}
+Ошибка загрузки картинки,Chyba načítání obrázku
+Ошибка загрузки файла из альбома: {},Chyba při načítání souboru z alba: {}
+Ошибка закрытия сокета: {},Chyba zavření socketu: {}
+Ошибка записи файла: {},Chyba zápisu souboru: {}
+Ошибка изменения размера файла,Chyba změny velikosti souboru
+Ошибка инициализации {}: {},Chyba inicializace {}: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз","DPAD a páčky - posun, L - o stránku nahoru, R - o stránku dolů"
+Ошибка опроса сокета: {},Chyba dotazování socketu: {}
+Ошибка открытия каталога: {},Chyba při otevírání složky: {}
+Ошибка открытия сокета: {},Chyba otevření socketu: {}
+Ошибка открытия файла,Chyba při otevírání souboru
+Ошибка открытия файла '{}': {},Chyba při otevírání souboru '{}': {}
+Ошибка открытия файла: {},Chyba při otevírání souboru: {}
+Ошибка отсылки: {},Chyba odesílání: {}
+Ошибка переименования: {},Chyba přejmenování: {}
+Ошибка подключения: {},Chyba spojení: {}
+Ошибка подмены SDK: {},Chyba náhrady SDK: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз, R3 - Текст/Hex","DPAD a páčky - posun, L - o stránku nahoru, R - o stránku dolů, R3 - Text/Hex"
+Ошибка получения адреса узла: {},Chyba při získávání adresy uzlu: {}
+Ошибка получения внеочередных данных: {},Chyba při načítání mimopásmových dat: {}
+Ошибка получения имени сокета: {} {},Chyba při získávání názvu socketu: {} {}
+Ошибка получения информаци о файле: {},Chyba při získávání informací o souboru: {}
+Ошибка получения размера файла: {},Chyba při získávání velikosti souboru: {}
+Ошибка получения флагов сокета: {},Chyba při získávání příznaků socketu: {}
+Ошибка получения хранилища {},Chyba při načítání úložiště {}
+Ошибка получения: {},Chyba načítání: {}
+Ошибка получения: {} {},Chyba načítání: {} {}
+Ошибка посылки файла: {},Chyba odesílání souboru: {}
+Ошибка привязки сокета к порту {}: {},Chyba při navázání socketu na port {}: {}
+Ошибка привязки: {},Chyba navázání: {}
+Ошибка принятия соединения: {} {},Chyba přijetí spojení: {} {}
+Ошибка приёма соединения: {},Chyba příjmu spojení: {}
+Ошибка проверси метки сокета: {},Chyba ověření štítku socketu: {}
+Ошибка прослушивания: {},Chyba naslouchání: {}
+Ошибка прослушки сокета: {},Chyba naslouchání socketu: {}
+Ошибка сжатия,Chyba komprese
+Ошибка создания каталога: {},Chyba při vytváření složky: {}
+Ошибка создания сокета: {},Chyba při vytváření socketu: {}
+Ошибка создания сохранения,Chyba při vytváření uložení
+Ошибка удаления каталога: {},Chyba při mazání složky: {}
+Ошибка удаления файла: {},Chyba při mazání souboru: {}
+Ошибка установки флагов сокета: {},Chyba při nastavování příznaků socketu: {}
+Ошибка чтения записи об игре: {},Chyba při čtení záznamu hry: {}
+Ошибка чтения каталога: {},Chyba čtení složky: {}
+Ошибка чтения файла: {},Chyba čtení souboru: {}
+Ошибок не найдено,Žádné chyby nenalezeny
+Ошибочный номер DLC (Должен быть в диапазоне 0x001-0x7FF),Neplatné číslo DLC (musí být v rozsahu 0x001-0x7FF)
+Ошибочный номер DLC (Должен быть в диапазоне 1-2047),Neplatné číslo DLC (musí být v rozsahu 1-2047)
+"Ошибочный тикет {0}: kg {1:02X}, pm {2:02X}","Neplatný ticket {0}: kg {1:02X}, pm {2:02X}"
+Папка LFS не найдена,Složka LFS nenalezena
+Папка обновления очищена,Složka aktualizací vyčištěna
+Параметры FTP,Nastavení FTP
+Параметры MTP,Nastavení MTP
+Параметры установки,Možnosti instalace
+Передача окончена,Přenos dokončen
+Переименование объекта,Přejmenování objektu
+Переименовать,Přejmenovat
+Перейти к первой странице,Přejít na první stránku
+Перейти к последней странице,Přejít na poslední stránku
+Перейти к странице...,Přejít na stránku...
+Переместить,Přesunout
+Переместить в NAND,Přesunout do NAND
+в NAND,do NAND
+Переместить на SD карту,Přesunout na SD kartu
+на SD карту,na SD kartu
+"Перемещение {} ({}, {}) в {}","Přesouvání {} ({}, {}) do {}"
+Перемещение {} записей,Přesouvání {} položek
+Перемещение {} записи,Přesouvání {} položky
+Перемещение {} игр,Přesouvání {} her
+Перемещение {} игры,Přesouvání {} hry
+FTP сервер (нажмите B для остановки),FTP server (stiskněte B pro zastavení)
+Перемещение контента,Přesouvání obsahu
+Перенос строк,Zalomit řádky
+Переоткрытие ФС сохранения: {},Znovuotevření FS uložení: {}
+Пишется новая запись о контенте...,Zápis nového záznamu obsahu...
+Пишется новый cnmt.nca...,Zápis nového cnmt.nca...
+Подготовка...,Příprava...
+Подключаемся к {}...,Připojování k {}...
+Подключено к {}:{},Připojeno k {}:{}
+Подмена SDK,Náhrada SDK
+Подменить SDK,Nahradit SDK
+Подсчитывается размер установки...,Výpočet velikosti instalace...
+Подсчитывается размер установки...{}%,Výpočet velikosti instalace...{}%
+Подсчитываются объекты в альбоме в NAND,Počítání objektů v albu v NAND
+Подсчитываются объекты в альбоме на SD карте,Počítání objektů v albu na SD kartě
+Подсчёт метаданных...,Počítání metadat...
+Подсчёт основного хэша,Výpočet hlavního hashe
+Подсчёт хэша секции,Výpočet hashe sekce
+"Пожалуйста, подключите вашу консоль к ПК кабелем USB Type-C или нажмите B",Připojte konzoli k PC kabelem USB Type-C nebo stiskněte B
+"Пожалуйста, подождите...",Čekejte prosím...
+Поиск записей об ошибках,Hledání protokolů chyb
+Поиск неиспользуемых тикетов,Hledání nepoužitých ticketů
+Поиск подготовленного системного обновления,Hledání připravené aktualizace systému
+Поиск потерянных тайтлов,Hledání ztracených titulů
+Поиск потерянных файлов в NAND,Hledání ztracených souborů v NAND
+Поиск потерянных файлов на SD,Hledání ztracených souborů na SD
+Поиск сохранений удалённых пользователей...,Hledání uložených dat smazaných uživatelů...
+Get chargeInfoFields : {},Získání chargeInfoFields : {}
+Получен список из {} записей,Přijat seznam {} položek
+Получен список из {} записи,Přijat seznam {} položek
+Получение версий установленных игр,Získávání verzí nainstalovaných her
+Получение информации из hac_versionlist...,Načítání informací z hac_versionlist...
+Получение информации из системы...,Načítání systémových informací...
+Получение информации об играх...,Načítání informací o hře...
+Получение списка тикетов...,Načítání seznamu ticketů...
+Получение файла: {} МБ ({:.2f} МБ/сек),Příjem souboru: {} MB ({:.2f} MB/s)
+Получение файла: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Příjem souboru: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m MB/s)
+Полученное время: {},Přijatý čas: {}
+Полученный размер: {},Přijatá velikost: {}
+"Получено: {}, ({:.2f} МБ/сек)","Přijato: {}, ({:.2f} MB/s)"
+Пользователь {} не найден. Создание сохранения невозможно,Uživatel {} nenalezen. Vytvoření uložení není možné
+Пользователь не найден,Uživatel nenalezen
+Попытаться разобрать,Pokusit se zpracovat
+Попытка исправить,Pokus o opravu
+Портрет (90°),Na výšku (90°)
+Португальский,Portugalština
+"L+⬅-Начало, L+➡-Конец, ZL-Регистр, ZR-Ввод, Y-Пробел, X-Забой, R3-Язык","L+⬅-Home, L+➡-End, ZL-Velikost písmen, ZR-Enter, Y-Mezera, X-Backspace, R3-Jazyk"
+После удаления игры не будут запускаться,Hry se po smazání nespustí
+Посылается файл: {},Odesílání souboru: {}
+Посылается файл: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Odesílání souboru: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m MB/s)
+Превышен размер командного буфера,Překročena velikost příkazového bufferu
+LFS мод.: -,Režim LFS: -
+Предоставить по FTP,Poskytnout přes FTP
+Прекращение прослушивания на {}:{},Zastavení naslouchání na {}:{}
+Прервано пользователем,Přerušeno uživatelem
+Привязка к {}:{},Navázání na {}:{}
+Принято соединение от {}:{},Přijato spojení z {}:{}
+Проверить целостность,Ověřit integritu
+Проверка magic...,Kontrola hlavičky magic...
+"Проверка {} ({}, {}), {}","Ověření {} ({}, {}), {}"
+Проверка картриджа...,Kontrola cartridge...
+Проверка на наличие  {}...,Kontrola {}...
+Проверка обновлений,Kontrola aktualizací
+Проверка обновлений игр,Kontrola aktualizací her
+Проверка сохранений,Kontrola uložených dat
+Проверка целостности ({}),Kontrola integrity ({})
+Проверяется: {},Kontrola: {}
+"LFS мод.: Присутствует, Размер: подсчёт отключен в настройках","LFS mod : Přítomen, Velikost: výpočet zakázán v nastavení"
+Проверяются бекапы...,Kontrola záloh...
+Проверяются сохранения,Kontrola uložení
+Программа {}. Control не найдена,Aplikace {}. Control nenalezen
+Программа {}. Exefs не найдена,Program {}. Exefs nenalezen
+Программа {}. Romfs не найдена,Aplikace {}. Romfs nenalezen
+Произошла неизвестная ошибка,Nastala neznámá chyba
+Произошла ошибка:,Nastala chyba:
+Произошла ошибка: {},Nastala chyba: {}
+LFS папка игры,Herní složka LFS
+Пропускается: {}          \r,Přeskakuji: {}          \r
+Прослушивание на {}:{},Naslouchání na {}:{}
+Просмотр альбома по HTTP,Zobrazit album přes HTTP
+MTP Респондер (нажмите B для остановки),MTP Responder (stiskněte B pro zastavení)
+Просмотреть игры,Zobrazit hry
+Просто запуск,Jen spustit
+Разбор,Zpracování
+Раздел secure не найден,Zabezpečená sekce nenalezena
+"Размер  : {}, {} файл","Velikost : {}, {} soubor"
+"Размер  : {}, {} файла","Velikost : {}, {} soubory"
+"Размер  : {}, {} файлов","Velikost : {}, {} souborů"
+Размер посылаемого файла   : {},Velikost odesílaného souboru: {}
+Размер сохранений     : {},Velikost uložených dat : {}
+Размер: {},Velikost: {}
+Разрешено,Povoleno
+Распаковать в подкаталог,Rozbalit do podsložky
+Распаковать сюда,Rozbalit sem
+Распаковка файла,Rozbalování souboru
+Растущие цветы:     {},Pěstování květin:    {}
+Nintendo Account задан и связан,Účet Nintendo nastaven a propojen
+Регистрация контента {}...,Registrace obsahu {}...
+Регистрация файла {}...,Registrace souboru {}...
+Регистры котроллера MAX17050,Registry řadiče MAX17050
+Редактирование возрастного рейтинга...,Úprava věkového hodnocení...
+Редактирование запретов,Upravit omezení
+Рендеринг FB2,Vykreslování FB2
+"Nintendo Account задан, но не связан","Účet Nintendo nastaven, ale nepropojen"
+Сброс требуемой версии,Resetovat požadovanou verzi
+Сбросить требуемую версию,Resetovat požadovanou verzi
+Сведения,Informace
+Сведения...,Informace...
+Свободное место в хранилище: {},Volné místo v úložišti: {}
+Свободное место: {},Volné místo: {}
+Сгенерировать и установить,Vygenerovat a nainstalovat
+Nintendo Account не задан,Účet Nintendo není nastaven
+Сдампить на SD карту,Dumpnout na SD kartu
+Сдампить на внешний USB,Dumpnout na externí USB
+Сдампить текущую прошивку,Dumpnout aktuální firmware
+Сдамплено: {}/{} ({}%) ({:.2f} МБ/сек),Dumpnuto: {}/{} ({}%) ({:.2f} MB/s)
+Сделать бекап,Vytvořit zálohu
+"Сделать бекап, если новее","Zálohovat, pokud je novější"
+Северная Америка,Severní Amerika
+Сентябрь,Září
+Сепия,Sépie
+Сервер запущен,Server spuštěn
+Сервер предлагает выполнить обновление DBI\n\nНажите (+) для согласия\nЛюбую другую кнопку для отмены,Server nabízí provedení aktualizace DBI\n\nStiskněte (+) pro potvrzení\nJiné tlačítko pro zrušení
+Сессии,Relace
+Сессия закрыта,Relace ukončena
+Сессия открыта,Relace otevřena
+Синхронизация времени по NTP,Synchronizace času přes NTP
+Системные приложения,Systémové aplikace
+Системный по умолчанию,Výchozí systémové
+Сканирование директорий...,Prohledávání složek...
+Сканирование игр...,Prohledávání her...
+Скачано {}/{},Staženo {}/{}
+Скачивание файла не удалось,Stažení souboru selhalo
+Скорость передачи: {:.2f} МБ/сек,Přenosová rychlost: {:.2f} MB/s
+Собираются сведения...,Shromažďování informací...
+Соединение сброшено,Spojení resetováno
+Создание DLC анлокера,Vytváření DLC odemykače
+Создание NSP,Vytváření NSP
+Создание sdmc:/versions.txt,Vytváření sdmc:/versions.txt
+Создание дампа ({}),Vytváření dumpu ({})
+Создание дампа: {},Vytváření dumpu: {}
+Создание единого репака,Vytváření jednotného repaku
+Создание записи об игре...,Vytváření záznamu hry...
+Создание новой записи об игре...,Vytváření nové položky hry...
+Создание плейсхолдера: {}...,Vytváření placeholderu: {}...
+"Создание репака Id: {:016X}, Версия: {}, Тип: {}","Vytváření repaku Id: {:016X}, Verze: {}, Typ: {}"
+Создание строк... {}%,Vytváření řetězců... {}%
+Создание таблицы имён,Vytváření tabulky názvů
+Создание тела файла,Vytváření těla souboru
+Создание точки доступа...,Vytváření přístupového bodu...
+Создание хэш таблицы,Vytváření hash tabulky
+Создание ярлыка,Vytváření zástupce
+Создано новое сохранение. Восстанавливаю бекап в него...,Nové uložení vytvořeno. Obnovování zálohy do něj...
+Создать sdmc:/versions.txt,Vytvořit sdmc:/versions.txt
+Создать единый репак,Vytvořit jeden repack
+Создать новое сохранение...,Vytvořit nové uložení...
+Создать новый каталог...,Vytvořit novou složku...
+Создать новый файл...,Vytvořit nový soubor...
+Создать ярлык,Vytvořit zástupce
+Создать ярлык для hbmenu,Vytvořit zástupce pro hbmenu
+Создать ярлык на рабочий стол для DBI...,Vytvořit zástupce pro DBI na ploše...
+Создать ярлык с аргументами...,Vytvořit zástupce s argumenty...
+Создаётся обновлённая запись об игре...,Vytváření aktualizovaného záznamu hry...
+Сохранение для {} уже существует,Uložená data pro {} již existují
+Сохранения,Uložená data
+Сохранения будут удалены!,Uložená data budou smazána!
+Сохранения удалённых игр ({}),Uložení smazaných her ({})
+Сохранения установленных игр ({}),Uložení nainstalovaných her ({})
+Сохранёные в системе параметры котроллера батареи,Parametry řadiče baterie uloženy v systému
+Существующая запись об игре не найдена,Existující záznam hry nenalezen
+Существующее сохранение не найдено и новое не может быть создано,Existující uložení nenalezeno a nové nelze vytvořit
+SDK {} уже был экспортирован: {},SDK {} již bylo exportováno: {}
+Тайтл не установлен,Titul není nainstalován
+Тайтл установлен,Titul nainstalován
+Тайтлы с ошибками:,Tituly s chybami:
+Текущее время: {},Aktuální čas: {}
+SDK на подмену не найдены,Nenalezeno žádné SDK k náhradě
+Тема,Motiv
+Тикет исправлен,Ticket opraven
+Тикеты,Tickety
+Тикеты не найдены,Žádné tickety nenalezeny
+864,864
+881,881
+"больше шансов, что оно заработает». Их",vše nakonec dobře dopadne.“ Jejich taktika
+быстро проникли в планы шадоков и,"sousedé, zchytřeni internetem,"
+"всякий раз, когда растение расцветает","kůlen s nářadím, obklíčili ho a"
+"выражениях: «Чем больше неудач, тем","ztráty, tím vyšší je šance, že to"
+"вычислили, что у них есть по крайней","výstřel jedna ku milionu, kdy vše"
+заработает… И они торопятся поскорее,těch prvních 999 999 fatálních přehmatů
+"и дает транзистор, они мчатся, чтобы","nyní pokaždé, když zahlédne čip, mu ho"
+"и не кончилось успехом». Или, в других",Neboli jinými slovy: „Čím vyšší
+"мере один шанс из миллиона, что она",konečně vyjde... tak rychle nasekejme
+миллионная заработает».,"I. I. Tlachálek, Průlomové rytmy"
+"ничего, что бы непрерывно продолжалось",jen dočasnou zálohou na slávu.“
+"но окружили его со всех сторон, и",nechali hosta vlézt do jedné ze svých
+"опытов, чтобы быть уверенными, что", 
+осуществить 999999 первых неудачных,aby mohlo následovat vítězství.»
+"очень умные благодаря своим шляпам,",k sousedům pro součástky.
+"планету гиби искать транзисторы. Гиби,",byl vyslán z močálů rovnou
+постоянно кончаясь неудачами.,poslušně přináší záporný růst.
+принципов шадокской логики: «Нет,"„Neexistuje pohroma, která by nebyla"
+"ракета еще несовершенна, но они","stánek, ale oni se křečovitě drží toho"
+"растений, произрастающих на огородах.",údajně těžit čipy přímo ze
+решили позабавиться. Они позволили,rychle prohlédli mazaný plán
+собрать урожай прежде шадока.,hned seberou zpátky.
+"терпят неудачу потому, что не хватает","rakety padají, protože mikročipů je"
+транзисторов в системах безопасности.,"nedostatek — jak v naváděcích systémech, tak v"
+"шадоку забраться в один из их огородов,",a rozhodli se trochu pobavit.
+«У шадоков ситуация удовлетворительна.,«U skřetů jde všechno podle plánu:
+"Испытания ракет продолжаются,","proces nulování úspěšně pokračuje,"
+Но у гиби транзисторы собирают с,toaletách. Mezitím
+Решено послать одного из шадоков на,zahradní techniky. Tak byl dobrovolník
+original,originální
+"SSID: {}, Пароль: {}","SSID: {}, Heslo: {}"
+Тип оборудования        : {},Typ vybavení      : {}
+TempC0               : {:04x},TempC0                  : {:04x}
+Уровень заряда батареи         : {},Úroveň nabití baterie      : {}
+URL для проверки обновлений,URL pro kontrolu aktualizací
+Установка с картриджа,Instalovat z cartridge
+Установка через DBIbackend,Instalovat přes DBIbackend
+Форсировать UTF-8,Vynutit UTF-8
+Хэш версии              : {},Hash verze        : {}
+Читать дату файлов,Číst datum souboru
+Экзосфера очищает CAL0      : {},Exosphere maže CAL0   : {}
+Экран                 : ({:08X}) {},Obrazovka                : ({:08X}) {}
+Язык                    : {},Jazyk             : {}
+"Интервал автобекапа сейвов, дни","Interval autozálohy uložení, dny"
+Конфигурация зарядки            : {},Konfigurace nabíjení         : {}
+Режим Hi-Z включён              : {},Režim Hi-Z povolen           : {}
+Зарядка батареи включена        : {},Nabíjení baterie povoleno    : {}
+Маршрут электропитания          : {},Cesta napájení               : {}
+Напряжение источника            : {} mV,Napětí zdroje                : {} mV
+Ток источника                   : {} mA,Proud zdroje                 : {} mA
+Быстрая зарядка разрешена       : {},Rychlé nabíjení povoleno     : {}
+Целевая прошивка            : {}.{}.{},Cílový firmware       : {}.{}.{}
+Поддерживаемая версия HOS   : {},Podporovaná verze HOS : {}
+Предел входного тока (буст)     : {} mA,Limit vstup. proudu (boost)  : {} mA
+Предел тока быстрой зарядки     : {} mA,Limit proudu rychlonabíjení  : {} mA
+Напряжение батареи              : {} mV,Napětí baterie               : {} mV
+Контроллер источника получен    : {},Zdrojový řadič získán        : {}
+OTG Запрошен                    : {},Požadováno OTG               : {}
+Производитель    : {:s} ({:02X}),Výrobce            : {:s} ({:02X})
+OEM ID           : {:s} ({:s}),OEM ID             : {:s} ({:s})
+Имя продукта     : {:s},Název produktu     : {:s}
+Ревизия продукта : {:s},Revize produktu    : {:s}
+Серийный номер   : {:s},Sériové číslo      : {:s}
+Ёмкость с завода   : {} mAh,Tovární kapacita    : {} mAh
+Автоповтор кнопок при удержании,Autoopakování při podržení tlačítka
+Версия атмосферы            : {}.{}.{},Verze Atmosphere      : {}.{}.{}
+Версия прошивки         : {}.{}.{}-{}.{},Verze firmwaru    : {}.{}.{}-{}.{}
+Возраст батареи                : {}%,Stáří baterie              : {}%
+Время гашения экрана в секундах,Čas ztlumení obrazovky v sekundách
+Выключать экран,Vypnout obrazovku
+Выход на рабочий стол,Ukončit na plochu Home
+Дата первого игрового события : {},Datum prvního hraní           : {}
+Добавлять суффикс к имени файла,Přidat příponu k názvu souboru
+Достаточное питание            : {},Dostatečné napájení          : {}
+Есть исправление RCM бага   : {},Má opravu RCM chyby   : {}
+Журналирование действий,Protokolování akcí
+Закладки на SD,Záložky SD
+Запись в CAL0 разрешена     : {},Zápis CAL0 povolen    : {}
+Запускать точку доступа,Spustit přístupový bod
+Запустить FTP сервер,Spustit FTP server
+Запустить HTTP сервер,Spustit HTTP server
+Заряд батареи                  : {}%,Nabití baterie             : {}%
+Заряд батареи (сырое значение) : {}%,Nabití baterie (surové)    : {}%
+Зарядка батареи                : {},Nabití baterie             : {}
+Инструменты,Nástroje
+Использовать 5 GHz,Použít 5 GHz
+Использовать MSG_WAITALL в recv,Použít MSG_WAITALL v recv
+Использовать для неё TitleID,Použít pro něj TitleID
+Использовать разгон,Použít přetaktování
+Использовать скрытый SSID,Použít skryté SSID
+Источник питания                : {},Zdroj napájení               : {}
+Курсор на обеих панелях,Kurzor na obou panelech
+%% заряд-разряд    : {},%% nabití-vybití    : {}
+Никнейм консоли         : {},Přezdívka konzole : {}
+Общее число игровых сессий    : {},Celkový počet herních relací  : {}
+Bluetooth MAC адрес   : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Bluetooth MAC adresa     : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+CDIR в листинге,CDIR ve výpisu
+Configuration Id1     : {},Konfigurace Id1          : {}
+DeviceId                : {0:} ({0:016X}),DeviceId          : {0:} ({0:016X})
+Папка для бекапа сохранений,Složka záloh uložených dat
+Папка для дампа игр,Složka dumpů her
+Папка журналов,Složka logů
+DramId                  : {} ({}),DramId            : {} ({})
+Пароль,Heslo
+Перевернуть джойконы,Prohodit Joy-Cony
+Перевернуть экран,Otočit obrazovku
+Emummc включён              : {},Emummc povoleno       : {}
+Переносить слова,Zalamovat slova
+Платформа               : {},Platforma         : {}
+FullCap              : {:04x} ({} mAh),FullCap                 : {:04x} ({} mAh)
+Подсвечивать файлы обновлений,Zvýraznit soubory aktualizací
+FullCapNom           : {:04x} ({} mAh),FullCapNom              : {:04x} ({} mAh)
+Показываемая версия     : {},Zobrazená verze   : {}
+Показываемое название   : {},Zobrazovaný název : {}
+Показывать 'Обновить отсюда',Zobrazit 'Aktualizovat odsud'
+Показывать объединённый NSP,Zobrazit sloučené NSP
+Показывать папку 'Mods&Cheats',Zobrazit složku 'Mods&Cheats'
+Показывать прогрев кеша,Zobrazit zahřívání mezipaměti
+Показывать размер LFS (долго),Zobrazit velikost LFS (pomalé)
+Показывать секунды,Zobrazit sekundy
+Показывать часы в статусе,Zobrazit hodiny ve stavu
+Поколение ключа             : {},Generace klíčů        : {}
+Git commit hash             : {:016X},Hash Git commitu      : {:016X}
+Полная ёмкость     : {} mAh,Plná kapacita       : {} mAh
+IavgEmpty            : {:04x},IavgEmpty               : {:04x}
+Пользовательские хранилища,Uživatelská úložiště
+Предел входного тока            : {} mA,Limit vstupního proudu       : {} mA
+Предназначение          : {},Účel              : {}
+Проверять хэш при установке,Ověřit hash při instalaci
+Просмотр SD карты,Procházet SD kartu
+Просмотр USB носителей,Procházet USB disky
+Просмотр раздела SYSTEM,Procházet oddíl SYSTEM
+Просмотр раздела USER,Procházet oddíl USER
+Просмотр сети,Procházet síť
+Просмотр сохранений,Zobrazit uložení
+Просмотр тикетов,Zobrazit tickety
+Просмотр установленных игр,Zobrazit nainstalované hry
+Регион                  : {},Region            : {}
+Режим HiZ зарядки       : {},Režim nabíjení HiZ: {}
+Режим киоска            : {},Kiosk režim       : {}
+Родительский PIN        : {},Rodičovský PIN    : {}
+Серийный # прочитанный  : {},Načtené sériové č.: {}
+Серийный # угаданный    : {},Odhadnuté sér. č. : {}
+Серийный номер        : {},Sériové číslo            : {}
+Силовая роль                    : {},Role napájení                : {}
+QrTable00            : {:04x},QrTable00               : {:04x}
+Смещать курсор после выделения,Posunout kurzor po výběru
+QrTable10            : {:04x},QrTable10               : {:04x}
+Сожжено предохранителей : {},Spálené pojistky  : {}
+Создавать LFS папку,Vytvořit složku LFS
+QrTable20            : {:04x},QrTable20               : {:04x}
+QrTable30            : {:04x},QrTable30               : {:04x}
+RCOMP0               : {:04x},RCOMP0                  : {:04x}
+Сохранения только в RO режиме,Uložení pouze v režimu RO
+RTC запущены (приблизительно) : {},RTC spuštěno (přibližně)      : {}
+Текущая ёмкость                 : {}%,Aktuální kapacita            : {}%
+Текущая ёмкость    : {} mAh,Aktuální kapacita   : {} mAh
+Текущее напряжение : {} mV,Aktuální napětí     : {} mV
+Текущий заряд      : {}%,Aktuální nabití     : {}%
+Текущий ток        : {} mA,Aktuální odběr      : {} mA
+Тема отображения,Motiv zobrazení
+Температура        : {}°C,Teplota             : {}°C
+Температура батареи             : {}°C,Teplota baterie              : {}°C
+Тип SoC                 : {},Typ SoC           : {}
+Тип источника питания          : {},Typ zdroje napájení        : {}
+Wireless LAN MAC адрес: {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},MAC adresa Wi-Fi         : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+Форсировано вклчение USB 3.0: {},Vynucené USB 3.0      : {}
+Возраст батареи                 : {}%,Stáří baterie                : {}%
+Предел напряжения заряда батареи: {} mV,Limit nabíjecího napětí bat. : {} mV
+Средняя температура: {}°C,Průměrná teplota    : {}°C
+Сумма %% заряд-разряд: {} (~{} 0-100 циклов),Součet %% nabití-vybití : {} (~{} cyklů 0-100)
+"          Париж, издательство Грассе.", 
+      Название: {}\n      Издатель: {}\n      Версия: ,      Název: {}\n      Vydavatel: {}\n      Verze: 
+Удаление игры ,Mazání hry 
+Удаляется бекап ,Mazání zálohy 
+Удалять после установки: ,Smazat po instalaci     :
+  Автоопределение,  Autodetekce
+Шифрование секции ,Šifrování sekce 
+Ярлык   : ,Zástupce   : 
+ {} минут, {} minut
+Язык    : ,Jazyk   : 
+Путь    : ,Cesta   : 
+  Жак Руксель. Великолепие навыворот.,Tisk Stát Bunkr «Za zrcadlem»
+  Кодировка...,  Kódování...
+  Применить,  Použít
+  Редактирование,  Úpravy
+ (по времени игры), (podle doby hraní)
+ (по названию игры), (podle názvu hry)
+ (по числу запусков), (podle počtu spuštění)
+     {:<10} Шифрование: {} Размер установки: {}{:>10},     {:<10} Šifrování: {} Vel. instalace: {}{:>10}
+ [НЕ МОГУ ОТКРЫТЬ ФАЙЛ], [NELZE OTEVŘÍT SOUBOR]
+Автозапуск FTP: ,Autospuštění FTP: 
+Автор   : ,Autor   : 
+ {:>5} часа, {:>5} hodiny
+Базовое хранилище: ,Základní úložiště: 
+ {:>5} часов, {:>5} hodin
+ВНИМАНИЕ ,VAROVÁNÍ 
+ВНИМАНИЕ! ,VAROVÁNÍ! 
+ {} в чёрном списке., {} na černé listině.
+Версия  : ,Verze   : 
+Внимание! ,Varování! 
+ {} минута, {} minuta
+ {} минуты, {} minuty
+Всего освобождено места : ,Celkem uvolněno místa: 
+    {:>2} сек,    {:>2} s
+ Закрытие игры, Ukončování hry
+Выйти из DBI           : ,Ukončit DBI             :
+Выключить экран        : ,Vypnout obrazovku       :
+ Запуск игры, Spustit hru
+ Логаут пользователя \x1b[36;1m{}\x1b[37;1m, Odhlašování uživatele \x1b[36;1m{}\x1b[37;1m
+ Логин пользователя \x1b[36;1m{}\x1b[37;1m, Uživatelské jméno \x1b[36;1m{}\x1b[37;1m
+ Переключение на игру, Přepínání na hru
+Загружено ,Načteno 
+ Режим работы изменился: {}, Provozní režim změněn: {}
+ Сброс системных часов, Resetovat systémové hodiny
+ Сворачивание игры, Minimalizovat hru
+Запрос на удаление ,Požadavek na smazání 
+ Состояние электропитания изменилось: {}, Stav napájení změněn: {}
+" и {} новое DLC,"," a {} nové DLC,"
+"    Великий колдун сказал, что ракеты","Jejich hlavní stratég prohlásil, že"
+" и {} новых DLC,"," a {} nových DLC,"
+Имя     : ,Název   : 
+ сортировка по дате создания, seřadit podle data vytvoření
+ сортировка по имени, seřadit podle názvu
+ сортировка по имени игры, seřadit podle názvu hry
+Используется ,Využito 
+ сортировка по месту установки, seřadit podle umístění instalace
+Конвертация в фейковые ,Převod na falešný 
+ сортировка по общему размеру, seřadit podle celkové velikosti
+ сортировка по пользователю, seřadit podle uživatele
+ сортировка по порядку игры, seřadit podle pořadí her
+Место установки        : ,Umístění instalace      :
+ сортировка по размеру, seřadit podle velikosti
+Название: ,Název: 
+    Дело здесь в одном из основных,Tajemství tkví v jejich hluboké logice:
+Начало установки. Место установки: ,Instalace zahájena. Umístění instalace: 
+Невозможно создать выходной zip-файл: ,Nelze vytvořit výstupní soubor zip: 
+Неиспользуемый тикет: ,Nepoužitý ticket: 
+   {:>3} мин,   {:>3} min
+Общий размер передачи  : ,Celková velikost přenosu:
+Общий размер установки : ,Celková velikost instal.:
+Ожидается ,Očekáváno 
+Ожидание включения интерфейса: ,Čekání na spuštění rozhraní: 
+Освобождено места в NAND: ,Uvolněno v NAND: 
+Освобождено места на SD : ,Uvolněno na SD : 
+   Получение списка бекапов...   ,   Načítání seznamu záloh...   
+DPAD/Стики - Навигация по страницам\n\n     ZR+ZL - Переход к странице... \n\n       L/R - Навигация по главам   \n\n       (-) - Эта подсказка         \n\n       (+) - Меню                  ,DPAD/Páčky - Pohyb po stránkách\n\n     ZR+ZL - Přejít na stránku... \n\n       L/R - Pohyb po kapitolách   \n\n       (-) - Tato nápověda         \n\n       (+) - Menu                  
+Ошибка чтения регистров max17050: ,Chyba čtení registrů max17050: 
+Ошибка чтения сохранённых параметров контроллера: ,Chyba čtení uložených parametrů řadiče: 
+   Получение списка бекапов...{}/{}    ,   Načítání seznamu záloh...{}/{}    
+Предупреждения: ,Varování: 
+"LFS мод.: Присутствует, Размер: ","LFS mod.: Přítomen, Velikost: "
+Пропускаем файл до начала secure раздела ,Přeskakování souboru na začátek zabezpečené sekce 
+Размер  : ,Velikost: 
+Сброс требуемой версии к ,Resetovat požadovanou verzi na 
+   Получение списка сохранений...   ,   Načítání seznamu uložení...   
+Скорость USB интерфейса: ,Rychlost rozhraní USB: 
+Создан zip-файл: ,Vytvořen soubor zip: 
+Создание бекапа сохранения ,Vytváření zálohy uložení 
+Создание каталога: ,Vytváření složky: 
+Создание объекта: ,Vytváření objektu: 
+Создание фейковой записи... ,Vytváření falešného záznamu... 
+Создаётся MTP хранилище: ,Vytváření MTP úložiště: 
+Статистика игры ,Statistiky hry 
+Строка поиска: ,Hledaný řetězec: 
+Не проверять место     : ,Nekontrolovat místo     :
+Проверять хеш-сумму NCA: ,Ověřit hash NCA         :
+Патчить имена (HOS 21+): ,Opravit názvy (HOS 21+) :
+Занулять мастерключ    : ,Resetovat masterkey     :
+Патчить запись видео   : ,Opravit záznam videa    :
+Патчить скриншоты      : ,Opravit snímky obrazovky:
+Игра использует SDK {},Hra používá SDK {}
+Удалить старые обновления игр,Smazat staré aktualizace her
+Удалить потерянный контент с SD,Smazat osiřelý obsah z SD
+Удалить потерянный контент из NAND,Smazat osiřelý obsah z NAND
+Удалить плейсхолдеры с SD,Smazat placeholdery z SD
+Удалить плейсхолдеры из NAND,Smazat placeholdery z NAND
+Удалить неиспользуемые тикеты,Smazat nepoužité tickety
+Починить тикеты с ошибками дампа,Opravit tickety s chybami dumpu
+Удалить скачанное обновление системы,Smazat staženou aktualizaci systému
+Очистить папку erpt_reports,Vyčistit složku erpt_reports
+Очистить кеш тикетов,Vyčistit mezipaměť ticketů
+Очистить /atmosphere/contents,Vyčistit /atmosphere/contents
+Удалить сохранения удалённых пользователей,Smazat uložení smazaných uživatelů
+Дата производства: {:s},Datum výroby       : {:s}
+Ник: {},Přezdívka: {}
+Установить обновления из текущей папки,Instalovat aktualizace z aktuální složky
+Патчить требование NNID: ,Opravit požadavek NNID  :
+Выполнить выбранные действия,Provést vybrané akce
+CID: {:s},CID                : {:s}
+TitleId : {} BID: {},TitleId : {} BID: {}
+"Meta SDK: {},  Program SDK: {}","Meta SDK: {},  Program SDK: {}"
+"Внимание!!! Включение следующих опций приведет к тому,","Varování!!! Povolením následujících možností se stane,"
+что установленные NCA файлы будут отличаться от исходных:,že nainstalované soubory NCA se budou lišit od originálů:
+Включение синхронизации времени по сети...,Zapínání síťové synchronizace času…
+ Да ,Ano 
+Нет , Ne 
+Это действие будет нельзя отменить,Tuto akci nelze vrátit zpět
+Да,Ano
+Произошла ошибка: ,Nastala chyba: 
+В файле /switch/prod.keys отсутствуют необходимые ключи.,V souboru /switch/prod.keys chybí požadované klíče.
+Часть функций программы будет недоступна.,Některé funkce programu nebudou dostupné.
+Перегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад,Restartujte do Hekate a použijte payload Lockpick_RCM.bin
+для дампа ключей из SysNAND.,pro dump klíčů ze SysNAND.
+Проверять хэш при установке    : ,Ověřit hash při instalaci: 
+Просмотр раздела USER          : ,Procházet oddíl USER           : 
+Тема отображения               : ,Motiv zobrazení              : 
+Температура    : {}$°$C,Teplota             : {}°C
+Температура     : {}$°$C,Teplota             : {}°C
+Температура      : {}$°$C,Teplota             : {}°C
+Температура       : {}$°$C,Teplota             : {}°C
+Температура        : {}$°$C,Teplota             : {}°C
+Температура         : {}$°$C,Teplota             : {}°C
+Температура          : {}$°$C,Teplota             : {}°C
+Температура           : {}$°$C,Teplota             : {}°C
+Температура            : {}$°$C,Teplota             : {}°C
+Температура             : {}$°$C,Teplota             : {}°C
+Температура              : {}$°$C,Teplota             : {}°C
+Срепняя температура: {}$°$C,Průměrná teplota    : {}°C
+Средняя температура: {}$°$C,Průměrná teplota    : {}°C
+Температура батареи        : {}$°$C,Teplota baterie              : {}°C
+Температура батареи         : {}$°$C,Teplota baterie              : {}°C
+Температура батареи          : {}$°$C,Teplota baterie              : {}°C
+Температура батареи           : {}$°$C,Teplota baterie              : {}°C
+Температура батареи            : {}$°$C,Teplota baterie              : {}°C
+Температура батареи             : {}$°$C,Teplota baterie              : {}°C
+Температура батареи              : {}$°$C,Teplota baterie              : {}°C
+Температура батареи               : {}$°$C,Teplota baterie              : {}°C
+Температура батареи                : {}$°$C,Teplota baterie              : {}°C
+Температура батареи                 : {}$°$C,Teplota baterie              : {}°C
+Температура батареи                  : {}$°$C,Teplota baterie              : {}°C
+Температура    : {}°C,Teplota             : {}°C
+Температура     : {}°C,Teplota             : {}°C
+Температура      : {}°C,Teplota             : {}°C
+Температура       : {}°C,Teplota             : {}°C
+Температура         : {}°C,Teplota             : {}°C
+Температура          : {}°C,Teplota             : {}°C
+Температура           : {}°C,Teplota             : {}°C
+Температура            : {}°C,Teplota             : {}°C
+Температура             : {}°C,Teplota             : {}°C
+Температура              : {}°C,Teplota             : {}°C
+Температура батареи        : {}°C,Teplota baterie              : {}°C
+Температура батареи         : {}°C,Teplota baterie              : {}°C
+Температура батареи          : {}°C,Teplota baterie              : {}°C
+Температура батареи           : {}°C,Teplota baterie              : {}°C
+Температура батареи            : {}°C,Teplota baterie              : {}°C
+Температура батареи              : {}°C,Teplota baterie              : {}°C
+Температура батареи               : {}°C,Teplota baterie              : {}°C
+Температура батареи                : {}°C,Teplota baterie              : {}°C
+Температура батареи                 : {}°C,Teplota baterie              : {}°C
+Температура батареи                  : {}°C,Teplota baterie              : {}°C
+Срепняя температура: {}°C,Průměrná teplota    : {}°C
+ Новый DLC , Nové DLC 
+Записано: ,Zapsáno: 
+Игра использует мастер-ключ ,Hra používá master key 
+Android extensions: ,Rozšíření Android: 
+ в чёрном списке., na černé listině.
+МБ/сек),MB/s)
+[32;1mУстановка игры завершена\x1b[37;1m,\x1b[32;1mInstalace hry dokončena\x1b[37;1m
+[32;1mТикет исправлен\x1b[37;1m,\x1b[32;1mTicket opraven\x1b[37;1m
+[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,[32;1m[PŘENOS OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m
+\x1b[31;1m[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,\x1b[31;1m[PŘENOS PŘERUŠEN]\x1b[37;1m
+[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PODPIS: Falešný]\x1b[37;1m
+[ПОДПИСЬ: OK]\x1b[37;1m,[PODPIS: OK]\x1b[37;1m
+[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[32;1m[PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK],[PŘENOS OK] [PODPIS: OK]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная],[PŘENOS OK] [PODPIS: Falešný]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP],[PŘENOS OK] [PODPIS: XCI➡NSP]
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI],[PŘENOS OK] [PODPIS: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK],[PŘENOS OK][PODPIS: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная],[PŘENOS OK][PODPIS: Falešný]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP],[PŘENOS OK][PODPIS: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI],[PŘENOS OK][PODPIS: DBI]
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK] \x1b[32;1m[PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK] \x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK] \x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK] \x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m \x1b[32;1m[PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m \x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m \x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m \x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m\x1b[32;1m[PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m\x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m\x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m\x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PODPIS: OK]\x1b[37;1m
+\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+[ПОДПИСЬ: DBI]\x1b[37;1m,[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m  \x1b[32;1m[PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]  \x1b[32;1m[PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m \x1b[32;1m[PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m  \x1b[32;1m[PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m\x1b[32;1m[PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK] \x1b[32;1m[PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK]  \x1b[32;1m[PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK]\x1b[32;1m[PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m [PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m  [PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m[PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK] [PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]  [PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,\x1b[32;1m[PŘENOS OK][PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m [PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m  [PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m[PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK] [PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK]  [PODPIS: OK]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: OK],[PŘENOS OK]  [PODPIS: OK]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: OK]\x1b[37;1m,[PŘENOS OK][PODPIS: OK]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m  \x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]  \x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m \x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m  \x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m\x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK] \x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK]  \x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[38;2;255;128;0m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK]\x1b[38;2;255;128;0m[PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m [PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m  [PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m[PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK] [PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]  [PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,\x1b[32;1m[PŘENOS OK][PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m [PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m  [PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m[PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK] [PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK]  [PODPIS: Falešný]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: Поддельная],[PŘENOS OK]  [PODPIS: Falešný]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: Поддельная]\x1b[37;1m,[PŘENOS OK][PODPIS: Falešný]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m  \x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]  \x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m \x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m  \x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m\x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK] \x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK]  \x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK]\x1b[32;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m [PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m  [PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK] [PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]  [PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,\x1b[32;1m[PŘENOS OK][PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m [PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m  [PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m[PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK] [PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK]  [PODPIS: XCI➡NSP]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: XCI➡NSP],[PŘENOS OK]  [PODPIS: XCI➡NSP]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: XCI➡NSP]\x1b[37;1m,[PŘENOS OK][PODPIS: XCI➡NSP]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m \x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m  \x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m\x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK] \x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]  \x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m \x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m  \x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m\x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK] \x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]  \x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m  \x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]  \x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m \x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m  \x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m\x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK] \x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  \x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]  \x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[32;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[32;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m [PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m  [PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]\x1b[37;1m[PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK] [PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK]  [PODPIS: DBI]\x1b[37;1m
+\x1b[32;1m[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[32;1m[PŘENOS OK][PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m [ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m [PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m  [ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m  [PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m[ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m[PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK] [ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK] [PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK]  [PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]  [ПОДПИСЬ: DBI],[PŘENOS OK]  [PODPIS: DBI]
+[ПЕРЕДАЧА OK][ПОДПИСЬ: DBI]\x1b[37;1m,[PŘENOS OK][PODPIS: DBI]\x1b[37;1m
+[ПЕРЕДАЧА OK]\x1b[37;1m,[PŘENOS OK]\x1b[37;1m
+[ПЕРЕДАЧА ПРЕРВАНА]\x1b[37;1m,[PŘENOS PŘERUŠEN]\x1b[37;1m
+\x1b[33;1m[ПОДПИСЬ: DBI]\x1b[37;1m,\x1b[33;1m[PODPIS: DBI]\x1b[37;1m
+"\x1b[1m{} R: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} Č: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1mprům {:>4.1f} (akt {:>5.2f})\x1b[37;1m MB/s, \x1b[35;1m{:02d}:{:02d} \x1b[37;1ms\x1b[1m"
+"\x1b[22m{} R: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m МБ,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m\x1b[22m МБ/сек, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22mсек\x1b[1m","\x1b[22m{} Č: {:>{}}/\x1b[36;1m\x1b[22m{:>{}}\x1b[37;1m\x1b[22m MB,\x1b[32;1m\x1b[22m{:>3}%, \x1b[33;1m\x1b[22mprům {:>4.1f} (akt {:>5.2f})\x1b[37;1m\x1b[22m MB/s, \x1b[35;1m\x1b[22m{:02d}:{:02d} \x1b[37;1m\x1b[22ms\x1b[1m"
+"\x1b[1m{} W: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m МБ,\x1b[32;1m{:>3}%, \x1b[33;1mср. {:>4.1f} (тек. {:>5.2f})\x1b[37;1m МБ/сек, \x1b[35;1m{:02d}:{:02d} \x1b[37;1mсек\x1b[1m","\x1b[1m{} Z: {:>{}}/\x1b[36;1m{:>{}}\x1b[37;1m MB,\x1b[32;1m{:>3}%, \x1b[33;1mprům {:>4.1f} (akt {:>5.2f})\x1b[37;1m MB/s, \x1b[35;1m{:02d}:{:02d} \x1b[37;1ms\x1b[1m"
+Тема...,Motiv...
+"2ая панель, (+) меню, L3 имя","2. panel, (+) Menu, L3 Název"
+Общее время игры      : {},Celková doba hraní : {}
+Общее время игры      : {} ({}),Celková doba hraní : {} ({})
+Адресное пространство,Adresní prostor
+Поиск старых плейсхолдеров на SD,Hledání starých placeholderů na SD
+Поиск старых плейсхолдеров в NAND,Hledání starých placeholderů v NAND
+\x1b[31;1mТайтл не установлен\x1b[37;1m,\x1b[31;1mTitul není nainstalován\x1b[37;1m
+\x1b[31;1mТайтл не установлен,\x1b[31;1mTitul není nainstalován
+Общее время игры      : - ({}),Celková doba hraní : - ({})
+              Общее время игры      : -,              Celková doba hraní : -
+              Начало игры           : -,              Spuštění hry       : -
+              Конец игры            : -,              Konec hry          : -
+[ОШИБКА]\x1b[37;1m,[CHYBA]\x1b[37;1m
+\x1b[31;1m[ОШИБКА]\x1b[37;1m,\x1b[31;1m[CHYBA]\x1b[37;1m
+\x1b[31;1m[ОШИБКА],\x1b[31;1m[CHYBA]
+Настроки создания ярлыков,Nastavení forwarderu
+Использовать 4 ядра CPU,Použít všechna 4 jádra CPU
+Захват видео,Záznam videa
+Скриншоты,Snímky obrazovky
+Запуск игры,Spustit hru
+Закрытие игры,Ukončování hry
+Сворачивание игры,Minimalizovat hru
+Переключение на игру,Přepínání na hru
+Добавить в исключения SaltyNX,Přidat do výjimek SaltyNX
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню, L3 имя","X vybrat, Y invertovat výběr, A otevřít, (-) 2. panel, (+) menu, L3 Název"
+\x1b[32;1mТайтл установлен\x1b[37;1m,\x1b[32;1mTitul nainstalován\x1b[37;1m
+\x1b[32;1mТайтл установлен,\x1b[32;1mTitul nainstalován
+Патчить версию в meta  : ,Opravit verzi v meta    :
